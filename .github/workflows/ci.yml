@@ -1,0 +1,34 @@
+name: ci
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Restore
+        run: dotnet restore SDP.sln
+
+      - name: Build
+        run: dotnet build SDP.sln --configuration Release --no-restore
+
+      - name: Unit tests
+        run: dotnet test tests/Unit/SDP.UnitTests.csproj --configuration Release --no-build
+
+      - name: Integration tests
+        run: dotnet test tests/Integration/SDP.IntegrationTests.csproj --configuration Release --no-build
+
+      - name: Format check
+        run: dotnet format SDP.sln --verify-no-changes

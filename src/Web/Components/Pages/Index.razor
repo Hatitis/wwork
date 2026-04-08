@@ -1,0 +1,421 @@
+@page "/"
+@rendermode InteractiveServer
+@implements IDisposable
+@using Microsoft.JSInterop
+@using SDP.Application.Dtos
+@using SDP.Domain.Entities
+@inject SDP.Web.Services.SdpApiClient ApiClient
+@inject IJSRuntime Js
+
+<PageTitle>System Design Playground</PageTitle>
+
+<div class="card">
+    <h2>Projects</h2>
+    <div class="grid-2">
+        <div>
+            <label>Project name</label>
+            <input @bind="newProjectName" />
+        </div>
+        <div>
+            <label>Description</label>
+            <input @bind="newProjectDescription" />
+        </div>
+    </div>
+    <button @onclick="CreateProjectAsync">Create project</button>
+    @if (!string.IsNullOrWhiteSpace(error))
+    {
+        <p class="muted">@error</p>
+    }
+
+    <table>
+        <thead>
+            <tr><th>Name</th><th>Description</th><th>Created</th><th></th></tr>
+        </thead>
+        <tbody>
+            @foreach (var project in projects)
+            {
+                <tr>
+                    <td>@project.Name</td>
+                    <td>@project.Description</td>
+                    <td>@project.CreatedAtUtc.ToString("yyyy-MM-dd")</td>
+                    <td><button class="secondary" @onclick="() => SelectProjectAsync(project.Id)">Open</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@if (selectedProjectId is not null)
+{
+    <div class="card">
+        <h2>Services</h2>
+        <div class="grid-3">
+            <div><label>Name</label><input @bind="serviceForm.Name" /></div>
+            <div><label>Type</label><select @bind="serviceForm.Type">@foreach (var t in Enum.GetValues<ServiceType>()){<option value="@t">@t</option>}</select></div>
+            <div><label>Capacity RPS</label><input type="number" step="0.1" @bind="serviceForm.CapacityRps" /></div>
+            <div><label>Base latency (ms)</label><input type="number" @bind="serviceForm.BaseLatencyMs" /></div>
+            <div><label>Error rate %</label><input type="number" step="0.1" @bind="serviceForm.ErrorRatePct" /></div>
+            <div><label>Key endpoints (comma separated)</label><input @bind="serviceForm.KeyEndpointsCsv" /></div>
+        </div>
+        <label>Responsibility</label>
+        <textarea @bind="serviceForm.Responsibility"></textarea>
+        <button @onclick="CreateServiceAsync">Add service</button>
+
+        <table>
+            <thead><tr><th>Name</th><th>Type</th><th>Capacity</th><th>Latency</th></tr></thead>
+            <tbody>
+                @foreach (var item in services)
+                {
+                    <tr><td>@item.Name</td><td>@item.Type</td><td>@item.CapacityRps</td><td>@item.BaseLatencyMs ms</td></tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>Dependencies</h2>
+        <div class="grid-3">
+            <div>
+                <label>From service</label>
+                <select @bind="linkForm.FromServiceId">
+                    <option value="@Guid.Empty">Select</option>
+                    @foreach (var s in services) { <option value="@s.Id">@s.Name</option> }
+                </select>
+            </div>
+            <div>
+                <label>To service</label>
+                <select @bind="linkForm.ToServiceId">
+                    <option value="@Guid.Empty">Select</option>
+                    @foreach (var s in services) { <option value="@s.Id">@s.Name</option> }
+                </select>
+            </div>
+            <div>
+                <label>Link latency (ms)</label>
+                <input type="number" @bind="linkForm.LinkLatencyMs" />
+            </div>
+        </div>
+        <button @onclick="CreateLinkAsync">Add link</button>
+        <table>
+            <thead><tr><th>From</th><th>To</th><th>Latency</th></tr></thead>
+            <tbody>
+                @foreach (var link in links)
+                {
+                    <tr>
+                        <td>@NameOf(link.FromServiceId)</td>
+                        <td>@NameOf(link.ToServiceId)</td>
+                        <td>@link.LinkLatencyMs ms</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>Traffic Scenarios</h2>
+        <div class="grid-3">
+            <div><label>Name</label><input @bind="scenarioForm.Name" /></div>
+            <div><label>Entry service</label>
+                <select @bind="scenarioForm.EntryServiceId">
+                    <option value="@Guid.Empty">Select</option>
+                    @foreach (var s in services) { <option value="@s.Id">@s.Name</option> }
+                </select>
+            </div>
+            <div><label>Incoming RPS</label><input type="number" step="0.1" @bind="scenarioForm.IncomingRps" /></div>
+        </div>
+        <label>Description</label><input @bind="scenarioForm.Description" />
+        <button @onclick="CreateScenarioAsync">Add scenario</button>
+
+        <table>
+            <thead><tr><th>Name</th><th>Entry</th><th>RPS</th><th></th></tr></thead>
+            <tbody>
+                @foreach (var scenario in scenarios)
+                {
+                    <tr>
+                        <td>@scenario.Name</td>
+                        <td>@NameOf(scenario.EntryServiceId)</td>
+                        <td>@scenario.IncomingRps</td>
+                        <td><button class="warn" @onclick="() => RunSimulationAsync(scenario.Id)">Simulate</button></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>Graph Editor</h2>
+        <p class="muted">Drag nodes to update visual layout. Positions are saved when you release the node.</p>
+        <div class="graph-wrap" id="graph-canvas">
+            @foreach (var node in services)
+            {
+                var isBottleneck = lastSimulation?.ServiceResults.Any(x => x.ServiceId == node.Id && x.IsBottleneck) == true;
+                <div id="node-@node.Id"
+                     class="graph-node @(isBottleneck ? "bottleneck" : string.Empty)"
+                     style="left:@(node.CanvasX)px; top:@(node.CanvasY)px;">
+                    <strong>@node.Name</strong>
+                    <div class="muted">@node.Type</div>
+                </div>
+            }
+        </div>
+    </div>
+
+    @if (lastSimulation is not null)
+    {
+        <div class="card">
+            <h2>Simulation Results</h2>
+            @if (lastSimulation.Warnings.Count > 0)
+            {
+                <ul>
+                    @foreach (var warning in lastSimulation.Warnings)
+                    {
+                        <li>@warning</li>
+                    }
+                </ul>
+            }
+            <h3>Service metrics</h3>
+            <table>
+                <thead><tr><th>Service</th><th>Incoming RPS</th><th>Utilization</th><th>Bottleneck</th><th>Est. Latency</th></tr></thead>
+                <tbody>
+                    @foreach (var serviceResult in lastSimulation.ServiceResults)
+                    {
+                        <tr>
+                            <td>@serviceResult.ServiceName</td>
+                            <td>@serviceResult.IncomingRps</td>
+                            <td>@serviceResult.Utilization</td>
+                            <td>@(serviceResult.IsBottleneck ? "YES" : "No")</td>
+                            <td>@serviceResult.EstimatedLatencyMs ms</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+            <h3>Path latency</h3>
+            <table>
+                <thead><tr><th>Path</th><th>Total latency</th><th>Bottlenecks</th></tr></thead>
+                <tbody>
+                    @foreach (var path in lastSimulation.PathResults)
+                    {
+                        <tr>
+                            <td>@string.Join(" -> ", path.PathNames)</td>
+                            <td>@path.TotalLatencyMs ms</td>
+                            <td>@string.Join(", ", path.BottleneckServices.Select(NameOf))</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+}
+
+@code {
+    private readonly CancellationTokenSource _cts = new();
+    private DotNetObjectReference<Index>? _dotNetRef;
+
+    private List<ProjectDto> projects = [];
+    private Guid? selectedProjectId;
+    private List<ServiceNodeDto> services = [];
+    private List<ServiceLinkDto> links = [];
+    private List<TrafficScenarioDto> scenarios = [];
+    private SimulationResultDto? lastSimulation;
+    private string error = string.Empty;
+
+    private string newProjectName = "";
+    private string newProjectDescription = "";
+
+    private ServiceFormModel serviceForm = new();
+    private LinkFormModel linkForm = new();
+    private ScenarioFormModel scenarioForm = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        _dotNetRef = DotNetObjectReference.Create(this);
+        await LoadProjectsAsync();
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (selectedProjectId is null || _dotNetRef is null)
+        {
+            return;
+        }
+
+        foreach (var node in services)
+        {
+            await Js.InvokeVoidAsync("sdpGraph.makeDraggableById", $"node-{node.Id}", _dotNetRef, node.Id.ToString());
+        }
+    }
+
+    private async Task LoadProjectsAsync()
+    {
+        projects = (await ApiClient.GetProjectsAsync(_cts.Token)).ToList();
+    }
+
+    private async Task CreateProjectAsync()
+    {
+        error = string.Empty;
+        try
+        {
+            await ApiClient.CreateProjectAsync(new UpsertProjectRequest(newProjectName, newProjectDescription), _cts.Token);
+            newProjectName = string.Empty;
+            newProjectDescription = string.Empty;
+            await LoadProjectsAsync();
+        }
+        catch (Exception ex)
+        {
+            error = ex.Message;
+        }
+    }
+
+    private async Task SelectProjectAsync(Guid projectId)
+    {
+        selectedProjectId = projectId;
+        await RefreshProjectDataAsync();
+    }
+
+    private async Task RefreshProjectDataAsync()
+    {
+        if (selectedProjectId is null)
+        {
+            return;
+        }
+
+        services = (await ApiClient.GetServicesAsync(selectedProjectId.Value, _cts.Token)).ToList();
+        links = (await ApiClient.GetLinksAsync(selectedProjectId.Value, _cts.Token)).ToList();
+        scenarios = (await ApiClient.GetScenariosAsync(selectedProjectId.Value, _cts.Token)).ToList();
+        StateHasChanged();
+    }
+
+    private async Task CreateServiceAsync()
+    {
+        if (selectedProjectId is null)
+        {
+            return;
+        }
+
+        var request = new UpsertServiceNodeRequest(
+            serviceForm.Name,
+            serviceForm.Type,
+            serviceForm.BaseLatencyMs,
+            serviceForm.CapacityRps,
+            serviceForm.ErrorRatePct,
+            serviceForm.Responsibility,
+            serviceForm.KeyEndpointsCsv.Split(',', StringSplitOptions.TrimEntries | StringSplitOptions.RemoveEmptyEntries),
+            serviceForm.CanvasX,
+            serviceForm.CanvasY);
+
+        await ApiClient.CreateServiceAsync(selectedProjectId.Value, request, _cts.Token);
+        serviceForm = new ServiceFormModel();
+        await RefreshProjectDataAsync();
+    }
+
+    private async Task CreateLinkAsync()
+    {
+        if (selectedProjectId is null)
+        {
+            return;
+        }
+
+        await ApiClient.CreateLinkAsync(
+            selectedProjectId.Value,
+            new UpsertServiceLinkRequest(linkForm.FromServiceId, linkForm.ToServiceId, linkForm.LinkLatencyMs),
+            _cts.Token);
+
+        linkForm = new LinkFormModel();
+        await RefreshProjectDataAsync();
+    }
+
+    private async Task CreateScenarioAsync()
+    {
+        if (selectedProjectId is null)
+        {
+            return;
+        }
+
+        await ApiClient.CreateScenarioAsync(
+            selectedProjectId.Value,
+            new UpsertTrafficScenarioRequest(
+                scenarioForm.Name,
+                scenarioForm.Description,
+                scenarioForm.EntryServiceId,
+                scenarioForm.IncomingRps),
+            _cts.Token);
+
+        scenarioForm = new ScenarioFormModel();
+        await RefreshProjectDataAsync();
+    }
+
+    private async Task RunSimulationAsync(Guid scenarioId)
+    {
+        lastSimulation = await ApiClient.SimulateAsync(scenarioId, _cts.Token);
+        StateHasChanged();
+    }
+
+    [JSInvokable]
+    public async Task OnNodeDragged(string serviceId, double posX, double posY)
+    {
+        if (selectedProjectId is null || !Guid.TryParse(serviceId, out var parsedServiceId))
+        {
+            return;
+        }
+
+        var service = services.FirstOrDefault(node => node.Id == parsedServiceId);
+        if (service is null)
+        {
+            return;
+        }
+
+        await ApiClient.UpdateServiceAsync(
+            selectedProjectId.Value,
+            service.Id,
+            new UpsertServiceNodeRequest(
+                service.Name,
+                service.Type,
+                service.BaseLatencyMs,
+                service.CapacityRps,
+                service.ErrorRatePct,
+                service.Responsibility,
+                service.KeyEndpoints,
+                posX,
+                posY),
+            _cts.Token);
+
+        await RefreshProjectDataAsync();
+    }
+
+    private string NameOf(Guid id)
+        => services.FirstOrDefault(x => x.Id == id)?.Name ?? id.ToString();
+
+    public void Dispose()
+    {
+        _cts.Cancel();
+        _cts.Dispose();
+        _dotNetRef?.Dispose();
+    }
+
+    private sealed class ServiceFormModel
+    {
+        public string Name { get; set; } = string.Empty;
+        public ServiceType Type { get; set; } = ServiceType.Api;
+        public int BaseLatencyMs { get; set; } = 10;
+        public double CapacityRps { get; set; } = 100;
+        public double ErrorRatePct { get; set; }
+        public string Responsibility { get; set; } = string.Empty;
+        public string KeyEndpointsCsv { get; set; } = string.Empty;
+        public double CanvasX { get; set; } = 40;
+        public double CanvasY { get; set; } = 40;
+    }
+
+    private sealed class LinkFormModel
+    {
+        public Guid FromServiceId { get; set; }
+        public Guid ToServiceId { get; set; }
+        public int LinkLatencyMs { get; set; } = 5;
+    }
+
+    private sealed class ScenarioFormModel
+    {
+        public string Name { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
+        public Guid EntryServiceId { get; set; }
+        public double IncomingRps { get; set; } = 100;
+    }
+}

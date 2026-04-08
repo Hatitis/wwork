@@ -1,0 +1,19 @@
+[
+  {
+    "id": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
+    "url": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
+    "title": "Skøn 3-værelses lejlighed i København NV",
+    "address": "",
+    "locationText": "",
+    "floor": "Stuen",
+    "rooms": 3,
+    "sizeM2": 64,
+    "monthlyPriceDkk": 10266,
+    "status": "Reserveret",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-10600&p=sj%C3%A6lland&types=apartment",
+    "firstSeenAt": "2026-03-23T20:19:10.331Z",
+    "lastSeenAt": "2026-04-08T08:18:04.690Z",
+    "rawText": "ReserveretSkøn 3-værelses lejlighed i København NVVestergårdsvej 2, st., tv, 2400 København NVStuen3 vær.64 m²10.266 kr./md"
+  }
+]

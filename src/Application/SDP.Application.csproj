@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>SDP.Application</AssemblyName>
+    <RootNamespace>SDP.Application</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../Domain/SDP.Domain.csproj" />
+  </ItemGroup>
+</Project>

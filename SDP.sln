@@ -1,0 +1,57 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP.Domain", "src\\Domain\\SDP.Domain.csproj", "{7CB4A5DF-2B4A-45EA-BF21-57C6C5C05051}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP.Application", "src\\Application\\SDP.Application.csproj", "{8AE1AB0A-CA2E-48A3-8E31-1A355CF3BEF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP.Infrastructure", "src\\Infrastructure\\SDP.Infrastructure.csproj", "{8F086A6A-7B4D-4C3E-8019-8A13DB3DE032}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP.Api", "src\\Api\\SDP.Api.csproj", "{D9EAF115-E8CE-4F8C-9A00-5782CC0F32D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP.Web", "src\\Web\\SDP.Web.csproj", "{A5B752C4-9F4E-4966-9B2D-EA2D50154193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP.UnitTests", "tests\\Unit\\SDP.UnitTests.csproj", "{B50D3E0C-66B3-4EFE-92DC-0EBE615E7110}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDP.IntegrationTests", "tests\\Integration\\SDP.IntegrationTests.csproj", "{5DD9F8DA-16FA-4B38-B770-93BE8BA4D65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB4A5DF-2B4A-45EA-BF21-57C6C5C05051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB4A5DF-2B4A-45EA-BF21-57C6C5C05051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB4A5DF-2B4A-45EA-BF21-57C6C5C05051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB4A5DF-2B4A-45EA-BF21-57C6C5C05051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE1AB0A-CA2E-48A3-8E31-1A355CF3BEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE1AB0A-CA2E-48A3-8E31-1A355CF3BEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE1AB0A-CA2E-48A3-8E31-1A355CF3BEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE1AB0A-CA2E-48A3-8E31-1A355CF3BEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F086A6A-7B4D-4C3E-8019-8A13DB3DE032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F086A6A-7B4D-4C3E-8019-8A13DB3DE032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F086A6A-7B4D-4C3E-8019-8A13DB3DE032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F086A6A-7B4D-4C3E-8019-8A13DB3DE032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9EAF115-E8CE-4F8C-9A00-5782CC0F32D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9EAF115-E8CE-4F8C-9A00-5782CC0F32D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9EAF115-E8CE-4F8C-9A00-5782CC0F32D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9EAF115-E8CE-4F8C-9A00-5782CC0F32D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5B752C4-9F4E-4966-9B2D-EA2D50154193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B752C4-9F4E-4966-9B2D-EA2D50154193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B752C4-9F4E-4966-9B2D-EA2D50154193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B752C4-9F4E-4966-9B2D-EA2D50154193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50D3E0C-66B3-4EFE-92DC-0EBE615E7110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50D3E0C-66B3-4EFE-92DC-0EBE615E7110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50D3E0C-66B3-4EFE-92DC-0EBE615E7110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50D3E0C-66B3-4EFE-92DC-0EBE615E7110}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DD9F8DA-16FA-4B38-B770-93BE8BA4D65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD9F8DA-16FA-4B38-B770-93BE8BA4D65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DD9F8DA-16FA-4B38-B770-93BE8BA4D65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD9F8DA-16FA-4B38-B770-93BE8BA4D65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

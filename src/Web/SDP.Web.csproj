@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <AssemblyName>SDP.Web</AssemblyName>
+    <RootNamespace>SDP.Web</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../Application/SDP.Application.csproj" />
+    <ProjectReference Include="../Domain/SDP.Domain.csproj" />
+  </ItemGroup>
+</Project>
