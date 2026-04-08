@@ -1,7 +1,7 @@
 import { config } from './config.js';
 import { diffListings } from './agents/diffAgent.js';
 import { fetchSearchPage } from './agents/fetchAgent.js';
-import { notifyEvents } from './agents/notifyAgent.js';
+import { maybeSendHeartbeat, notifyEvents } from './agents/notifyAgent.js';
 import { parseListings } from './agents/parseAgent.js';
 import { eventArraySchema } from './models/eventSchema.js';
 import { listingArraySchema } from './models/listingSchema.js';
@@ -33,7 +33,9 @@ export async function runTracker() {
       lastParseAt: null,
       lastError: null,
       consecutiveFailures: 0,
-      lastSnapshotCount: 0
+      lastSnapshotCount: 0,
+      lastHeartbeatLocalDate: null,
+      lastHeartbeatSentAt: null
     })
   ]);
 
@@ -108,6 +110,15 @@ export async function runTracker() {
     occurredAt: startedAt
   });
 
+  const heartbeatState = await maybeSendHeartbeat({
+    startedAt,
+    previousState: state,
+    listingsCount: mergedListings.length,
+    discord: config.discord,
+    heartbeat: config.heartbeat,
+    logger
+  });
+
   await Promise.all([
     writeJson(config.snapshotPath, mergedListings),
     writeJson(config.historyPath, [...history, ...events]),
@@ -120,7 +131,8 @@ export async function runTracker() {
       searchUrl: config.searchUrl,
       lastError: null,
       consecutiveFailures: 0,
-      lastSnapshotCount: mergedListings.length
+      lastSnapshotCount: mergedListings.length,
+      ...heartbeatState
     })
   ]);
 

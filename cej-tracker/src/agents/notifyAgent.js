@@ -52,3 +52,59 @@ export async function notifyEvents(options) {
     options.logger.warn(`Discord notification failed: ${/** @type {Error} */ (error).message}`);
   }
 }
+
+/**
+ * @param {string} isoTimestamp
+ * @param {string} timeZone
+ * @returns {{ localDate: string, localHour: number }}
+ */
+function getLocalDateParts(isoTimestamp, timeZone) {
+  const formatter = new Intl.DateTimeFormat('en-CA', {
+    timeZone,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    hour12: false
+  });
+  const parts = Object.fromEntries(formatter.formatToParts(new Date(isoTimestamp)).map((part) => [part.type, part.value]));
+  return {
+    localDate: `${parts.year}-${parts.month}-${parts.day}`,
+    localHour: Number.parseInt(parts.hour, 10)
+  };
+}
+
+/**
+ * @param {{ startedAt: string, previousState: Record<string, unknown>, listingsCount: number, discord: { webhookUrl: string, username: string, avatarUrl: string, mentionUserId: string, mentionRoleId: string }, heartbeat: { enabled: boolean, hourLocal: number, timezone: string }, logger: { info: Function, warn: Function } }} options
+ * @returns {Promise<{ lastHeartbeatLocalDate?: string, lastHeartbeatSentAt?: string }>}
+ */
+export async function maybeSendHeartbeat(options) {
+  if (!options.heartbeat.enabled || !isDiscordConfigured(options.discord)) {
+    return {};
+  }
+
+  const { localDate, localHour } = getLocalDateParts(options.startedAt, options.heartbeat.timezone);
+  if (localHour !== options.heartbeat.hourLocal) {
+    return {};
+  }
+
+  if (options.previousState.lastHeartbeatLocalDate === localDate) {
+    return {};
+  }
+
+  try {
+    await sendDiscordMessage({
+      discord: options.discord,
+      title: 'Morning heartbeat',
+      text: `Tracker healthy.\nLocal date: ${localDate}\nCurrent listings: ${options.listingsCount}\nLast success: ${options.startedAt}`
+    });
+    options.logger.info(`Morning heartbeat sent for ${localDate}.`);
+    return {
+      lastHeartbeatLocalDate: localDate,
+      lastHeartbeatSentAt: options.startedAt
+    };
+  } catch (error) {
+    options.logger.warn(`Heartbeat notification failed: ${/** @type {Error} */ (error).message}`);
+    return {};
+  }
+}

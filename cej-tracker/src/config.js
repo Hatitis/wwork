@@ -67,6 +67,11 @@ export const config = {
   logLevel: process.env.LOG_LEVEL ?? 'info',
   webPort: Number.parseInt(process.env.CEJ_WEB_PORT ?? '8787', 10),
   publicSiteUrl: process.env.CEJ_PUBLIC_SITE_URL ?? '',
+  heartbeat: {
+    enabled: (process.env.CEJ_HEARTBEAT_ENABLED ?? 'true').toLowerCase() === 'true',
+    hourLocal: Number.parseInt(process.env.CEJ_HEARTBEAT_HOUR_LOCAL ?? '8', 10),
+    timezone: process.env.CEJ_HEARTBEAT_TIMEZONE ?? 'Europe/Copenhagen'
+  },
   discord: {
     webhookUrl: process.env.CEJ_DISCORD_WEBHOOK_URL ?? '',
     username: process.env.CEJ_DISCORD_USERNAME ?? 'CEJ Tracker',

@@ -45,6 +45,12 @@ npm install
   Local dashboard port. Default: `8787`
 - `CEJ_PUBLIC_SITE_URL`:
   Optional public URL for the hosted dashboard. Used by the static Pages build.
+- `CEJ_HEARTBEAT_ENABLED`:
+  Enable a once-per-morning Discord heartbeat. Default: `true`
+- `CEJ_HEARTBEAT_HOUR_LOCAL`:
+  Local hour for the heartbeat in the configured timezone. Default: `8`
+- `CEJ_HEARTBEAT_TIMEZONE`:
+  Heartbeat timezone. Default: `Europe/Copenhagen`
 
 ## Run
 
@@ -123,6 +129,9 @@ Repository setup:
    - `CEJ_DISCORD_USERNAME`
    - `CEJ_DISCORD_AVATAR_URL`
    - `CEJ_PUBLIC_SITE_URL`
+   - `CEJ_HEARTBEAT_ENABLED`
+   - `CEJ_HEARTBEAT_HOUR_LOCAL`
+   - `CEJ_HEARTBEAT_TIMEZONE`
 5. In `Settings` -> `Pages`, set the source to `GitHub Actions`
 6. Run the `cej-tracker` workflow once manually from the Actions tab
 
@@ -131,6 +140,7 @@ After that:
 - the workflow will run roughly every 5 minutes
 - Discord notifications will come from GitHub-hosted runs
 - the dashboard will be published on GitHub Pages
+- you will get a once-per-morning heartbeat in Discord, by default at 08:00 Europe/Copenhagen
 - the site URL will usually be `https://<your-github-username>.github.io/<your-repository-name>/`
 
 Notes:
