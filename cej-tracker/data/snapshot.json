@@ -1,5 +1,22 @@
 [
   {
+    "id": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "url": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "title": "Charmerende 1-værelses bolig ved Rungsted Havn!",
+    "address": "",
+    "locationText": "",
+    "floor": "Stuen",
+    "rooms": 1,
+    "sizeM2": 39,
+    "monthlyPriceDkk": 5850,
+    "status": "ACTIVE",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-10600&p=sj%C3%A6lland&types=apartment",
+    "firstSeenAt": "2026-04-08T11:05:27.402Z",
+    "lastSeenAt": "2026-04-08T11:05:27.402Z",
+    "rawText": "Charmerende 1-værelses bolig ved Rungsted Havn! Rungstedvej 96, st., 2960 Rungsted KystStuen1 vær.39 m²5.850 kr./md"
+  },
+  {
     "id": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
     "url": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
     "title": "Skøn 3-værelses lejlighed i København NV",
@@ -13,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-10600&p=sj%C3%A6lland&types=apartment",
     "firstSeenAt": "2026-03-23T20:19:10.331Z",
-    "lastSeenAt": "2026-04-08T08:18:04.690Z",
+    "lastSeenAt": "2026-04-08T11:05:27.402Z",
     "rawText": "ReserveretSkøn 3-værelses lejlighed i København NVVestergårdsvej 2, st., tv, 2400 København NVStuen3 vær.64 m²10.266 kr./md"
   }
 ]

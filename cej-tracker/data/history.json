@@ -370,5 +370,33 @@
       "rawText": "Moderne bolig på Amagerbro! Uplandsgade 6B, 4., 415, 2300 København S4. sal1 vær.40 m²9.500 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "listingUrl": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "occurredAt": "2026-04-08T11:05:27.402Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-10600&p=sj%C3%A6lland&types=apartment",
+    "title": "Charmerende 1-værelses bolig ved Rungsted Havn!",
+    "summary": "New listing: Charmerende 1-værelses bolig ved Rungsted Havn!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+      "url": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+      "title": "Charmerende 1-værelses bolig ved Rungsted Havn!",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 39,
+      "monthlyPriceDkk": 5850,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-10600&p=sj%C3%A6lland&types=apartment",
+      "firstSeenAt": "2026-04-08T11:05:27.402Z",
+      "lastSeenAt": "2026-04-08T11:05:27.402Z",
+      "rawText": "Charmerende 1-værelses bolig ved Rungsted Havn! Rungstedvej 96, st., 2960 Rungsted KystStuen1 vær.39 m²5.850 kr./md"
+    }
   }
 ]
