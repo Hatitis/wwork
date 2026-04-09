@@ -1,12 +1,12 @@
 {
-  "lastRunAt": "2026-04-08T11:05:27.402Z",
-  "lastSuccessAt": "2026-04-08T11:05:27.402Z",
-  "lastFetchAt": "2026-04-08T11:05:27.417Z",
-  "lastParseAt": "2026-04-08T11:05:27.402Z",
+  "lastRunAt": "2026-04-09T08:23:49.220Z",
+  "lastSuccessAt": "2026-04-09T08:23:49.220Z",
+  "lastFetchAt": "2026-04-09T08:23:49.236Z",
+  "lastParseAt": "2026-04-09T08:23:49.220Z",
   "lastError": null,
   "consecutiveFailures": 0,
   "lastSnapshotCount": 2,
-  "lastHeartbeatLocalDate": null,
-  "lastHeartbeatSentAt": null,
+  "lastHeartbeatLocalDate": "2026-04-09",
+  "lastHeartbeatSentAt": "2026-04-09T06:57:48.308Z",
   "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-10600&p=sj%C3%A6lland&types=apartment"
 }
