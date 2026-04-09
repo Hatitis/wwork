@@ -160,6 +160,10 @@ export function renderPage(listings, events, state) {
         padding: 2px 6px;
         border-radius: 8px;
       }
+      .small-note {
+        font-size: 0.92rem;
+        color: var(--muted);
+      }
       @media (max-width: 920px) {
         .layout { grid-template-columns: 1fr; }
         .shell { width: min(100% - 20px, 1180px); }
@@ -177,17 +181,18 @@ export function renderPage(listings, events, state) {
             ? `<p class="subtle">Public site: <a href="${escapeHtml(publicSiteUrl)}" target="_blank" rel="noreferrer"><code>${escapeHtml(publicSiteUrl)}</code></a></p>`
             : ''
         }
+        <p class="small-note">This dashboard auto-refreshes from the published JSON about once a minute.</p>
         <div class="stats">
-          <div class="stat"><span class="subtle">Current listings</span><strong>${listings.length}</strong></div>
-          <div class="stat"><span class="subtle">Events logged</span><strong>${events.length}</strong></div>
-          <div class="stat"><span class="subtle">Last success</span><strong>${escapeHtml(formatTimestamp(/** @type {string | null | undefined} */ (state.lastSuccessAt)))}</strong></div>
-          <div class="stat"><span class="subtle">Failures in a row</span><strong>${escapeHtml(String(state.consecutiveFailures ?? 0))}</strong></div>
+          <div class="stat"><span class="subtle">Current listings</span><strong id="current-listings-count">${listings.length}</strong></div>
+          <div class="stat"><span class="subtle">Events logged</span><strong id="events-logged-count">${events.length}</strong></div>
+          <div class="stat"><span class="subtle">Last success</span><strong id="last-success-value">${escapeHtml(formatTimestamp(/** @type {string | null | undefined} */ (state.lastSuccessAt)))}</strong></div>
+          <div class="stat"><span class="subtle">Failures in a row</span><strong id="failures-in-row-value">${escapeHtml(String(state.consecutiveFailures ?? 0))}</strong></div>
         </div>
       </section>
       <section class="layout">
         <section class="panel">
           <h2>Current Listings</h2>
-          <div class="listing-grid">
+          <div class="listing-grid" id="listings-container">
             ${listings
               .map(
                 (listing) => `<article class="listing">
@@ -212,12 +217,12 @@ export function renderPage(listings, events, state) {
         </section>
         <aside class="panel">
           <h2>Status and Recent Changes</h2>
-          <p class="subtle">Statusfordeling: ${escapeHtml(
+          <p class="subtle" id="status-summary">Statusfordeling: ${escapeHtml(
             Object.entries(statusCounts)
               .map(([status, count]) => `${status} ${count}`)
               .join(' · ') || 'Ingen'
           )}</p>
-          <div class="event-list" style="margin-top: 16px;">
+          <div class="event-list" id="events-container" style="margin-top: 16px;">
             ${latestEvents
               .map(
                 (event) => `<article class="event">
@@ -236,6 +241,108 @@ export function renderPage(listings, events, state) {
         </aside>
       </section>
     </main>
+    <script>
+      const formatters = {
+        timestamp(value) {
+          if (!value) return 'Aldrig';
+          return new Intl.DateTimeFormat('da-DK', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(value));
+        },
+        price(value) {
+          if (typeof value !== 'number') return 'ukendt pris';
+          return new Intl.NumberFormat('da-DK').format(value) + ' kr./md';
+        },
+        eventType(value) {
+          return {
+            LISTING_NEW: 'Ny',
+            LISTING_REMOVED: 'Fjernet',
+            STATUS_CHANGED: 'Status',
+            PRICE_CHANGED: 'Pris',
+            DETAILS_CHANGED: 'Detaljer'
+          }[value] || value;
+        }
+      };
+
+      function escapeHtmlClient(value) {
+        return String(value)
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;')
+          .replaceAll('"', '&quot;')
+          .replaceAll("'", '&#39;');
+      }
+
+      function renderListings(listings) {
+        return listings.map((listing) => \`<article class="listing">
+          <div class="listing-top">
+            <div>
+              <h3><a href="\${escapeHtmlClient(listing.url)}" target="_blank" rel="noreferrer">\${escapeHtmlClient(listing.title)}</a></h3>
+              <p class="subtle">\${escapeHtmlClient(listing.address || listing.locationText || 'Ukendt adresse')}</p>
+            </div>
+            <div class="price">\${escapeHtmlClient(formatters.price(listing.monthlyPriceDkk))}</div>
+          </div>
+          <div class="listing-meta">
+            <span class="badge">\${escapeHtmlClient(listing.status)}</span>
+            <span>\${escapeHtmlClient(String(listing.rooms ?? '?'))} vær.</span>
+            <span>\${escapeHtmlClient(String(listing.sizeM2 ?? '?'))} m2</span>
+            <span>\${escapeHtmlClient(listing.floor ?? 'Ukendt etage')}</span>
+            <span>Først set \${escapeHtmlClient(formatters.timestamp(listing.firstSeenAt))}</span>
+          </div>
+        </article>\`).join('');
+      }
+
+      function renderEvents(events) {
+        return events.slice().reverse().slice(0, 30).map((event) => \`<article class="event">
+          <div class="event-top">
+            <strong>\${escapeHtmlClient(formatters.eventType(event.type))}</strong>
+            <span class="subtle">\${escapeHtmlClient(formatters.timestamp(event.occurredAt))}</span>
+          </div>
+          <p style="margin-top: 6px;">\${escapeHtmlClient(event.title || event.summary)}</p>
+          <div class="event-meta">
+            <span>\${escapeHtmlClient(event.summary)}</span>
+          </div>
+        </article>\`).join('');
+      }
+
+      function renderStatusSummary(listings) {
+        const counts = listings.reduce((acc, listing) => {
+          acc[listing.status] = (acc[listing.status] || 0) + 1;
+          return acc;
+        }, {});
+        const text = Object.entries(counts).map(([status, count]) => \`\${status} \${count}\`).join(' · ') || 'Ingen';
+        return 'Statusfordeling: ' + text;
+      }
+
+      async function refreshDashboardData() {
+        const stamp = Date.now();
+        const [snapshotResponse, historyResponse, stateResponse] = await Promise.all([
+          fetch(\`data/snapshot.json?ts=\${stamp}\`, { cache: 'no-store' }),
+          fetch(\`data/history.json?ts=\${stamp}\`, { cache: 'no-store' }),
+          fetch(\`data/state.json?ts=\${stamp}\`, { cache: 'no-store' })
+        ]);
+
+        if (!snapshotResponse.ok || !historyResponse.ok || !stateResponse.ok) {
+          return;
+        }
+
+        const [snapshot, history, state] = await Promise.all([
+          snapshotResponse.json(),
+          historyResponse.json(),
+          stateResponse.json()
+        ]);
+
+        document.getElementById('current-listings-count').textContent = String(snapshot.length);
+        document.getElementById('events-logged-count').textContent = String(history.length);
+        document.getElementById('last-success-value').textContent = formatters.timestamp(state.lastSuccessAt);
+        document.getElementById('failures-in-row-value').textContent = String(state.consecutiveFailures ?? 0);
+        document.getElementById('status-summary').textContent = renderStatusSummary(snapshot);
+        document.getElementById('listings-container').innerHTML = renderListings(snapshot);
+        document.getElementById('events-container').innerHTML = renderEvents(history);
+      }
+
+      setInterval(() => {
+        refreshDashboardData().catch(() => {});
+      }, 60000);
+    </script>
   </body>
 </html>`;
 }
