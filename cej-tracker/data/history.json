@@ -398,5 +398,61 @@
       "lastSeenAt": "2026-04-08T11:05:27.402Z",
       "rawText": "Charmerende 1-værelses bolig ved Rungsted Havn! Rungstedvej 96, st., 2960 Rungsted KystStuen1 vær.39 m²5.850 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/a10da5e090e44c449ce1e2f5ad4c2a82",
+    "listingUrl": "https://udlejning.cej.dk/boliger/a10da5e090e44c449ce1e2f5ad4c2a82",
+    "occurredAt": "2026-04-12T11:27:34.313Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 2-værelses lejlighed på Amagerbro",
+    "summary": "New listing: Flot 2-værelses lejlighed på Amagerbro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/a10da5e090e44c449ce1e2f5ad4c2a82",
+      "url": "https://udlejning.cej.dk/boliger/a10da5e090e44c449ce1e2f5ad4c2a82",
+      "title": "Flot 2-værelses lejlighed på Amagerbro",
+      "address": "",
+      "locationText": "",
+      "floor": "5. sal",
+      "rooms": 2,
+      "sizeM2": 47,
+      "monthlyPriceDkk": 11600,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-12T11:27:34.313Z",
+      "lastSeenAt": "2026-04-12T11:27:34.313Z",
+      "rawText": "Lukket for henvendelserFlot 2-værelses lejlighed på AmagerbroUplandsgade 6B, 5., 510, 2300 København S5. sal2 vær.47 m²11.600 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+    "occurredAt": "2026-04-12T11:27:34.313Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Familievenlig 3-Værelses lejlighed i Ballerup",
+    "summary": "New listing: Familievenlig 3-Værelses lejlighed i Ballerup",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+      "url": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+      "title": "Familievenlig 3-Værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 3,
+      "sizeM2": 80,
+      "monthlyPriceDkk": 11750,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-12T11:27:34.313Z",
+      "lastSeenAt": "2026-04-12T11:27:34.313Z",
+      "rawText": "Lukket for henvendelserFamilievenlig 3-Værelses lejlighed i BallerupLautruphøj 3L, 1., tv, 2750 Ballerup1. sal3 vær.80 m²11.750 kr./md"
+    }
   }
 ]
