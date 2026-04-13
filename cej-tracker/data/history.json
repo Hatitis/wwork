@@ -454,5 +454,33 @@
       "lastSeenAt": "2026-04-12T11:27:34.313Z",
       "rawText": "Lukket for henvendelserFamilievenlig 3-Værelses lejlighed i BallerupLautruphøj 3L, 1., tv, 2750 Ballerup1. sal3 vær.80 m²11.750 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+    "listingUrl": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+    "occurredAt": "2026-04-13T08:22:04.136Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Attraktiv 2-værelses lejlighed på Elmegade",
+    "summary": "New listing: Attraktiv 2-værelses lejlighed på Elmegade",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+      "url": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+      "title": "Attraktiv 2-værelses lejlighed på Elmegade",
+      "address": "",
+      "locationText": "",
+      "floor": "5. sal",
+      "rooms": 2,
+      "sizeM2": 70,
+      "monthlyPriceDkk": 11600,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-13T08:22:04.136Z",
+      "lastSeenAt": "2026-04-13T08:22:04.136Z",
+      "rawText": "Lukket for henvendelserAttraktiv 2-værelses lejlighed på ElmegadeElmegade 18, 5., tv, 2200 København N5. sal2 vær.70 m²11.600 kr./md"
+    }
   }
 ]
