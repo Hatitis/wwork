@@ -510,5 +510,21 @@
       "rawText": "ReserveretSkøn 3-værelses lejlighed i København NVVestergårdsvej 2, st., tv, 2400 København NVStuen3 vær.64 m²10.266 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+    "listingUrl": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+    "occurredAt": "2026-04-14T10:23:50.807Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Attraktiv 2-værelses lejlighed på Elmegade",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
