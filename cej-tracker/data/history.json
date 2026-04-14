@@ -526,5 +526,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/774c81fdc570b1acfd209a9ed3b0ec34",
+    "listingUrl": "https://udlejning.cej.dk/boliger/774c81fdc570b1acfd209a9ed3b0ec34",
+    "occurredAt": "2026-04-14T11:37:22.048Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed på Sigurdsgade",
+    "summary": "New listing: Skøn 1-værelses lejlighed på Sigurdsgade",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/774c81fdc570b1acfd209a9ed3b0ec34",
+      "url": "https://udlejning.cej.dk/boliger/774c81fdc570b1acfd209a9ed3b0ec34",
+      "title": "Skøn 1-værelses lejlighed på Sigurdsgade",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 31,
+      "monthlyPriceDkk": 8225,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-14T11:37:22.048Z",
+      "lastSeenAt": "2026-04-14T11:37:22.048Z",
+      "rawText": "Skøn 1-værelses lejlighed på SigurdsgadeSigurdsgade 27, 4., 7, 2200 København N4. sal1 vær.31 m²8.225 kr./md"
+    }
   }
 ]
