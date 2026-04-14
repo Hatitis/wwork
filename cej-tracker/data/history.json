@@ -482,5 +482,33 @@
       "lastSeenAt": "2026-04-13T08:22:04.136Z",
       "rawText": "Lukket for henvendelserAttraktiv 2-værelses lejlighed på ElmegadeElmegade 18, 5., tv, 2200 København N5. sal2 vær.70 m²11.600 kr./md"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
+    "occurredAt": "2026-04-14T07:21:41.416Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i København NV",
+    "summary": "Listing removed: Skøn 3-værelses lejlighed i København NV",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
+      "url": "https://udlejning.cej.dk/boliger/6b9edc143dccd47fb73045081d626c2c",
+      "title": "Skøn 3-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 3,
+      "sizeM2": 64,
+      "monthlyPriceDkk": 10266,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-03-23T20:19:10.331Z",
+      "lastSeenAt": "2026-04-14T05:51:33.103Z",
+      "rawText": "ReserveretSkøn 3-værelses lejlighed i København NVVestergårdsvej 2, st., tv, 2400 København NVStuen3 vær.64 m²10.266 kr./md"
+    },
+    "current": {}
   }
 ]
