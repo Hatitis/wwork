@@ -586,5 +586,61 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+    "occurredAt": "2026-04-15T08:59:57.860Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "New listing: 1-værelses studiebolig på Teglholmen",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+      "url": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+      "title": "1-værelses studiebolig på Teglholmen",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 37,
+      "monthlyPriceDkk": 7100,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-15T08:59:57.860Z",
+      "lastSeenAt": "2026-04-15T08:59:57.860Z",
+      "rawText": "1-værelses studiebolig på TeglholmenStøberigade 8, 2., 9, 2450 København SV2. sal1 vær.37 m²7.100 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+    "listingUrl": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+    "occurredAt": "2026-04-15T08:59:57.860Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "New listing: 1-værelses lejlighed i København NV",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+      "url": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+      "title": "1-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 42,
+      "monthlyPriceDkk": 5811,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-15T08:59:57.860Z",
+      "lastSeenAt": "2026-04-15T08:59:57.860Z",
+      "rawText": "Lukket for henvendelser1-værelses lejlighed i København NVFrederiksborgvej 97, st., tv, 2400 København NVStuen1 vær.42 m²5.811 kr./md"
+    }
   }
 ]
