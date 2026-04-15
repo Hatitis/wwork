@@ -570,5 +570,21 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+    "occurredAt": "2026-04-15T07:21:57.136Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Familievenlig 3-Værelses lejlighed i Ballerup",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
