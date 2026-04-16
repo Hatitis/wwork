@@ -642,5 +642,21 @@
       "lastSeenAt": "2026-04-15T08:59:57.860Z",
       "rawText": "Lukket for henvendelser1-værelses lejlighed i København NVFrederiksborgvej 97, st., tv, 2400 København NVStuen1 vær.42 m²5.811 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "listingUrl": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "occurredAt": "2026-04-16T11:35:50.466Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 1-værelses bolig ved Rungsted Havn!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
