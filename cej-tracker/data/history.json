@@ -658,5 +658,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+    "occurredAt": "2026-04-17T07:53:44.456Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Familievenlig 3-Værelses lejlighed i Ballerup",
+    "summary": "Listing removed: Familievenlig 3-Værelses lejlighed i Ballerup",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+      "url": "https://udlejning.cej.dk/boliger/ee4ebb8a74534215ab320a7b5747f276",
+      "title": "Familievenlig 3-Værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 3,
+      "sizeM2": 80,
+      "monthlyPriceDkk": 11750,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-12T11:27:34.313Z",
+      "lastSeenAt": "2026-04-17T05:55:11.346Z",
+      "rawText": "ReserveretFamilievenlig 3-Værelses lejlighed i BallerupLautruphøj 3L, 1., tv, 2750 Ballerup1. sal3 vær.80 m²11.750 kr./md"
+    },
+    "current": {}
   }
 ]
