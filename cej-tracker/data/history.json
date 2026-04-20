@@ -758,5 +758,33 @@
       "rawText": "ReserveretAttraktiv 2-værelses lejlighed på ElmegadeElmegade 18, 5., tv, 2200 København N5. sal2 vær.70 m²11.600 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+    "occurredAt": "2026-04-20T12:56:28.553Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses lejlighed på Nørrebro",
+    "summary": "New listing: Charmerende 2-værelses lejlighed på Nørrebro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+      "url": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+      "title": "Charmerende 2-værelses lejlighed på Nørrebro",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 54,
+      "monthlyPriceDkk": 7097,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-20T12:56:28.553Z",
+      "lastSeenAt": "2026-04-20T12:56:28.553Z",
+      "rawText": "Lukket for henvendelserCharmerende 2-værelses lejlighed på NørrebroPeter Fabers Gade 40, st., th, 2200 København NStuen2 vær.54 m²7.097 kr./md"
+    }
   }
 ]
