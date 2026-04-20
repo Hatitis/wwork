@@ -714,5 +714,49 @@
       "lastSeenAt": "2026-04-17T11:35:09.876Z",
       "rawText": "1-værelses studiebolig på TeglholmenStøberigade 8, 1., 46, 2450 København SV1. sal1 vær.34 m²6.700 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+    "listingUrl": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+    "occurredAt": "2026-04-20T11:47:31.548Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+    "listingUrl": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+    "occurredAt": "2026-04-20T11:47:31.548Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Attraktiv 2-værelses lejlighed på Elmegade",
+    "summary": "Listing removed: Attraktiv 2-værelses lejlighed på Elmegade",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+      "url": "https://udlejning.cej.dk/boliger/192fe200d07b2459f6bdf72e5cba28ff",
+      "title": "Attraktiv 2-værelses lejlighed på Elmegade",
+      "address": "",
+      "locationText": "",
+      "floor": "5. sal",
+      "rooms": 2,
+      "sizeM2": 70,
+      "monthlyPriceDkk": 11600,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-13T08:22:04.136Z",
+      "lastSeenAt": "2026-04-20T10:18:05.356Z",
+      "rawText": "ReserveretAttraktiv 2-værelses lejlighed på ElmegadeElmegade 18, 5., tv, 2200 København N5. sal2 vær.70 m²11.600 kr./md"
+    },
+    "current": {}
   }
 ]
