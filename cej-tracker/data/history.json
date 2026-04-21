@@ -814,5 +814,37 @@
       "lastSeenAt": "2026-04-21T07:43:55.610Z",
       "rawText": "Skøn 3-værelses lejlighed i BallerupLautruphøj 3G, 3., th, 2750 Ballerup3. sal3 vær.80 m²11.800 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
+    "occurredAt": "2026-04-21T11:49:37.276Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+    "occurredAt": "2026-04-21T11:49:37.276Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
