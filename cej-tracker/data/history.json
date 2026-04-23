@@ -906,5 +906,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+    "occurredAt": "2026-04-23T10:51:48.560Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og rummelig 2-værelses lejlighed på Frederiksborgvej",
+    "summary": "New listing: Lys og rummelig 2-værelses lejlighed på Frederiksborgvej",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+      "url": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+      "title": "Lys og rummelig 2-værelses lejlighed på Frederiksborgvej",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 58,
+      "monthlyPriceDkk": 7811,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-23T10:51:48.560Z",
+      "lastSeenAt": "2026-04-23T10:51:48.560Z",
+      "rawText": "Lukket for henvendelserLys og rummelig 2-værelses lejlighed på Frederiksborgvej Frederiksborgvej 91, 1., tv, 2400 København NV1. sal2 vær.58 m²7.811 kr./md"
+    }
   }
 ]
