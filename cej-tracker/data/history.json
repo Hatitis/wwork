@@ -862,5 +862,49 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/9e669c7924bd47218f86a7556eb0ce1d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/9e669c7924bd47218f86a7556eb0ce1d",
+    "occurredAt": "2026-04-23T07:51:43.608Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Moderne 2-værelses lejlighed i Ballerup",
+    "summary": "New listing: Moderne 2-værelses lejlighed i Ballerup",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/9e669c7924bd47218f86a7556eb0ce1d",
+      "url": "https://udlejning.cej.dk/boliger/9e669c7924bd47218f86a7556eb0ce1d",
+      "title": "Moderne 2-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 58,
+      "monthlyPriceDkk": 11680,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-23T07:51:43.608Z",
+      "lastSeenAt": "2026-04-23T07:51:43.608Z",
+      "rawText": "Moderne 2-værelses lejlighed i BallerupFjerkløvervej 17, 1., 2, 2750 Ballerup1. sal2 vær.58 m²11.680 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+    "listingUrl": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+    "occurredAt": "2026-04-23T07:51:43.608Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
