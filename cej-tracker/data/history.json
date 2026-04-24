@@ -934,5 +934,33 @@
       "lastSeenAt": "2026-04-23T10:51:48.560Z",
       "rawText": "Lukket for henvendelserLys og rummelig 2-værelses lejlighed på Frederiksborgvej Frederiksborgvej 91, 1., tv, 2400 København NV1. sal2 vær.58 m²7.811 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+    "listingUrl": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+    "occurredAt": "2026-04-24T07:30:11.895Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses lejlighed på Sølvgade",
+    "summary": "New listing: Charmerende 2-værelses lejlighed på Sølvgade",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+      "url": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+      "title": "Charmerende 2-værelses lejlighed på Sølvgade",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 66,
+      "monthlyPriceDkk": 10073,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-24T07:30:11.895Z",
+      "lastSeenAt": "2026-04-24T07:30:11.895Z",
+      "rawText": "Charmerende 2-værelses lejlighed på SølvgadeSølvgade 38, 1., tv, 1307 København K1. sal2 vær.66 m²10.073 kr./md"
+    }
   }
 ]
