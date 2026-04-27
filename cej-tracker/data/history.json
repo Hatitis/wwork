@@ -1006,5 +1006,61 @@
       "rawText": "Lukket for henvendelserFlot 2-værelses lejlighed på AmagerbroUplandsgade 6B, 5., 510, 2300 København S5. sal2 vær.47 m²11.600 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+    "occurredAt": "2026-04-27T11:16:50.785Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses lejlighed på Nørrebro",
+    "summary": "Listing removed: Charmerende 2-værelses lejlighed på Nørrebro",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+      "url": "https://udlejning.cej.dk/boliger/2b46adf1e42f5a09169441de217be8d3",
+      "title": "Charmerende 2-værelses lejlighed på Nørrebro",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 54,
+      "monthlyPriceDkk": 7097,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-20T12:56:28.553Z",
+      "lastSeenAt": "2026-04-27T09:07:28.885Z",
+      "rawText": "ReserveretCharmerende 2-værelses lejlighed på NørrebroPeter Fabers Gade 40, st., th, 2200 København NStuen2 vær.54 m²7.097 kr./md"
+    },
+    "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+    "listingUrl": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+    "occurredAt": "2026-04-27T11:16:50.785Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "Listing removed: 1-værelses lejlighed i København NV",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+      "url": "https://udlejning.cej.dk/boliger/659f24c13dcd247505acab7c1631aabe",
+      "title": "1-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 42,
+      "monthlyPriceDkk": 5811,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-15T08:59:57.860Z",
+      "lastSeenAt": "2026-04-27T09:07:28.885Z",
+      "rawText": "Reserveret1-værelses lejlighed i København NVFrederiksborgvej 97, st., tv, 2400 København NVStuen1 vær.42 m²5.811 kr./md"
+    },
+    "current": {}
   }
 ]
