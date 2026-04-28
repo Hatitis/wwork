@@ -1062,5 +1062,21 @@
       "rawText": "Reserveret1-værelses lejlighed i København NVFrederiksborgvej 97, st., tv, 2400 København NVStuen1 vær.42 m²5.811 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+    "listingUrl": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+    "occurredAt": "2026-04-28T09:57:42.916Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses lejlighed på Sølvgade",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
