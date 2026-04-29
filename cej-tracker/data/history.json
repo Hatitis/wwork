@@ -1106,5 +1106,21 @@
       "rawText": "Lukket for henvendelserSkøn 1-værelses lejlighed på SigurdsgadeSigurdsgade 27, 4., 7, 2200 København N4. sal1 vær.31 m²8.225 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+    "occurredAt": "2026-04-29T08:59:03.736Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og rummelig 2-værelses lejlighed på Frederiksborgvej",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
