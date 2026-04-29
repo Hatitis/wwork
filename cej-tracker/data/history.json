@@ -1122,5 +1122,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/880ae4c015f07ccd6fa1486c7ec7c60d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/880ae4c015f07ccd6fa1486c7ec7c60d",
+    "occurredAt": "2026-04-29T11:02:07.499Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed på Frederiksberg",
+    "summary": "New listing: Skøn 2-værelses lejlighed på Frederiksberg",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/880ae4c015f07ccd6fa1486c7ec7c60d",
+      "url": "https://udlejning.cej.dk/boliger/880ae4c015f07ccd6fa1486c7ec7c60d",
+      "title": "Skøn 2-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 50,
+      "monthlyPriceDkk": 7887,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-29T11:02:07.499Z",
+      "lastSeenAt": "2026-04-29T11:02:07.499Z",
+      "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, 2., th, 2000 Frederiksberg2. sal2 vær.50 m²7.887 kr./md"
+    }
   }
 ]
