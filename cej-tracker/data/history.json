@@ -1150,5 +1150,21 @@
       "lastSeenAt": "2026-04-29T11:02:07.499Z",
       "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, 2., th, 2000 Frederiksberg2. sal2 vær.50 m²7.887 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+    "listingUrl": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+    "occurredAt": "2026-04-30T07:25:29.728Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
