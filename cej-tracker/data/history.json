@@ -1166,5 +1166,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+    "listingUrl": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+    "occurredAt": "2026-05-01T07:38:04.319Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses lejlighed på Sølvgade",
+    "summary": "Listing removed: Charmerende 2-værelses lejlighed på Sølvgade",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+      "url": "https://udlejning.cej.dk/boliger/858a34aa8388b569cf6098ff80650058",
+      "title": "Charmerende 2-værelses lejlighed på Sølvgade",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 66,
+      "monthlyPriceDkk": 10073,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-24T07:30:11.895Z",
+      "lastSeenAt": "2026-05-01T05:11:08.482Z",
+      "rawText": "ReserveretCharmerende 2-værelses lejlighed på SølvgadeSølvgade 38, 1., tv, 1307 København K1. sal2 vær.66 m²10.073 kr./md"
+    },
+    "current": {}
   }
 ]
