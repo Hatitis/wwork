@@ -1210,5 +1210,61 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+    "occurredAt": "2026-05-04T15:16:16.354Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og rummelig 2-værelses lejlighed på Frederiksborgvej",
+    "summary": "Listing removed: Lys og rummelig 2-værelses lejlighed på Frederiksborgvej",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+      "url": "https://udlejning.cej.dk/boliger/b804d00439954c41aa9db789b75bd435",
+      "title": "Lys og rummelig 2-værelses lejlighed på Frederiksborgvej",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 58,
+      "monthlyPriceDkk": 7811,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-23T10:51:48.560Z",
+      "lastSeenAt": "2026-05-04T13:00:27.072Z",
+      "rawText": "ReserveretLys og rummelig 2-værelses lejlighed på Frederiksborgvej Frederiksborgvej 91, 1., tv, 2400 København NV1. sal2 vær.58 m²7.811 kr./md"
+    },
+    "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+    "listingUrl": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+    "occurredAt": "2026-05-04T15:16:16.354Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "summary": "Listing removed: Skøn 3-værelses lejlighed i Ballerup",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+      "url": "https://udlejning.cej.dk/boliger/4e300b82d5b645f9addc73982c40a433",
+      "title": "Skøn 3-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 3,
+      "sizeM2": 80,
+      "monthlyPriceDkk": 11800,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-21T07:43:55.610Z",
+      "lastSeenAt": "2026-05-04T13:00:27.072Z",
+      "rawText": "ReserveretSkøn 3-værelses lejlighed i BallerupLautruphøj 3G, 3., th, 2750 Ballerup3. sal3 vær.80 m²11.800 kr./md"
+    },
+    "current": {}
   }
 ]
