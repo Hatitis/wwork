@@ -1194,5 +1194,21 @@
       "rawText": "ReserveretCharmerende 2-værelses lejlighed på SølvgadeSølvgade 38, 1., tv, 1307 København K1. sal2 vær.66 m²10.073 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/9e669c7924bd47218f86a7556eb0ce1d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/9e669c7924bd47218f86a7556eb0ce1d",
+    "occurredAt": "2026-05-04T06:48:41.658Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Moderne 2-værelses lejlighed i Ballerup",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
