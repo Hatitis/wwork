@@ -13,7 +13,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-04-29T11:02:07.499Z",
-    "lastSeenAt": "2026-05-05T06:36:11.264Z",
+    "lastSeenAt": "2026-05-05T08:59:09.394Z",
     "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, 2., th, 2000 Frederiksberg2. sal2 vær.50 m²7.887 kr./md"
   },
   {
@@ -30,25 +30,8 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-04-17T11:35:09.876Z",
-    "lastSeenAt": "2026-05-05T06:36:11.264Z",
+    "lastSeenAt": "2026-05-05T08:59:09.394Z",
     "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 1., 46, 2450 København SV1. sal1 vær.34 m²6.700 kr./md"
-  },
-  {
-    "id": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
-    "url": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
-    "title": "1-værelses studiebolig på Teglholmen",
-    "address": "",
-    "locationText": "",
-    "floor": "2. sal",
-    "rooms": 1,
-    "sizeM2": 37,
-    "monthlyPriceDkk": 7100,
-    "status": "Reserveret",
-    "source": "cej",
-    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
-    "firstSeenAt": "2026-04-15T08:59:57.860Z",
-    "lastSeenAt": "2026-05-05T06:36:11.264Z",
-    "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 2., 9, 2450 København SV2. sal1 vær.37 m²7.100 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
@@ -64,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-04-08T11:05:27.402Z",
-    "lastSeenAt": "2026-05-05T06:36:11.264Z",
+    "lastSeenAt": "2026-05-05T08:59:09.394Z",
     "rawText": "ReserveretCharmerende 1-værelses bolig ved Rungsted Havn! Rungstedvej 96, st., 2960 Rungsted KystStuen1 vær.39 m²5.850 kr./md"
   }
 ]

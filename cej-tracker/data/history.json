@@ -1294,5 +1294,33 @@
       "rawText": "ReserveretModerne 2-værelses lejlighed i BallerupFjerkløvervej 17, 1., 2, 2750 Ballerup1. sal2 vær.58 m²11.680 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+    "occurredAt": "2026-05-05T08:59:09.394Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "Listing removed: 1-værelses studiebolig på Teglholmen",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+      "url": "https://udlejning.cej.dk/boliger/833d771a3077459fb682a425b4a6aaf3",
+      "title": "1-værelses studiebolig på Teglholmen",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 37,
+      "monthlyPriceDkk": 7100,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-15T08:59:57.860Z",
+      "lastSeenAt": "2026-05-05T06:36:11.264Z",
+      "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 2., 9, 2450 København SV2. sal1 vær.37 m²7.100 kr./md"
+    },
+    "current": {}
   }
 ]
