@@ -1322,5 +1322,21 @@
       "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 2., 9, 2450 København SV2. sal1 vær.37 m²7.100 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/880ae4c015f07ccd6fa1486c7ec7c60d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/880ae4c015f07ccd6fa1486c7ec7c60d",
+    "occurredAt": "2026-05-06T09:57:53.994Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed på Frederiksberg",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
