@@ -1338,5 +1338,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/b9d3c21fcd5143dc9092ef07958bb0f2",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b9d3c21fcd5143dc9092ef07958bb0f2",
+    "occurredAt": "2026-05-06T11:57:34.705Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 2-værelses lejlighed på Amagerbro",
+    "summary": "New listing: Flot 2-værelses lejlighed på Amagerbro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/b9d3c21fcd5143dc9092ef07958bb0f2",
+      "url": "https://udlejning.cej.dk/boliger/b9d3c21fcd5143dc9092ef07958bb0f2",
+      "title": "Flot 2-værelses lejlighed på Amagerbro",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 47,
+      "monthlyPriceDkk": 11600,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-06T11:57:34.705Z",
+      "lastSeenAt": "2026-05-06T11:57:34.705Z",
+      "rawText": "Flot 2-værelses lejlighed på AmagerbroUplandsgade 6B, 2., 211, 2300 København S2. sal2 vær.47 m²11.600 kr./md"
+    }
   }
 ]
