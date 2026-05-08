@@ -1450,5 +1450,33 @@
       "rawText": "ReserveretSkøn 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, 2., th, 2000 Frederiksberg2. sal2 vær.50 m²7.887 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+    "occurredAt": "2026-05-08T08:04:07.946Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "charmerende og lys 2-værelses lejlighed på Frederiksberg",
+    "summary": "New listing: charmerende og lys 2-værelses lejlighed på Frederiksberg",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+      "url": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+      "title": "charmerende og lys 2-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 50,
+      "monthlyPriceDkk": 7857,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-08T08:04:07.946Z",
+      "lastSeenAt": "2026-05-08T08:04:07.946Z",
+      "rawText": "charmerende og lys 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, st., th, 2000 FrederiksbergStuen2 vær.50 m²7.857 kr./md"
+    }
   }
 ]
