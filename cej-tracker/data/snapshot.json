@@ -13,7 +13,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-08T08:04:07.946Z",
-    "lastSeenAt": "2026-05-11T05:36:54.210Z",
+    "lastSeenAt": "2026-05-11T08:46:13.107Z",
     "rawText": "Lukket for henvendelsercharmerende og lys 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, st., th, 2000 FrederiksbergStuen2 vær.50 m²7.857 kr./md"
   },
   {
@@ -30,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-07T09:21:41.435Z",
-    "lastSeenAt": "2026-05-11T05:36:54.210Z",
+    "lastSeenAt": "2026-05-11T08:46:13.107Z",
     "rawText": "Dejlig 2-værelses lejlighed nær Vestamager Mestro st.Robert Jacobsens Vej 65, 7., 702, 2300 København S7. sal2 vær.56 m²12.000 kr./md"
   },
   {
@@ -47,25 +47,8 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-07T09:21:41.435Z",
-    "lastSeenAt": "2026-05-11T05:36:54.210Z",
+    "lastSeenAt": "2026-05-11T08:46:13.107Z",
     "rawText": "1-værelses studiebolig i SydhavnenStøberigade 8, 3., 47, 2450 København SV3. sal1 vær.34 m²6.775 kr./md"
-  },
-  {
-    "id": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
-    "url": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
-    "title": "1-værelses studiebolig på Teglholmen",
-    "address": "",
-    "locationText": "",
-    "floor": "1. sal",
-    "rooms": 1,
-    "sizeM2": 34,
-    "monthlyPriceDkk": 6700,
-    "status": "Reserveret",
-    "source": "cej",
-    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
-    "firstSeenAt": "2026-04-17T11:35:09.876Z",
-    "lastSeenAt": "2026-05-11T05:36:54.210Z",
-    "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 1., 46, 2450 København SV1. sal1 vær.34 m²6.700 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
@@ -81,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-04-08T11:05:27.402Z",
-    "lastSeenAt": "2026-05-11T05:36:54.210Z",
+    "lastSeenAt": "2026-05-11T08:46:13.107Z",
     "rawText": "ReserveretCharmerende 1-værelses bolig ved Rungsted Havn! Rungstedvej 96, st., 2960 Rungsted KystStuen1 vær.39 m²5.850 kr./md"
   }
 ]

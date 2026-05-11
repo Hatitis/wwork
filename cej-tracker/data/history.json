@@ -1522,5 +1522,33 @@
       "rawText": "Flot 2-værelses lejlighed på AmagerbroUplandsgade 6B, 2., 211, 2300 København S2. sal2 vær.47 m²11.600 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
+    "occurredAt": "2026-05-11T08:46:13.107Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "Listing removed: 1-værelses studiebolig på Teglholmen",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
+      "url": "https://udlejning.cej.dk/boliger/c390a5be8cc3450699d4682e2848fecc",
+      "title": "1-værelses studiebolig på Teglholmen",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6700,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-17T11:35:09.876Z",
+      "lastSeenAt": "2026-05-11T05:36:54.210Z",
+      "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 1., 46, 2450 København SV1. sal1 vær.34 m²6.700 kr./md"
+    },
+    "current": {}
   }
 ]
