@@ -1706,5 +1706,65 @@
       "rawText": "ReserveretCharmerende 1-værelses bolig ved Rungsted Havn! Rungstedvej 96, st., 2960 Rungsted KystStuen1 vær.39 m²5.850 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/3f03b0b09217441a98681015f110b099",
+    "listingUrl": "https://udlejning.cej.dk/boliger/3f03b0b09217441a98681015f110b099",
+    "occurredAt": "2026-05-12T13:23:08.809Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-Værelses lejlighed på Sigurdsgade",
+    "summary": "New listing: Skøn 1-Værelses lejlighed på Sigurdsgade",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/3f03b0b09217441a98681015f110b099",
+      "url": "https://udlejning.cej.dk/boliger/3f03b0b09217441a98681015f110b099",
+      "title": "Skøn 1-Værelses lejlighed på Sigurdsgade",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 31,
+      "monthlyPriceDkk": 8300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-12T13:23:08.809Z",
+      "lastSeenAt": "2026-05-12T13:23:08.809Z",
+      "rawText": "Skøn 1-Værelses lejlighed på SigurdsgadeSigurdsgade 27, 2., 5, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/0152e85a4add408e82464492e4c91ca1",
+    "listingUrl": "https://udlejning.cej.dk/boliger/0152e85a4add408e82464492e4c91ca1",
+    "occurredAt": "2026-05-12T13:23:08.809Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Dejlig 2-værelses lejlighed nær Vestamager Mestro st.",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/4d3c66e5653340939db39f273231d6cc",
+    "listingUrl": "https://udlejning.cej.dk/boliger/4d3c66e5653340939db39f273231d6cc",
+    "occurredAt": "2026-05-12T13:23:08.809Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig i Sydhavnen",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
