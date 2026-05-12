@@ -1578,5 +1578,133 @@
       "lastSeenAt": "2026-05-11T11:50:57.363Z",
       "rawText": "Skøn 1-værelses lejlighed på Amagerbro!Uplandsgade 6A, 1., 101, 2300 København S1. sal1 vær.48 m²10.300 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+    "occurredAt": "2026-05-12T09:27:07.922Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed i Ballerup",
+    "summary": "New listing: Skøn 2-værelses lejlighed i Ballerup",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+      "url": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+      "title": "Skøn 2-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 71,
+      "monthlyPriceDkk": 10500,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-12T09:27:07.922Z",
+      "lastSeenAt": "2026-05-12T09:27:07.922Z",
+      "rawText": "Skøn 2-værelses lejlighed i Ballerup Lautruphøj 3L, st., tv, 2750 BallerupStuen2 vær.71 m²10.500 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+    "occurredAt": "2026-05-12T09:27:07.922Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i Næstved!",
+    "summary": "New listing: 1-værelses lejlighed i Næstved!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+      "url": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+      "title": "1-værelses lejlighed i Næstved!",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 40,
+      "monthlyPriceDkk": 3600,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-12T09:27:07.922Z",
+      "lastSeenAt": "2026-05-12T09:27:07.922Z",
+      "rawText": "1-værelses lejlighed i Næstved!Præstøvej 37A, 1., 1, 4700 Næstved1. sal1 vær.40 m²3.600 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "listingUrl": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "occurredAt": "2026-05-12T09:27:07.922Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+    "summary": "New listing: Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+      "url": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+      "title": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 68,
+      "monthlyPriceDkk": 10761,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-12T09:27:07.922Z",
+      "lastSeenAt": "2026-05-12T09:27:07.922Z",
+      "rawText": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn! Rungstedvej 92, 2., tv, 2960 Rungsted Kyst2. sal2 vær.68 m²10.761 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+    "occurredAt": "2026-05-12T09:27:07.922Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "charmerende og lys 2-værelses lejlighed på Frederiksberg",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "listingUrl": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+    "occurredAt": "2026-05-12T09:27:07.922Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 1-værelses bolig ved Rungsted Havn!",
+    "summary": "Listing removed: Charmerende 1-værelses bolig ved Rungsted Havn!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+      "url": "https://udlejning.cej.dk/boliger/31043a223cef02b4128f2abb671b4955",
+      "title": "Charmerende 1-værelses bolig ved Rungsted Havn!",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 39,
+      "monthlyPriceDkk": 5850,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-04-08T11:05:27.402Z",
+      "lastSeenAt": "2026-05-12T06:47:56.022Z",
+      "rawText": "ReserveretCharmerende 1-værelses bolig ved Rungsted Havn! Rungstedvej 96, st., 2960 Rungsted KystStuen1 vær.39 m²5.850 kr./md"
+    },
+    "current": {}
   }
 ]
