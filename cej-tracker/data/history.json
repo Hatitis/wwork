@@ -1798,5 +1798,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/1cff9eaf30b24db095d1bc48c193fc78",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1cff9eaf30b24db095d1bc48c193fc78",
+    "occurredAt": "2026-05-18T08:35:59.867Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed på Amagerbro!",
+    "summary": "Listing removed: Skøn 1-værelses lejlighed på Amagerbro!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/1cff9eaf30b24db095d1bc48c193fc78",
+      "url": "https://udlejning.cej.dk/boliger/1cff9eaf30b24db095d1bc48c193fc78",
+      "title": "Skøn 1-værelses lejlighed på Amagerbro!",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 48,
+      "monthlyPriceDkk": 10300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-11T11:50:57.363Z",
+      "lastSeenAt": "2026-05-18T04:38:48.427Z",
+      "rawText": "Skøn 1-værelses lejlighed på Amagerbro!Uplandsgade 6A, 1., 101, 2300 København S1. sal1 vær.48 m²10.300 kr./md"
+    },
+    "current": {}
   }
 ]
