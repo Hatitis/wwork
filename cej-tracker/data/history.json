@@ -1826,5 +1826,33 @@
       "rawText": "Skøn 1-værelses lejlighed på Amagerbro!Uplandsgade 6A, 1., 101, 2300 København S1. sal1 vær.48 m²10.300 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+    "occurredAt": "2026-05-18T12:05:15.318Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "charmerende og lys 2-værelses lejlighed på Frederiksberg",
+    "summary": "Listing removed: charmerende og lys 2-værelses lejlighed på Frederiksberg",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+      "url": "https://udlejning.cej.dk/boliger/f8fc1c5e7e0173d045df3e70bd520b41",
+      "title": "charmerende og lys 2-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 50,
+      "monthlyPriceDkk": 7857,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-08T08:04:07.946Z",
+      "lastSeenAt": "2026-05-18T08:35:59.867Z",
+      "rawText": "Reserveretcharmerende og lys 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, st., th, 2000 FrederiksbergStuen2 vær.50 m²7.857 kr./md"
+    },
+    "current": {}
   }
 ]
