@@ -1854,5 +1854,21 @@
       "rawText": "Reserveretcharmerende og lys 2-værelses lejlighed på FrederiksbergSindshvilevej 21B, st., th, 2000 FrederiksbergStuen2 vær.50 m²7.857 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+    "occurredAt": "2026-05-20T07:54:19.294Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed i Ballerup",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
