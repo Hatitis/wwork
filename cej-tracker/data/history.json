@@ -1870,5 +1870,21 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+    "occurredAt": "2026-05-21T11:35:57.144Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i Næstved!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
