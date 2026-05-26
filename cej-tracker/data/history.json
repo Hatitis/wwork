@@ -1914,5 +1914,49 @@
       "rawText": "Lukket for henvendelserSkøn 1-Værelses lejlighed på SigurdsgadeSigurdsgade 27, 2., 5, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+    "occurredAt": "2026-05-26T10:36:05.110Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed i Stenløse",
+    "summary": "New listing: Skøn 2-værelses lejlighed i Stenløse",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+      "url": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+      "title": "Skøn 2-værelses lejlighed i Stenløse",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 62,
+      "monthlyPriceDkk": 8950,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-26T10:36:05.110Z",
+      "lastSeenAt": "2026-05-26T10:36:05.110Z",
+      "rawText": "Skøn 2-værelses lejlighed i StenløseDamgårdsvej 5, 2., th, 3660 Stenløse2. sal2 vær.62 m²8.950 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "listingUrl": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "occurredAt": "2026-05-26T10:36:05.110Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]

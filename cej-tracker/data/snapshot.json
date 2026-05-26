@@ -1,5 +1,22 @@
 [
   {
+    "id": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+    "url": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+    "title": "Skøn 2-værelses lejlighed i Stenløse",
+    "address": "",
+    "locationText": "",
+    "floor": "2. sal",
+    "rooms": 2,
+    "sizeM2": 62,
+    "monthlyPriceDkk": 8950,
+    "status": "ACTIVE",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "firstSeenAt": "2026-05-26T10:36:05.110Z",
+    "lastSeenAt": "2026-05-26T10:36:05.110Z",
+    "rawText": "Skøn 2-værelses lejlighed i StenløseDamgårdsvej 5, 2., th, 3660 Stenløse2. sal2 vær.62 m²8.950 kr./md"
+  },
+  {
     "id": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
     "url": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
     "title": "Skøn 2-værelses lejlighed i Ballerup",
@@ -13,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-12T09:27:07.922Z",
-    "lastSeenAt": "2026-05-26T06:33:33.245Z",
+    "lastSeenAt": "2026-05-26T10:36:05.110Z",
     "rawText": "ReserveretSkøn 2-værelses lejlighed i Ballerup Lautruphøj 3L, st., tv, 2750 BallerupStuen2 vær.71 m²10.500 kr./md"
   },
   {
@@ -30,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-12T09:27:07.922Z",
-    "lastSeenAt": "2026-05-26T06:33:33.245Z",
+    "lastSeenAt": "2026-05-26T10:36:05.110Z",
     "rawText": "Reserveret1-værelses lejlighed i Næstved!Præstøvej 37A, 1., 1, 4700 Næstved1. sal1 vær.40 m²3.600 kr./md"
   },
   {
@@ -43,12 +60,12 @@
     "rooms": 2,
     "sizeM2": 68,
     "monthlyPriceDkk": 10761,
-    "status": "ACTIVE",
+    "status": "Reserveret",
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-12T09:27:07.922Z",
-    "lastSeenAt": "2026-05-26T06:33:33.245Z",
-    "rawText": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn! Rungstedvej 92, 2., tv, 2960 Rungsted Kyst2. sal2 vær.68 m²10.761 kr./md"
+    "lastSeenAt": "2026-05-26T10:36:05.110Z",
+    "rawText": "ReserveretRummelig 2-værelses bolig med udsigt over Rungsted Havn! Rungstedvej 92, 2., tv, 2960 Rungsted Kyst2. sal2 vær.68 m²10.761 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/0152e85a4add408e82464492e4c91ca1",
@@ -64,7 +81,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-07T09:21:41.435Z",
-    "lastSeenAt": "2026-05-26T06:33:33.245Z",
+    "lastSeenAt": "2026-05-26T10:36:05.110Z",
     "rawText": "Lukket for henvendelserDejlig 2-værelses lejlighed nær Vestamager Mestro st.Robert Jacobsens Vej 65, 7., 702, 2300 København S7. sal2 vær.56 m²12.000 kr./md"
   },
   {
@@ -81,7 +98,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-07T09:21:41.435Z",
-    "lastSeenAt": "2026-05-26T06:33:33.245Z",
+    "lastSeenAt": "2026-05-26T10:36:05.110Z",
     "rawText": "Lukket for henvendelser1-værelses studiebolig i SydhavnenStøberigade 8, 3., 47, 2450 København SV3. sal1 vær.34 m²6.775 kr./md"
   }
 ]
