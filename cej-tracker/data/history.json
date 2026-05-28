@@ -1974,5 +1974,21 @@
     "current": {
       "status": "ACTIVE"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "listingUrl": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "occurredAt": "2026-05-28T12:01:30.019Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+    "summary": "Status changed: Reserveret -> ACTIVE",
+    "previous": {
+      "status": "Reserveret"
+    },
+    "current": {
+      "status": "ACTIVE"
+    }
   }
 ]
