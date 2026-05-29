@@ -1990,5 +1990,33 @@
     "current": {
       "status": "ACTIVE"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/ebe2598779fc31f3609fa95ed20bd96b",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ebe2598779fc31f3609fa95ed20bd96b",
+    "occurredAt": "2026-05-29T08:28:13.724Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i KBH NV",
+    "summary": "New listing: Skøn 3-værelses lejlighed i KBH NV",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/ebe2598779fc31f3609fa95ed20bd96b",
+      "url": "https://udlejning.cej.dk/boliger/ebe2598779fc31f3609fa95ed20bd96b",
+      "title": "Skøn 3-værelses lejlighed i KBH NV",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 3,
+      "sizeM2": 83.5,
+      "monthlyPriceDkk": 11246,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-29T08:28:13.724Z",
+      "lastSeenAt": "2026-05-29T08:28:13.724Z",
+      "rawText": "Lukket for henvendelserSkøn 3-værelses lejlighed i KBH NVTingskrivervej 6, st., tv, 2400 København NVStuen3 vær.83.5 m²11.246 kr./md"
+    }
   }
 ]
