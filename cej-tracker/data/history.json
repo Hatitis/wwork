@@ -2018,5 +2018,33 @@
       "lastSeenAt": "2026-05-29T08:28:13.724Z",
       "rawText": "Lukket for henvendelserSkøn 3-værelses lejlighed i KBH NVTingskrivervej 6, st., tv, 2400 København NVStuen3 vær.83.5 m²11.246 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/480ef0e2fa0637d2a5f724e0691f9194",
+    "listingUrl": "https://udlejning.cej.dk/boliger/480ef0e2fa0637d2a5f724e0691f9194",
+    "occurredAt": "2026-05-29T11:50:15.184Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses på Vesterbro",
+    "summary": "New listing: 2-værelses på Vesterbro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/480ef0e2fa0637d2a5f724e0691f9194",
+      "url": "https://udlejning.cej.dk/boliger/480ef0e2fa0637d2a5f724e0691f9194",
+      "title": "2-værelses på Vesterbro",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 45,
+      "monthlyPriceDkk": 7031,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-29T11:50:15.184Z",
+      "lastSeenAt": "2026-05-29T11:50:15.184Z",
+      "rawText": "Lukket for henvendelser2-værelses på VesterbroOehlenschlægersgade 68, st., th, 1663 København VStuen2 vær.45 m²7.031 kr./md"
+    }
   }
 ]
