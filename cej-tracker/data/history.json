@@ -2046,5 +2046,61 @@
       "lastSeenAt": "2026-05-29T11:50:15.184Z",
       "rawText": "Lukket for henvendelser2-værelses på VesterbroOehlenschlægersgade 68, st., th, 1663 København VStuen2 vær.45 m²7.031 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+    "occurredAt": "2026-06-01T07:19:56.424Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys 1-værelses lejlighed i Vanløse",
+    "summary": "New listing: Lys 1-værelses lejlighed i Vanløse",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+      "url": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+      "title": "Lys 1-værelses lejlighed i Vanløse",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 42,
+      "monthlyPriceDkk": 5886,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-01T07:19:56.424Z",
+      "lastSeenAt": "2026-06-01T07:19:56.424Z",
+      "rawText": "Lys 1-værelses lejlighed i VanløseThorupgård Allé 18, 1., 4, 2720 Vanløse1. sal1 vær.42 m²5.886 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+    "occurredAt": "2026-06-01T07:19:56.424Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-Værelses lejlighed Poppelhuset",
+    "summary": "New listing: 2-Værelses lejlighed Poppelhuset",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+      "url": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+      "title": "2-Værelses lejlighed Poppelhuset",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 67,
+      "monthlyPriceDkk": 11674,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-01T07:19:56.424Z",
+      "lastSeenAt": "2026-06-01T07:19:56.424Z",
+      "rawText": "2-Værelses lejlighed PoppelhusetGuldblommevej 22, st., tv, 2750 BallerupStuen2 vær.67 m²11.674 kr./md"
+    }
   }
 ]
