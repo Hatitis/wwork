@@ -2102,5 +2102,21 @@
       "lastSeenAt": "2026-06-01T07:19:56.424Z",
       "rawText": "2-Værelses lejlighed PoppelhusetGuldblommevej 22, st., tv, 2750 BallerupStuen2 vær.67 m²11.674 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+    "occurredAt": "2026-06-01T13:06:27.108Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys 1-værelses lejlighed i Vanløse",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
