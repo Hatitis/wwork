@@ -2118,5 +2118,37 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/480ef0e2fa0637d2a5f724e0691f9194",
+    "listingUrl": "https://udlejning.cej.dk/boliger/480ef0e2fa0637d2a5f724e0691f9194",
+    "occurredAt": "2026-06-02T06:52:55.504Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses på Vesterbro",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
+    "occurredAt": "2026-06-02T06:52:55.504Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed i Stenløse",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
