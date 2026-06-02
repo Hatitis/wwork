@@ -2150,5 +2150,89 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/6901b799260144ecb4c4078234e44692",
+    "listingUrl": "https://udlejning.cej.dk/boliger/6901b799260144ecb4c4078234e44692",
+    "occurredAt": "2026-06-02T11:15:34.758Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Moderne 2-værelses bolig i Ballerup",
+    "summary": "New listing: Moderne 2-værelses bolig i Ballerup",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/6901b799260144ecb4c4078234e44692",
+      "url": "https://udlejning.cej.dk/boliger/6901b799260144ecb4c4078234e44692",
+      "title": "Moderne 2-værelses bolig i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 61,
+      "monthlyPriceDkk": 11510,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-02T11:15:34.758Z",
+      "lastSeenAt": "2026-06-02T11:15:34.758Z",
+      "rawText": "Moderne 2-værelses bolig i BallerupGuldblommevej 4, st., th, 2750 BallerupStuen2 vær.61 m²11.510 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+    "occurredAt": "2026-06-02T11:15:34.758Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Stor 1-værelses bolig i spændende ejendom!",
+    "summary": "New listing: Stor 1-værelses bolig i spændende ejendom!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+      "url": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+      "title": "Stor 1-værelses bolig i spændende ejendom!",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 49,
+      "monthlyPriceDkk": 8800,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-02T11:15:34.758Z",
+      "lastSeenAt": "2026-06-02T11:15:34.758Z",
+      "rawText": "Stor 1-værelses bolig i spændende ejendom!Sluseholmen 8, 2., 5, 2450 København SV2. sal1 vær.49 m²8.800 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/4d3c66e5653340939db39f273231d6cc",
+    "listingUrl": "https://udlejning.cej.dk/boliger/4d3c66e5653340939db39f273231d6cc",
+    "occurredAt": "2026-06-02T11:15:34.758Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig i Sydhavnen",
+    "summary": "Listing removed: 1-værelses studiebolig i Sydhavnen",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/4d3c66e5653340939db39f273231d6cc",
+      "url": "https://udlejning.cej.dk/boliger/4d3c66e5653340939db39f273231d6cc",
+      "title": "1-værelses studiebolig i Sydhavnen",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6775,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-07T09:21:41.435Z",
+      "lastSeenAt": "2026-06-02T06:52:55.504Z",
+      "rawText": "Lukket for henvendelser1-værelses studiebolig i SydhavnenStøberigade 8, 3., 47, 2450 København SV3. sal1 vær.34 m²6.775 kr./md"
+    },
+    "current": {}
   }
 ]
