@@ -2234,5 +2234,21 @@
       "rawText": "Lukket for henvendelser1-værelses studiebolig i SydhavnenStøberigade 8, 3., 47, 2450 København SV3. sal1 vær.34 m²6.775 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ea8da886446d94291cae845b8d120da3",
+    "occurredAt": "2026-06-03T07:15:33.660Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys 1-værelses lejlighed i Vanløse",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
