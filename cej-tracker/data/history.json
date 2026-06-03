@@ -2250,5 +2250,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+    "occurredAt": "2026-06-03T12:14:10.535Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i Næstved!",
+    "summary": "Listing removed: 1-værelses lejlighed i Næstved!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+      "url": "https://udlejning.cej.dk/boliger/41494a20b53b494fa67baf2f94339eeb",
+      "title": "1-værelses lejlighed i Næstved!",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 40,
+      "monthlyPriceDkk": 3600,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-12T09:27:07.922Z",
+      "lastSeenAt": "2026-06-03T07:15:33.660Z",
+      "rawText": "Reserveret1-værelses lejlighed i Næstved!Præstøvej 37A, 1., 1, 4700 Næstved1. sal1 vær.40 m²3.600 kr./md"
+    },
+    "current": {}
   }
 ]
