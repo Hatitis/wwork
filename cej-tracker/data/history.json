@@ -2422,5 +2422,33 @@
       "rawText": "ReserveretDejlig 2-værelses lejlighed nær Vestamager Mestro st.Robert Jacobsens Vej 65, 7., 702, 2300 København S7. sal2 vær.56 m²12.000 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+    "listingUrl": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+    "occurredAt": "2026-06-09T15:27:51.336Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig med hems",
+    "summary": "New listing: 1-værelses studiebolig med hems",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+      "url": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+      "title": "1-værelses studiebolig med hems",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6700,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-09T15:27:51.336Z",
+      "lastSeenAt": "2026-06-09T15:27:51.336Z",
+      "rawText": "1-værelses studiebolig med hemsStøberigade 8, 3., 45, 2450 København SV3. sal1 vær.34 m²6.700 kr./md"
+    }
   }
 ]
