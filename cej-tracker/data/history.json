@@ -2378,5 +2378,21 @@
       "rawText": "Lukket for henvendelserSkøn 3-værelses lejlighed i KBH NVTingskrivervej 6, st., tv, 2400 København NVStuen3 vær.83.5 m²11.246 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+    "occurredAt": "2026-06-09T05:49:59.602Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-Værelses lejlighed Poppelhuset",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
