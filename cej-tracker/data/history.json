@@ -2598,5 +2598,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+    "occurredAt": "2026-06-10T16:10:24.526Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Stor 1-værelses bolig i spændende ejendom!",
+    "summary": "Listing removed: Stor 1-værelses bolig i spændende ejendom!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+      "url": "https://udlejning.cej.dk/boliger/2173422f976b421cb18bfad633281776",
+      "title": "Stor 1-værelses bolig i spændende ejendom!",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 49,
+      "monthlyPriceDkk": 8800,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-02T11:15:34.758Z",
+      "lastSeenAt": "2026-06-10T12:13:05.683Z",
+      "rawText": "Stor 1-værelses bolig i spændende ejendom!Sluseholmen 8, 2., 5, 2450 København SV2. sal1 vær.49 m²8.800 kr./md"
+    },
+    "current": {}
   }
 ]
