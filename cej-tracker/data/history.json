@@ -2522,5 +2522,81 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+    "occurredAt": "2026-06-10T12:13:05.683Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig i Sydhavnen",
+    "summary": "New listing: 1-værelses studiebolig i Sydhavnen",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+      "url": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+      "title": "1-værelses studiebolig i Sydhavnen",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6700,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-10T12:13:05.683Z",
+      "lastSeenAt": "2026-06-10T12:13:05.683Z",
+      "rawText": "1-værelses studiebolig i SydhavnenStøberigade 8, 2., 8, 2450 København SV2. sal1 vær.34 m²6.700 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/0568778b509e0c0464a627116071f5bb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/0568778b509e0c0464a627116071f5bb",
+    "occurredAt": "2026-06-10T12:13:05.683Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "HURTIG OVERTAGELSE - Skøn 2-værelses lejlighed i Vanløse",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+    "listingUrl": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+    "occurredAt": "2026-06-10T12:13:05.683Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed på Sigurdsgade",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+    "listingUrl": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+    "occurredAt": "2026-06-10T12:13:05.683Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig med hems",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
