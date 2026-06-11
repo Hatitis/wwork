@@ -2682,5 +2682,33 @@
       "rawText": "Moderne 2-værelses bolig i BallerupGuldblommevej 4, st., th, 2750 BallerupStuen2 vær.61 m²11.510 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+    "occurredAt": "2026-06-11T14:52:51.307Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses studiebolig i København S",
+    "summary": "New listing: Skøn 1-værelses studiebolig i København S",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+      "url": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+      "title": "Skøn 1-værelses studiebolig i København S",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 51,
+      "monthlyPriceDkk": 9300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-11T14:52:51.307Z",
+      "lastSeenAt": "2026-06-11T14:52:51.307Z",
+      "rawText": "Skøn 1-værelses studiebolig i København SStøberigade 8, 4., 57, 2450 København SV4. sal1 vær.51 m²9.300 kr./md"
+    }
   }
 ]
