@@ -2738,5 +2738,53 @@
       "lastSeenAt": "2026-06-12T12:29:52.013Z",
       "rawText": "1-værelses bolig i moderne ejendom i Sluseholmen! Ved Stigbordene 10, 1., 1, 2450 København SV1. sal1 vær.37 m²7.750 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+    "occurredAt": "2026-06-16T10:29:55.832Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses studiebolig i København S",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+    "occurredAt": "2026-06-16T10:29:55.832Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig i Sydhavnen",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "listingUrl": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "occurredAt": "2026-06-16T10:29:55.832Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
