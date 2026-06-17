@@ -2786,5 +2786,21 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+    "listingUrl": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+    "occurredAt": "2026-06-17T06:53:15.416Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed på Sigurdsgade",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
