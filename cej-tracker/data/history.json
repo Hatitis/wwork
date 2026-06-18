@@ -2830,5 +2830,21 @@
       "rawText": "Reserveret2-Værelses lejlighed PoppelhusetGuldblommevej 22, st., tv, 2750 BallerupStuen2 vær.67 m²11.674 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/14d89e5b8a1fe715998debb10e04d7fd",
+    "listingUrl": "https://udlejning.cej.dk/boliger/14d89e5b8a1fe715998debb10e04d7fd",
+    "occurredAt": "2026-06-18T14:17:09.236Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses lejlighed i Ballerup",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
