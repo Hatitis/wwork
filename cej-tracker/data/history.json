@@ -2802,5 +2802,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+    "occurredAt": "2026-06-18T10:58:52.537Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-Værelses lejlighed Poppelhuset",
+    "summary": "Listing removed: 2-Værelses lejlighed Poppelhuset",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+      "url": "https://udlejning.cej.dk/boliger/88a62fdefb5a4ca59904522d2f44f3cb",
+      "title": "2-Værelses lejlighed Poppelhuset",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 67,
+      "monthlyPriceDkk": 11674,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-01T07:19:56.424Z",
+      "lastSeenAt": "2026-06-18T06:31:41.268Z",
+      "rawText": "Reserveret2-Værelses lejlighed PoppelhusetGuldblommevej 22, st., tv, 2750 BallerupStuen2 vær.67 m²11.674 kr./md"
+    },
+    "current": {}
   }
 ]
