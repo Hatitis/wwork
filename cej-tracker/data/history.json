@@ -2846,5 +2846,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/0568778b509e0c0464a627116071f5bb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/0568778b509e0c0464a627116071f5bb",
+    "occurredAt": "2026-06-19T13:38:00.489Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "HURTIG OVERTAGELSE - Skøn 2-værelses lejlighed i Vanløse",
+    "summary": "Listing removed: HURTIG OVERTAGELSE - Skøn 2-værelses lejlighed i Vanløse",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/0568778b509e0c0464a627116071f5bb",
+      "url": "https://udlejning.cej.dk/boliger/0568778b509e0c0464a627116071f5bb",
+      "title": "HURTIG OVERTAGELSE - Skøn 2-værelses lejlighed i Vanløse",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 51,
+      "monthlyPriceDkk": 7120,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-10T08:50:17.087Z",
+      "lastSeenAt": "2026-06-19T09:56:10.528Z",
+      "rawText": "Lukket for henvendelserHURTIG OVERTAGELSE - Skøn 2-værelses lejlighed i VanløseThorupgård Allé 12, 1., mf, 2720 Vanløse1. sal2 vær.51 m²7.120 kr./md"
+    },
+    "current": {}
   }
 ]
