@@ -2930,5 +2930,33 @@
       "rawText": "Lukket for henvendelser1-værelses studiebolig med hemsStøberigade 8, 3., 45, 2450 København SV3. sal1 vær.34 m²6.700 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/17c522efe1fb4deaa6d79920c76ce470",
+    "listingUrl": "https://udlejning.cej.dk/boliger/17c522efe1fb4deaa6d79920c76ce470",
+    "occurredAt": "2026-06-22T16:05:22.468Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i moderne ejendom i Sluseholmen!",
+    "summary": "Listing removed: 1-værelses bolig i moderne ejendom i Sluseholmen!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/17c522efe1fb4deaa6d79920c76ce470",
+      "url": "https://udlejning.cej.dk/boliger/17c522efe1fb4deaa6d79920c76ce470",
+      "title": "1-værelses bolig i moderne ejendom i Sluseholmen!",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 37,
+      "monthlyPriceDkk": 7750,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-12T12:29:52.013Z",
+      "lastSeenAt": "2026-06-22T11:18:11.075Z",
+      "rawText": "1-værelses bolig i moderne ejendom i Sluseholmen! Ved Stigbordene 10, 1., 1, 2450 København SV1. sal1 vær.37 m²7.750 kr./md"
+    },
+    "current": {}
   }
 ]
