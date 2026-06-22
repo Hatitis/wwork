@@ -2874,5 +2874,61 @@
       "rawText": "Lukket for henvendelserHURTIG OVERTAGELSE - Skøn 2-værelses lejlighed i VanløseThorupgård Allé 12, 1., mf, 2720 Vanløse1. sal2 vær.51 m²7.120 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+    "listingUrl": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+    "occurredAt": "2026-06-22T11:18:11.075Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed på Sigurdsgade",
+    "summary": "Listing removed: Skøn 1-værelses lejlighed på Sigurdsgade",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+      "url": "https://udlejning.cej.dk/boliger/177b468bde804c06b7af6453b7b31653",
+      "title": "Skøn 1-værelses lejlighed på Sigurdsgade",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 33,
+      "monthlyPriceDkk": 8750,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-10T08:50:17.087Z",
+      "lastSeenAt": "2026-06-22T05:32:44.707Z",
+      "rawText": "ReserveretSkøn 1-værelses lejlighed på SigurdsgadeSigurdsgade 27, 3., 1, 2200 København N3. sal1 vær.33 m²8.750 kr./md"
+    },
+    "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+    "listingUrl": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+    "occurredAt": "2026-06-22T11:18:11.075Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig med hems",
+    "summary": "Listing removed: 1-værelses studiebolig med hems",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+      "url": "https://udlejning.cej.dk/boliger/008533acebfb4a33b2400c0c8168afd5",
+      "title": "1-værelses studiebolig med hems",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6700,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-09T15:27:51.336Z",
+      "lastSeenAt": "2026-06-22T05:32:44.707Z",
+      "rawText": "Lukket for henvendelser1-værelses studiebolig med hemsStøberigade 8, 3., 45, 2450 København SV3. sal1 vær.34 m²6.700 kr./md"
+    },
+    "current": {}
   }
 ]
