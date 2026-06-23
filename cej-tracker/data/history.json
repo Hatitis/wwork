@@ -2958,5 +2958,33 @@
       "rawText": "1-værelses bolig i moderne ejendom i Sluseholmen! Ved Stigbordene 10, 1., 1, 2450 København SV1. sal1 vær.37 m²7.750 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "listingUrl": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+    "occurredAt": "2026-06-23T08:47:34.934Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+    "summary": "Listing removed: Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+      "url": "https://udlejning.cej.dk/boliger/116ccc4e3b47842b6c7e820bf1152d19",
+      "title": "Rummelig 2-værelses bolig med udsigt over Rungsted Havn!",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 68,
+      "monthlyPriceDkk": 10761,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-12T09:27:07.922Z",
+      "lastSeenAt": "2026-06-23T05:40:31.334Z",
+      "rawText": "ReserveretRummelig 2-værelses bolig med udsigt over Rungsted Havn! Rungstedvej 92, 2., tv, 2960 Rungsted Kyst2. sal2 vær.68 m²10.761 kr./md"
+    },
+    "current": {}
   }
 ]
