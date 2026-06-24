@@ -2986,5 +2986,33 @@
       "rawText": "ReserveretRummelig 2-værelses bolig med udsigt over Rungsted Havn! Rungstedvej 92, 2., tv, 2960 Rungsted Kyst2. sal2 vær.68 m²10.761 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+    "occurredAt": "2026-06-24T08:40:17.432Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig i Sydhavnen",
+    "summary": "Listing removed: 1-værelses studiebolig i Sydhavnen",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+      "url": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
+      "title": "1-værelses studiebolig i Sydhavnen",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6700,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-10T12:13:05.683Z",
+      "lastSeenAt": "2026-06-24T05:31:36.051Z",
+      "rawText": "Lukket for henvendelser1-værelses studiebolig i SydhavnenStøberigade 8, 2., 8, 2450 København SV2. sal1 vær.34 m²6.700 kr./md"
+    },
+    "current": {}
   }
 ]

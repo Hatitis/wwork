@@ -13,7 +13,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-11T14:52:51.307Z",
-    "lastSeenAt": "2026-06-24T05:31:36.051Z",
+    "lastSeenAt": "2026-06-24T08:40:17.432Z",
     "rawText": "Lukket for henvendelserSkøn 1-værelses studiebolig i København SStøberigade 8, 4., 57, 2450 København SV4. sal1 vær.51 m²9.300 kr./md"
   },
   {
@@ -30,25 +30,8 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-11T11:07:02.952Z",
-    "lastSeenAt": "2026-06-24T05:31:36.051Z",
+    "lastSeenAt": "2026-06-24T08:40:17.432Z",
     "rawText": "Reserveret2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
-  },
-  {
-    "id": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
-    "url": "https://udlejning.cej.dk/boliger/2ac3cac975b7460094369174a45d176c",
-    "title": "1-værelses studiebolig i Sydhavnen",
-    "address": "",
-    "locationText": "",
-    "floor": "2. sal",
-    "rooms": 1,
-    "sizeM2": 34,
-    "monthlyPriceDkk": 6700,
-    "status": "Lukket for henvendelser",
-    "source": "cej",
-    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
-    "firstSeenAt": "2026-06-10T12:13:05.683Z",
-    "lastSeenAt": "2026-06-24T05:31:36.051Z",
-    "rawText": "Lukket for henvendelser1-værelses studiebolig i SydhavnenStøberigade 8, 2., 8, 2450 København SV2. sal1 vær.34 m²6.700 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/89d3c1ace56947028c02084865061ca3",
@@ -64,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-26T10:36:05.110Z",
-    "lastSeenAt": "2026-06-24T05:31:36.051Z",
+    "lastSeenAt": "2026-06-24T08:40:17.432Z",
     "rawText": "ReserveretSkøn 2-værelses lejlighed i StenløseDamgårdsvej 5, 2., th, 3660 Stenløse2. sal2 vær.62 m²8.950 kr./md"
   },
   {
@@ -81,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-12T09:27:07.922Z",
-    "lastSeenAt": "2026-06-24T05:31:36.051Z",
+    "lastSeenAt": "2026-06-24T08:40:17.432Z",
     "rawText": "ReserveretSkøn 2-værelses lejlighed i Ballerup Lautruphøj 3L, st., tv, 2750 BallerupStuen2 vær.71 m²10.500 kr./md"
   }
 ]
