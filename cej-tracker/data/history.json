@@ -3114,5 +3114,33 @@
       "rawText": "ReserveretSkøn 2-værelses lejlighed i StenløseDamgårdsvej 5, 2., th, 3660 Stenløse2. sal2 vær.62 m²8.950 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+    "occurredAt": "2026-06-25T13:12:09.985Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses studiebolig i København S",
+    "summary": "Listing removed: Skøn 1-værelses studiebolig i København S",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+      "url": "https://udlejning.cej.dk/boliger/2f4ae07868624f0eb8e1cf8d21749d31",
+      "title": "Skøn 1-værelses studiebolig i København S",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 51,
+      "monthlyPriceDkk": 9300,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-11T14:52:51.307Z",
+      "lastSeenAt": "2026-06-25T10:51:14.535Z",
+      "rawText": "ReserveretSkøn 1-værelses studiebolig i København SStøberigade 8, 4., 57, 2450 København SV4. sal1 vær.51 m²9.300 kr./md"
+    },
+    "current": {}
   }
 ]
