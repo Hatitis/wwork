@@ -3142,5 +3142,21 @@
       "rawText": "ReserveretSkøn 1-værelses studiebolig i København SStøberigade 8, 4., 57, 2450 København SV4. sal1 vær.51 m²9.300 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/87832a5f96414400926c7e36e3f90dd9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/87832a5f96414400926c7e36e3f90dd9",
+    "occurredAt": "2026-06-26T11:57:42.056Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn studiebolig med hems på Teglholmen",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
