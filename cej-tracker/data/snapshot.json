@@ -13,7 +13,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-25T08:01:26.596Z",
-    "lastSeenAt": "2026-06-29T06:54:37.596Z",
+    "lastSeenAt": "2026-06-29T11:59:49.303Z",
     "rawText": "Lukket for henvendelserSkøn studiebolig med hems på TeglholmenStøberigade 8, 3., 46, 2450 København SV3. sal1 vær.34 m²6.775 kr./md"
   },
   {
@@ -30,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-25T10:51:14.535Z",
-    "lastSeenAt": "2026-06-29T06:54:37.596Z",
+    "lastSeenAt": "2026-06-29T11:59:49.303Z",
     "rawText": "SLUSEBRO - Rummelig 1-værelses bolig i moderne ejendom!Sluseholmen 8, 4., 4, 2450 København SV4. sal1 vær.46 m²8.400 kr./md"
   },
   {
@@ -43,12 +43,12 @@
     "rooms": 2,
     "sizeM2": 57,
     "monthlyPriceDkk": 11444,
-    "status": "Reserveret",
+    "status": "ACTIVE",
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-11T11:07:02.952Z",
-    "lastSeenAt": "2026-06-29T06:54:37.596Z",
-    "rawText": "Reserveret2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
+    "lastSeenAt": "2026-06-29T11:59:49.303Z",
+    "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
@@ -64,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-05-12T09:27:07.922Z",
-    "lastSeenAt": "2026-06-29T06:54:37.596Z",
+    "lastSeenAt": "2026-06-29T11:59:49.303Z",
     "rawText": "ReserveretSkøn 2-værelses lejlighed i Ballerup Lautruphøj 3L, st., tv, 2750 BallerupStuen2 vær.71 m²10.500 kr./md"
   }
 ]

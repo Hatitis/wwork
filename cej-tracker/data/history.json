@@ -3158,5 +3158,21 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/14d89e5b8a1fe715998debb10e04d7fd",
+    "listingUrl": "https://udlejning.cej.dk/boliger/14d89e5b8a1fe715998debb10e04d7fd",
+    "occurredAt": "2026-06-29T11:59:49.303Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses lejlighed i Ballerup",
+    "summary": "Status changed: Reserveret -> ACTIVE",
+    "previous": {
+      "status": "Reserveret"
+    },
+    "current": {
+      "status": "ACTIVE"
+    }
   }
 ]
