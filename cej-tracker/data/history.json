@@ -3250,5 +3250,61 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/87832a5f96414400926c7e36e3f90dd9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/87832a5f96414400926c7e36e3f90dd9",
+    "occurredAt": "2026-07-01T10:33:28.686Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn studiebolig med hems på Teglholmen",
+    "summary": "Listing removed: Skøn studiebolig med hems på Teglholmen",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/87832a5f96414400926c7e36e3f90dd9",
+      "url": "https://udlejning.cej.dk/boliger/87832a5f96414400926c7e36e3f90dd9",
+      "title": "Skøn studiebolig med hems på Teglholmen",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6775,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-25T08:01:26.596Z",
+      "lastSeenAt": "2026-07-01T06:41:34.077Z",
+      "rawText": "ReserveretSkøn studiebolig med hems på TeglholmenStøberigade 8, 3., 46, 2450 København SV3. sal1 vær.34 m²6.775 kr./md"
+    },
+    "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+    "occurredAt": "2026-07-01T10:33:28.686Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed i Ballerup",
+    "summary": "Listing removed: Skøn 2-værelses lejlighed i Ballerup",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+      "url": "https://udlejning.cej.dk/boliger/2c0529d84c5844659555eba369439d4e",
+      "title": "Skøn 2-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 71,
+      "monthlyPriceDkk": 10500,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-05-12T09:27:07.922Z",
+      "lastSeenAt": "2026-07-01T06:41:34.077Z",
+      "rawText": "ReserveretSkøn 2-værelses lejlighed i Ballerup Lautruphøj 3L, st., tv, 2750 BallerupStuen2 vær.71 m²10.500 kr./md"
+    },
+    "current": {}
   }
 ]
