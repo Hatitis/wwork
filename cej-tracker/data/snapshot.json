@@ -1,5 +1,22 @@
 [
   {
+    "id": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "url": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "address": "",
+    "locationText": "",
+    "floor": "3. sal",
+    "rooms": 1,
+    "sizeM2": 29,
+    "monthlyPriceDkk": 6929,
+    "status": "Lukket for henvendelser",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "firstSeenAt": "2026-07-02T10:41:05.279Z",
+    "lastSeenAt": "2026-07-02T10:41:05.279Z",
+    "rawText": "Lukket for henvendelser1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 16, 2000 Frederiksberg3. sal1 vær.29 m²6.929 kr./md"
+  },
+  {
     "id": "https://udlejning.cej.dk/boliger/13a3b432dfe9de5c12d4d15041162022",
     "url": "https://udlejning.cej.dk/boliger/13a3b432dfe9de5c12d4d15041162022",
     "title": "Charmerende 2-værelses bolig i Søborg",
@@ -13,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-30T09:59:18.180Z",
-    "lastSeenAt": "2026-07-02T07:54:31.098Z",
+    "lastSeenAt": "2026-07-02T10:41:05.279Z",
     "rawText": "Lukket for henvendelserCharmerende 2-værelses bolig i SøborgStengårds Alle 212, 1., tv, 2860 Søborg1. sal2 vær.53 m²7.482 kr./md"
   },
   {
@@ -30,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-25T10:51:14.535Z",
-    "lastSeenAt": "2026-07-02T07:54:31.098Z",
+    "lastSeenAt": "2026-07-02T10:41:05.279Z",
     "rawText": "ReserveretSLUSEBRO - Rummelig 1-værelses bolig i moderne ejendom!Sluseholmen 8, 4., 4, 2450 København SV4. sal1 vær.46 m²8.400 kr./md"
   },
   {
@@ -47,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-11T11:07:02.952Z",
-    "lastSeenAt": "2026-07-02T07:54:31.098Z",
+    "lastSeenAt": "2026-07-02T10:41:05.279Z",
     "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
   }
 ]

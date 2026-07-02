@@ -3306,5 +3306,33 @@
       "rawText": "ReserveretSkøn 2-værelses lejlighed i Ballerup Lautruphøj 3L, st., tv, 2750 BallerupStuen2 vær.71 m²10.500 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "occurredAt": "2026-07-02T10:41:05.279Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "New listing: 1-værelses lejlighed på Frederiksberg",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+      "url": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+      "title": "1-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 29,
+      "monthlyPriceDkk": 6929,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-02T10:41:05.279Z",
+      "lastSeenAt": "2026-07-02T10:41:05.279Z",
+      "rawText": "Lukket for henvendelser1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 16, 2000 Frederiksberg3. sal1 vær.29 m²6.929 kr./md"
+    }
   }
 ]
