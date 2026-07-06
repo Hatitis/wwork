@@ -3334,5 +3334,33 @@
       "lastSeenAt": "2026-07-02T10:41:05.279Z",
       "rawText": "Lukket for henvendelser1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 16, 2000 Frederiksberg3. sal1 vær.29 m²6.929 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/e7789636b4e8424bb3967d84675bfd2f",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e7789636b4e8424bb3967d84675bfd2f",
+    "occurredAt": "2026-07-06T13:32:29.184Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed i Sydhavn",
+    "summary": "New listing: Skøn 1-værelses lejlighed i Sydhavn",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/e7789636b4e8424bb3967d84675bfd2f",
+      "url": "https://udlejning.cej.dk/boliger/e7789636b4e8424bb3967d84675bfd2f",
+      "title": "Skøn 1-værelses lejlighed i Sydhavn",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 45,
+      "monthlyPriceDkk": 8800,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-06T13:32:29.184Z",
+      "lastSeenAt": "2026-07-06T13:32:29.184Z",
+      "rawText": "Skøn 1-værelses lejlighed i SydhavnStøberigade 8, 4., 8, 2450 København SV4. sal1 vær.45 m²8.800 kr./md"
+    }
   }
 ]
