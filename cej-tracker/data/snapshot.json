@@ -1,5 +1,22 @@
 [
   {
+    "id": "https://udlejning.cej.dk/boliger/28b0c501ff178790e396e6350b05cfd3",
+    "url": "https://udlejning.cej.dk/boliger/28b0c501ff178790e396e6350b05cfd3",
+    "title": "Charmerende 3-værelses lejlighed i København NV",
+    "address": "",
+    "locationText": "",
+    "floor": "Stuen",
+    "rooms": 3,
+    "sizeM2": 73,
+    "monthlyPriceDkk": 9966,
+    "status": "Lukket for henvendelser",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "firstSeenAt": "2026-07-09T08:39:15.956Z",
+    "lastSeenAt": "2026-07-09T08:39:15.956Z",
+    "rawText": "Lukket for henvendelserCharmerende 3-værelses lejlighed i København NVTomsgårdsvej 93, st., th, 2400 København NVStuen3 vær.73 m²9.966 kr./md"
+  },
+  {
     "id": "https://udlejning.cej.dk/boliger/311fb705a5064a9899b4d23daa02a049",
     "url": "https://udlejning.cej.dk/boliger/311fb705a5064a9899b4d23daa02a049",
     "title": "1-værelses studiebolig på Teglholmen",
@@ -13,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-08T10:51:31.995Z",
-    "lastSeenAt": "2026-07-09T05:04:01.835Z",
+    "lastSeenAt": "2026-07-09T08:39:15.956Z",
     "rawText": "1-værelses studiebolig på TeglholmenStøberigade 8, 1., 28, 2450 København SV1. sal1 vær.40 m²7.400 kr./md"
   },
   {
@@ -30,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-06T13:32:29.184Z",
-    "lastSeenAt": "2026-07-09T05:04:01.835Z",
+    "lastSeenAt": "2026-07-09T08:39:15.956Z",
     "rawText": "Lukket for henvendelserSkøn 1-værelses lejlighed i SydhavnStøberigade 8, 4., 8, 2450 København SV4. sal1 vær.45 m²8.800 kr./md"
   },
   {
@@ -47,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-02T10:41:05.279Z",
-    "lastSeenAt": "2026-07-09T05:04:01.835Z",
+    "lastSeenAt": "2026-07-09T08:39:15.956Z",
     "rawText": "Lukket for henvendelser1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 16, 2000 Frederiksberg3. sal1 vær.29 m²6.929 kr./md"
   },
   {
@@ -60,29 +77,12 @@
     "rooms": 2,
     "sizeM2": 53,
     "monthlyPriceDkk": 7482,
-    "status": "Lukket for henvendelser",
-    "source": "cej",
-    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
-    "firstSeenAt": "2026-06-30T09:59:18.180Z",
-    "lastSeenAt": "2026-07-09T05:04:01.835Z",
-    "rawText": "Lukket for henvendelserCharmerende 2-værelses bolig i SøborgStengårds Alle 212, 1., tv, 2860 Søborg1. sal2 vær.53 m²7.482 kr./md"
-  },
-  {
-    "id": "https://udlejning.cej.dk/boliger/ed637b77b21a4c6a932b86c7ef080dab",
-    "url": "https://udlejning.cej.dk/boliger/ed637b77b21a4c6a932b86c7ef080dab",
-    "title": "SLUSEBRO - Rummelig 1-værelses bolig i moderne ejendom!",
-    "address": "",
-    "locationText": "",
-    "floor": "4. sal",
-    "rooms": 1,
-    "sizeM2": 46,
-    "monthlyPriceDkk": 8400,
     "status": "Reserveret",
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
-    "firstSeenAt": "2026-06-25T10:51:14.535Z",
-    "lastSeenAt": "2026-07-09T05:04:01.835Z",
-    "rawText": "ReserveretSLUSEBRO - Rummelig 1-værelses bolig i moderne ejendom!Sluseholmen 8, 4., 4, 2450 København SV4. sal1 vær.46 m²8.400 kr./md"
+    "firstSeenAt": "2026-06-30T09:59:18.180Z",
+    "lastSeenAt": "2026-07-09T08:39:15.956Z",
+    "rawText": "ReserveretCharmerende 2-værelses bolig i SøborgStengårds Alle 212, 1., tv, 2860 Søborg1. sal2 vær.53 m²7.482 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/14d89e5b8a1fe715998debb10e04d7fd",
@@ -98,7 +98,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-11T11:07:02.952Z",
-    "lastSeenAt": "2026-07-09T05:04:01.835Z",
+    "lastSeenAt": "2026-07-09T08:39:15.956Z",
     "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
   }
 ]
