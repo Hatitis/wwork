@@ -3478,5 +3478,21 @@
       "rawText": "ReserveretSLUSEBRO - Rummelig 1-værelses bolig i moderne ejendom!Sluseholmen 8, 4., 4, 2450 København SV4. sal1 vær.46 m²8.400 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "occurredAt": "2026-07-09T11:39:46.459Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
