@@ -3550,5 +3550,21 @@
       "lastSeenAt": "2026-07-10T08:37:30.086Z",
       "rawText": "Lukket for henvendelser1-værelses lejlighed i København NVHovmestervej 39, 4., th, 2400 København NV4. sal1 vær.42 m²5.905 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+    "listingUrl": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+    "occurredAt": "2026-07-10T11:32:30.720Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses på Vesterbro tæt ved Enghave plads",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
