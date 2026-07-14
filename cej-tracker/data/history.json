@@ -3566,5 +3566,49 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/311fb705a5064a9899b4d23daa02a049",
+    "listingUrl": "https://udlejning.cej.dk/boliger/311fb705a5064a9899b4d23daa02a049",
+    "occurredAt": "2026-07-14T08:37:11.368Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/13a3b432dfe9de5c12d4d15041162022",
+    "listingUrl": "https://udlejning.cej.dk/boliger/13a3b432dfe9de5c12d4d15041162022",
+    "occurredAt": "2026-07-14T08:37:11.368Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses bolig i Søborg",
+    "summary": "Listing removed: Charmerende 2-værelses bolig i Søborg",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/13a3b432dfe9de5c12d4d15041162022",
+      "url": "https://udlejning.cej.dk/boliger/13a3b432dfe9de5c12d4d15041162022",
+      "title": "Charmerende 2-værelses bolig i Søborg",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 53,
+      "monthlyPriceDkk": 7482,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-06-30T09:59:18.180Z",
+      "lastSeenAt": "2026-07-14T06:26:46.108Z",
+      "rawText": "ReserveretCharmerende 2-værelses bolig i SøborgStengårds Alle 212, 1., tv, 2860 Søborg1. sal2 vær.53 m²7.482 kr./md"
+    },
+    "current": {}
   }
 ]
