@@ -3610,5 +3610,33 @@
       "rawText": "ReserveretCharmerende 2-værelses bolig i SøborgStengårds Alle 212, 1., tv, 2860 Søborg1. sal2 vær.53 m²7.482 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+    "occurredAt": "2026-07-14T10:23:34.179Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "Listing removed: 1-værelses lejlighed på Frederiksberg",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+      "url": "https://udlejning.cej.dk/boliger/f71591e20715809baadd8e73604591e3",
+      "title": "1-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 29,
+      "monthlyPriceDkk": 6929,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-02T10:41:05.279Z",
+      "lastSeenAt": "2026-07-14T08:37:11.368Z",
+      "rawText": "Reserveret1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 16, 2000 Frederiksberg3. sal1 vær.29 m²6.929 kr./md"
+    },
+    "current": {}
   }
 ]
