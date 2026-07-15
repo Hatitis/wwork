@@ -3638,5 +3638,65 @@
       "rawText": "Reserveret1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 16, 2000 Frederiksberg3. sal1 vær.29 m²6.929 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+    "occurredAt": "2026-07-15T10:22:30.829Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Ungdomsbolig på Amagerbro!",
+    "summary": "New listing: Ungdomsbolig på Amagerbro!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+      "url": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+      "title": "Ungdomsbolig på Amagerbro!",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 47,
+      "monthlyPriceDkk": 10250,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-15T10:22:30.829Z",
+      "lastSeenAt": "2026-07-15T10:22:30.829Z",
+      "rawText": "Ungdomsbolig på Amagerbro!Uplandsgade 6A, 3., 303, 2300 København S3. sal1 vær.47 m²10.250 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/1163140684165880ce18c98715cf14b7",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1163140684165880ce18c98715cf14b7",
+    "occurredAt": "2026-07-15T10:22:30.829Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/28b0c501ff178790e396e6350b05cfd3",
+    "listingUrl": "https://udlejning.cej.dk/boliger/28b0c501ff178790e396e6350b05cfd3",
+    "occurredAt": "2026-07-15T10:22:30.829Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 3-værelses lejlighed i København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
