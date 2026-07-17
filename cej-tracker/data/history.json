@@ -3742,5 +3742,65 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+    "occurredAt": "2026-07-17T11:45:46.118Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og rummelig 2-Værelses lejlighed i Strandhaven Karlslunde",
+    "summary": "New listing: Lys og rummelig 2-Værelses lejlighed i Strandhaven Karlslunde",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+      "url": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+      "title": "Lys og rummelig 2-Værelses lejlighed i Strandhaven Karlslunde",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 52,
+      "monthlyPriceDkk": 9708,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-17T11:45:46.118Z",
+      "lastSeenAt": "2026-07-17T11:45:46.118Z",
+      "rawText": "Lukket for henvendelserLys og rummelig 2-Værelses lejlighed i Strandhaven KarlslundeKarlslunde Parkvej 23E, 2., 9, 2690 Karlslunde2. sal2 vær.52 m²9.708 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+    "occurredAt": "2026-07-17T11:45:46.118Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Ungdomsbolig på Amagerbro!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+    "listingUrl": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+    "occurredAt": "2026-07-17T11:45:46.118Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses på Vesterbro tæt ved Enghave plads",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
