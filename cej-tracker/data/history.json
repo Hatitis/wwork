@@ -3802,5 +3802,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/1163140684165880ce18c98715cf14b7",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1163140684165880ce18c98715cf14b7",
+    "occurredAt": "2026-07-20T10:51:52.224Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "Listing removed: 1-værelses lejlighed i København NV",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/1163140684165880ce18c98715cf14b7",
+      "url": "https://udlejning.cej.dk/boliger/1163140684165880ce18c98715cf14b7",
+      "title": "1-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 42,
+      "monthlyPriceDkk": 5905,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-10T08:37:30.086Z",
+      "lastSeenAt": "2026-07-20T07:54:14.167Z",
+      "rawText": "Reserveret1-værelses lejlighed i København NVHovmestervej 39, 4., th, 2400 København NV4. sal1 vær.42 m²5.905 kr./md"
+    },
+    "current": {}
   }
 ]
