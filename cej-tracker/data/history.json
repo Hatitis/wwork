@@ -3830,5 +3830,33 @@
       "rawText": "Reserveret1-værelses lejlighed i København NVHovmestervej 39, 4., th, 2400 København NV4. sal1 vær.42 m²5.905 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+    "listingUrl": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+    "occurredAt": "2026-07-20T15:18:40.530Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses på Vesterbro tæt ved Enghave plads",
+    "summary": "Listing removed: Skøn 2-værelses på Vesterbro tæt ved Enghave plads",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+      "url": "https://udlejning.cej.dk/boliger/130927cf11fdd57838046a190310b1da",
+      "title": "Skøn 2-værelses på Vesterbro tæt ved Enghave plads",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 45,
+      "monthlyPriceDkk": 6915,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-10T08:37:30.086Z",
+      "lastSeenAt": "2026-07-20T13:01:09.298Z",
+      "rawText": "ReserveretSkøn 2-værelses på Vesterbro tæt ved Enghave pladsOehlenschlægersgade 68, st., th, 1663 København VStuen2 vær.45 m²6.915 kr./md"
+    },
+    "current": {}
   }
 ]
