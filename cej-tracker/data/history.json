@@ -3930,5 +3930,33 @@
       "rawText": "ReserveretUngdomsbolig på Amagerbro!Uplandsgade 6A, 3., 303, 2300 København S3. sal1 vær.47 m²10.250 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+    "occurredAt": "2026-07-22T12:49:35.502Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og rummelig 2-Værelses lejlighed i Strandhaven Karlslunde",
+    "summary": "Listing removed: Lys og rummelig 2-Værelses lejlighed i Strandhaven Karlslunde",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+      "url": "https://udlejning.cej.dk/boliger/12f5d95351634fd6892573e79eac86c9",
+      "title": "Lys og rummelig 2-Værelses lejlighed i Strandhaven Karlslunde",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 52,
+      "monthlyPriceDkk": 9708,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-17T11:45:46.118Z",
+      "lastSeenAt": "2026-07-22T11:16:04.150Z",
+      "rawText": "ReserveretLys og rummelig 2-Værelses lejlighed i Strandhaven KarlslundeKarlslunde Parkvej 23E, 2., 9, 2690 Karlslunde2. sal2 vær.52 m²9.708 kr./md"
+    },
+    "current": {}
   }
 ]
