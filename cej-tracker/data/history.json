@@ -3902,5 +3902,33 @@
       "rawText": "ReserveretCharmerende 3-værelses lejlighed i København NVTomsgårdsvej 93, st., th, 2400 København NVStuen3 vær.73 m²9.966 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+    "occurredAt": "2026-07-22T11:16:04.150Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Ungdomsbolig på Amagerbro!",
+    "summary": "Listing removed: Ungdomsbolig på Amagerbro!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+      "url": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
+      "title": "Ungdomsbolig på Amagerbro!",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 47,
+      "monthlyPriceDkk": 10250,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-15T10:22:30.829Z",
+      "lastSeenAt": "2026-07-22T09:02:10.203Z",
+      "rawText": "ReserveretUngdomsbolig på Amagerbro!Uplandsgade 6A, 3., 303, 2300 København S3. sal1 vær.47 m²10.250 kr./md"
+    },
+    "current": {}
   }
 ]

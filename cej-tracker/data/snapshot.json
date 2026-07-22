@@ -13,7 +13,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-17T11:45:46.118Z",
-    "lastSeenAt": "2026-07-22T09:02:10.203Z",
+    "lastSeenAt": "2026-07-22T11:16:04.150Z",
     "rawText": "ReserveretLys og rummelig 2-Værelses lejlighed i Strandhaven KarlslundeKarlslunde Parkvej 23E, 2., 9, 2690 Karlslunde2. sal2 vær.52 m²9.708 kr./md"
   },
   {
@@ -30,25 +30,8 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-15T11:56:24.154Z",
-    "lastSeenAt": "2026-07-22T09:02:10.203Z",
+    "lastSeenAt": "2026-07-22T11:16:04.150Z",
     "rawText": "Lukket for henvendelserSkøn 1-Værelses lejlighed på SigurdsgadeSigurdsgade 27, 1., 8, 2200 København N1. sal1 vær.33 m²8.750 kr./md"
-  },
-  {
-    "id": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
-    "url": "https://udlejning.cej.dk/boliger/e6f85850308a47c6823619811c6cf8b9",
-    "title": "Ungdomsbolig på Amagerbro!",
-    "address": "",
-    "locationText": "",
-    "floor": "3. sal",
-    "rooms": 1,
-    "sizeM2": 47,
-    "monthlyPriceDkk": 10250,
-    "status": "Reserveret",
-    "source": "cej",
-    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
-    "firstSeenAt": "2026-07-15T10:22:30.829Z",
-    "lastSeenAt": "2026-07-22T09:02:10.203Z",
-    "rawText": "ReserveretUngdomsbolig på Amagerbro!Uplandsgade 6A, 3., 303, 2300 København S3. sal1 vær.47 m²10.250 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/311fb705a5064a9899b4d23daa02a049",
@@ -64,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-08T10:51:31.995Z",
-    "lastSeenAt": "2026-07-22T09:02:10.203Z",
+    "lastSeenAt": "2026-07-22T11:16:04.150Z",
     "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 1., 28, 2450 København SV1. sal1 vær.40 m²7.400 kr./md"
   },
   {
@@ -81,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-06T13:32:29.184Z",
-    "lastSeenAt": "2026-07-22T09:02:10.203Z",
+    "lastSeenAt": "2026-07-22T11:16:04.150Z",
     "rawText": "Lukket for henvendelserSkøn 1-værelses lejlighed i SydhavnStøberigade 8, 4., 8, 2450 København SV4. sal1 vær.45 m²8.800 kr./md"
   },
   {
@@ -98,7 +81,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-11T11:07:02.952Z",
-    "lastSeenAt": "2026-07-22T09:02:10.203Z",
+    "lastSeenAt": "2026-07-22T11:16:04.150Z",
     "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
   }
 ]
