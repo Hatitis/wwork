@@ -1,5 +1,22 @@
 [
   {
+    "id": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+    "url": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+    "title": "2-værelses lejlighed i Ballerup",
+    "address": "",
+    "locationText": "",
+    "floor": "1. sal",
+    "rooms": 2,
+    "sizeM2": 64,
+    "monthlyPriceDkk": 11867,
+    "status": "ACTIVE",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "firstSeenAt": "2026-07-28T13:11:21.865Z",
+    "lastSeenAt": "2026-07-28T13:11:21.865Z",
+    "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 15, 1., tv, 2750 Ballerup1. sal2 vær.64 m²11.867 kr./md"
+  },
+  {
     "id": "https://udlejning.cej.dk/boliger/73c5e621f0014840a4a3ba98041dafaf",
     "url": "https://udlejning.cej.dk/boliger/73c5e621f0014840a4a3ba98041dafaf",
     "title": "Skøn 1-Værelses lejlighed på Sigurdsgade",
@@ -13,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-07-15T11:56:24.154Z",
-    "lastSeenAt": "2026-07-28T11:26:15.984Z",
+    "lastSeenAt": "2026-07-28T13:11:21.865Z",
     "rawText": "Lukket for henvendelserSkøn 1-Værelses lejlighed på SigurdsgadeSigurdsgade 27, 1., 8, 2200 København N1. sal1 vær.33 m²8.750 kr./md"
   },
   {
@@ -30,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-06-11T11:07:02.952Z",
-    "lastSeenAt": "2026-07-28T11:26:15.984Z",
+    "lastSeenAt": "2026-07-28T13:11:21.865Z",
     "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
   }
 ]

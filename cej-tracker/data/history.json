@@ -4014,5 +4014,33 @@
       "rawText": "Lukket for henvendelserSkøn 1-værelses lejlighed i SydhavnStøberigade 8, 4., 8, 2450 København SV4. sal1 vær.45 m²8.800 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+    "occurredAt": "2026-07-28T13:11:21.865Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses lejlighed i Ballerup",
+    "summary": "New listing: 2-værelses lejlighed i Ballerup",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+      "url": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+      "title": "2-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 64,
+      "monthlyPriceDkk": 11867,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-28T13:11:21.865Z",
+      "lastSeenAt": "2026-07-28T13:11:21.865Z",
+      "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 15, 1., tv, 2750 Ballerup1. sal2 vær.64 m²11.867 kr./md"
+    }
   }
 ]
