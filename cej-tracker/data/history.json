@@ -4042,5 +4042,33 @@
       "lastSeenAt": "2026-07-28T13:11:21.865Z",
       "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 15, 1., tv, 2750 Ballerup1. sal2 vær.64 m²11.867 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/7e857936ba5641d8b2d3f2d213f7ea09",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7e857936ba5641d8b2d3f2d213f7ea09",
+    "occurredAt": "2026-07-31T10:12:29.152Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "summary": "New listing: Skøn 3-værelses lejlighed i Ballerup",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/7e857936ba5641d8b2d3f2d213f7ea09",
+      "url": "https://udlejning.cej.dk/boliger/7e857936ba5641d8b2d3f2d213f7ea09",
+      "title": "Skøn 3-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 3,
+      "sizeM2": 80,
+      "monthlyPriceDkk": 11800,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-31T10:12:29.152Z",
+      "lastSeenAt": "2026-07-31T10:12:29.152Z",
+      "rawText": "Skøn 3-værelses lejlighed i BallerupLautruphøj 3H, 2., tv, 2750 Ballerup2. sal3 vær.80 m²11.800 kr./md"
+    }
   }
 ]
