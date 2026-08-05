@@ -4098,5 +4098,33 @@
       "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 11, 2., 3, 2750 Ballerup2. sal2 vær.57 m²11.444 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+    "occurredAt": "2026-08-05T10:00:18.966Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i Næstved!",
+    "summary": "New listing: 1-værelses bolig i Næstved!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+      "url": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+      "title": "1-værelses bolig i Næstved!",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 40,
+      "monthlyPriceDkk": 3780,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-05T10:00:18.966Z",
+      "lastSeenAt": "2026-08-05T10:00:18.966Z",
+      "rawText": "1-værelses bolig i Næstved! Præstøvej 37A, kl., 10, 4700 NæstvedStuen1 vær.40 m²3.780 kr./md"
+    }
   }
 ]
