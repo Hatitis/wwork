@@ -4126,5 +4126,61 @@
       "lastSeenAt": "2026-08-05T10:00:18.966Z",
       "rawText": "1-værelses bolig i Næstved! Præstøvej 37A, kl., 10, 4700 NæstvedStuen1 vær.40 m²3.780 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+    "occurredAt": "2026-08-06T09:18:28.543Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig på Amagerbro",
+    "summary": "New listing: 1-værelses bolig på Amagerbro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+      "url": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+      "title": "1-værelses bolig på Amagerbro",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 39,
+      "monthlyPriceDkk": 9500,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-06T09:18:28.543Z",
+      "lastSeenAt": "2026-08-06T09:18:28.543Z",
+      "rawText": "1-værelses bolig på Amagerbro Uplandsgade 6B, 3., 314, 2300 København S3. sal1 vær.39 m²9.500 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/73c5e621f0014840a4a3ba98041dafaf",
+    "listingUrl": "https://udlejning.cej.dk/boliger/73c5e621f0014840a4a3ba98041dafaf",
+    "occurredAt": "2026-08-06T09:18:28.543Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-Værelses lejlighed på Sigurdsgade",
+    "summary": "Listing removed: Skøn 1-Værelses lejlighed på Sigurdsgade",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/73c5e621f0014840a4a3ba98041dafaf",
+      "url": "https://udlejning.cej.dk/boliger/73c5e621f0014840a4a3ba98041dafaf",
+      "title": "Skøn 1-Værelses lejlighed på Sigurdsgade",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 33,
+      "monthlyPriceDkk": 8750,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-15T11:56:24.154Z",
+      "lastSeenAt": "2026-08-06T06:16:23.283Z",
+      "rawText": "Lukket for henvendelserSkøn 1-Værelses lejlighed på SigurdsgadeSigurdsgade 27, 1., 8, 2200 København N1. sal1 vær.33 m²8.750 kr./md"
+    },
+    "current": {}
   }
 ]
