@@ -4182,5 +4182,33 @@
       "rawText": "Lukket for henvendelserSkøn 1-Værelses lejlighed på SigurdsgadeSigurdsgade 27, 1., 8, 2200 København N1. sal1 vær.33 m²8.750 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/e6d4d57f8760241a03fba8965288f2af",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e6d4d57f8760241a03fba8965288f2af",
+    "occurredAt": "2026-08-07T11:08:19.030Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn klassisk 2-værelses i København NV",
+    "summary": "New listing: Skøn klassisk 2-værelses i København NV",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/e6d4d57f8760241a03fba8965288f2af",
+      "url": "https://udlejning.cej.dk/boliger/e6d4d57f8760241a03fba8965288f2af",
+      "title": "Skøn klassisk 2-værelses i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 57.6,
+      "monthlyPriceDkk": 7758,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-07T11:08:19.030Z",
+      "lastSeenAt": "2026-08-07T11:08:19.030Z",
+      "rawText": "Skøn klassisk 2-værelses i København NVTingskrivervej 16, st., th, 2400 København NVStuen2 vær.57.6 m²7.758 kr./md"
+    }
   }
 ]
