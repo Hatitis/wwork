@@ -4314,5 +4314,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+    "listingUrl": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+    "occurredAt": "2026-08-12T10:32:45.477Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-Værelses lejlighed i København N",
+    "summary": "New listing: 1-Værelses lejlighed i København N",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+      "url": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+      "title": "1-Værelses lejlighed i København N",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 31,
+      "monthlyPriceDkk": 8300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-12T10:32:45.477Z",
+      "lastSeenAt": "2026-08-12T10:32:45.477Z",
+      "rawText": "1-Værelses lejlighed i København NSigurdsgade 27, 2., 3, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
+    }
   }
 ]
