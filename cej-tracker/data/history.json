@@ -4374,5 +4374,65 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+    "listingUrl": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+    "occurredAt": "2026-08-13T10:46:34.740Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "New listing: 1-værelses lejlighed på Frederiksberg",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+      "url": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+      "title": "1-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 27,
+      "monthlyPriceDkk": 6520,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-13T10:46:34.740Z",
+      "lastSeenAt": "2026-08-13T10:46:34.740Z",
+      "rawText": "Lukket for henvendelser1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 4., 12, 2000 Frederiksberg4. sal1 vær.27 m²6.520 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+    "occurredAt": "2026-08-13T10:46:34.740Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i Næstved!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/7e857936ba5641d8b2d3f2d213f7ea09",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7e857936ba5641d8b2d3f2d213f7ea09",
+    "occurredAt": "2026-08-13T10:46:34.740Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
