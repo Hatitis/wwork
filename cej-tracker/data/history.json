@@ -4358,5 +4358,21 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+    "listingUrl": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+    "occurredAt": "2026-08-13T07:02:27.801Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-Værelses lejlighed i København N",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
