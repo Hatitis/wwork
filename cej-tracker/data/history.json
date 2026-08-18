@@ -4546,5 +4546,21 @@
       "rawText": "Lukket for henvendelserSkøn klassisk 2-værelses i København NVTingskrivervej 16, st., th, 2400 København NVStuen2 vær.57.6 m²7.758 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+    "listingUrl": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+    "occurredAt": "2026-08-18T08:36:52.731Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
