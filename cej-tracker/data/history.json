@@ -4562,5 +4562,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/c459c86c34b94ef3a92552bdac3df779",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c459c86c34b94ef3a92552bdac3df779",
+    "occurredAt": "2026-08-18T09:13:38.361Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn og lys 2-værelses lejlighed i Vanløse",
+    "summary": "New listing: Skøn og lys 2-værelses lejlighed i Vanløse",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/c459c86c34b94ef3a92552bdac3df779",
+      "url": "https://udlejning.cej.dk/boliger/c459c86c34b94ef3a92552bdac3df779",
+      "title": "Skøn og lys 2-værelses lejlighed i Vanløse",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 50,
+      "monthlyPriceDkk": 6971,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-18T09:13:38.361Z",
+      "lastSeenAt": "2026-08-18T09:13:38.361Z",
+      "rawText": "Lukket for henvendelserSkøn og lys 2-værelses lejlighed i VanløseThorupgård Allé 14, 1., 2, 2720 Vanløse1. sal2 vær.50 m²6.971 kr./md"
+    }
   }
 ]
