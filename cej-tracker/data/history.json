@@ -4646,5 +4646,33 @@
       "rawText": "Lukket for henvendelser3-Værelses lejlighed med indbydende planløsning og altanFjerkløvervej 1, 3., th, 2750 Ballerup3. sal3 vær.78 m²11.749 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "occurredAt": "2026-08-19T09:18:39.678Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "New listing: 1-værelses lejlighed i København NV",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+      "url": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+      "title": "1-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 42.1,
+      "monthlyPriceDkk": 5905,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-19T09:18:39.678Z",
+      "lastSeenAt": "2026-08-19T09:18:39.678Z",
+      "rawText": "1-værelses lejlighed i København NVHovmestervej 41, 1., th, 2400 København NV1. sal1 vær.42.1 m²5.905 kr./md"
+    }
   }
 ]
