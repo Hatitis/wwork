@@ -4674,5 +4674,21 @@
       "lastSeenAt": "2026-08-19T09:18:39.678Z",
       "rawText": "1-værelses lejlighed i København NVHovmestervej 41, 1., th, 2400 København NV1. sal1 vær.42.1 m²5.905 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "occurredAt": "2026-08-19T09:53:57.821Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
