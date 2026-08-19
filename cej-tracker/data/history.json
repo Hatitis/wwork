@@ -4690,5 +4690,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+    "occurredAt": "2026-08-19T10:56:21.980Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "summary": "New listing: Skøn 3-værelses lejlighed i Ballerup",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+      "url": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+      "title": "Skøn 3-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 3,
+      "sizeM2": 80,
+      "monthlyPriceDkk": 11750,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-19T10:56:21.980Z",
+      "lastSeenAt": "2026-08-19T10:56:21.980Z",
+      "rawText": "Skøn 3-værelses lejlighed i Ballerup Lautruphøj 3H, 1., tv, 2750 Ballerup1. sal3 vær.80 m²11.750 kr./md"
+    }
   }
 ]

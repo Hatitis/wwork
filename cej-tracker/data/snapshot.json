@@ -1,5 +1,22 @@
 [
   {
+    "id": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+    "url": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "address": "",
+    "locationText": "",
+    "floor": "1. sal",
+    "rooms": 3,
+    "sizeM2": 80,
+    "monthlyPriceDkk": 11750,
+    "status": "ACTIVE",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "firstSeenAt": "2026-08-19T10:56:21.980Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
+    "rawText": "Skøn 3-værelses lejlighed i Ballerup Lautruphøj 3H, 1., tv, 2750 Ballerup1. sal3 vær.80 m²11.750 kr./md"
+  },
+  {
     "id": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
     "url": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
     "title": "1-værelses lejlighed i København NV",
@@ -13,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-19T09:18:39.678Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "Lukket for henvendelser1-værelses lejlighed i København NVHovmestervej 41, 1., th, 2400 København NV1. sal1 vær.42.1 m²5.905 kr./md"
   },
   {
@@ -30,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-18T09:13:38.361Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "Lukket for henvendelserSkøn og lys 2-værelses lejlighed i VanløseThorupgård Allé 14, 1., 2, 2720 Vanløse1. sal2 vær.50 m²6.971 kr./md"
   },
   {
@@ -47,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-17T13:35:13.331Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "1-værelses studiebolig på TeglholmenStøberigade 8, 2., 5, 2450 København SV2. sal1 vær.34 m²6.850 kr./md"
   },
   {
@@ -64,7 +81,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-17T13:35:13.331Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "2-værelsesbolig centralt på Amager! Uplandsgade 6A, 3., 304, 2300 København S3. sal2 vær.47 m²11.600 kr./md"
   },
   {
@@ -81,7 +98,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-13T10:46:34.740Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "Reserveret1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 4., 12, 2000 Frederiksberg4. sal1 vær.27 m²6.520 kr./md"
   },
   {
@@ -98,7 +115,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-12T10:32:45.477Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "Lukket for henvendelser1-Værelses lejlighed i København NSigurdsgade 27, 2., 3, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
   },
   {
@@ -115,7 +132,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-11T11:27:41.010Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed i København NVFrederiksborgvej 101, 2., th, 2400 København NV2. sal2 vær.60.5 m²8.148 kr./md"
   },
   {
@@ -132,7 +149,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-06T09:18:28.543Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "Reserveret1-værelses bolig på Amagerbro Uplandsgade 6B, 3., 314, 2300 København S3. sal1 vær.39 m²9.500 kr./md"
   },
   {
@@ -149,7 +166,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-08-05T10:00:18.966Z",
-    "lastSeenAt": "2026-08-19T10:27:09.406Z",
+    "lastSeenAt": "2026-08-19T10:56:21.980Z",
     "rawText": "Reserveret1-værelses bolig i Næstved! Præstøvej 37A, kl., 10, 4700 NæstvedStuen1 vær.40 m²3.780 kr./md"
   }
 ]
