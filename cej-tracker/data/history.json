@@ -4590,5 +4590,33 @@
       "lastSeenAt": "2026-08-18T09:13:38.361Z",
       "rawText": "Lukket for henvendelserSkøn og lys 2-værelses lejlighed i VanløseThorupgård Allé 14, 1., 2, 2720 Vanløse1. sal2 vær.50 m²6.971 kr./md"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+    "occurredAt": "2026-08-19T07:59:27.674Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses lejlighed i Ballerup",
+    "summary": "Listing removed: 2-værelses lejlighed i Ballerup",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+      "url": "https://udlejning.cej.dk/boliger/9abb66e267fe4ebe958a35a4537453f9",
+      "title": "2-værelses lejlighed i Ballerup",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 64,
+      "monthlyPriceDkk": 11867,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-07-28T13:11:21.865Z",
+      "lastSeenAt": "2026-08-19T07:20:20.006Z",
+      "rawText": "2-værelses lejlighed i BallerupFjerkløvervej 15, 1., tv, 2750 Ballerup1. sal2 vær.64 m²11.867 kr./md"
+    },
+    "current": {}
   }
 ]
