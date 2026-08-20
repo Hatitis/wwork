@@ -4746,5 +4746,121 @@
       "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed i København NVFrederiksborgvej 101, 2., th, 2400 København NV2. sal2 vær.60.5 m²8.148 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+    "listingUrl": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+    "occurredAt": "2026-08-20T10:42:49.849Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i moderne ejendom på Sluseholmen!",
+    "summary": "New listing: 1-værelses bolig i moderne ejendom på Sluseholmen!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+      "url": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+      "title": "1-værelses bolig i moderne ejendom på Sluseholmen!",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 40,
+      "monthlyPriceDkk": 8300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-20T10:42:49.849Z",
+      "lastSeenAt": "2026-08-20T10:42:49.849Z",
+      "rawText": "1-værelses bolig i moderne ejendom på Sluseholmen! Ved Stigbordene 10, 3., 2, 2450 København SV3. sal1 vær.40 m²8.300 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/c51f7b33869f40c6802ee212c8eeec67",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c51f7b33869f40c6802ee212c8eeec67",
+    "occurredAt": "2026-08-20T10:42:49.849Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/3fbf6e9c6fc242febc5f5e72ebedebee",
+    "listingUrl": "https://udlejning.cej.dk/boliger/3fbf6e9c6fc242febc5f5e72ebedebee",
+    "occurredAt": "2026-08-20T10:42:49.849Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelsesbolig centralt på Amager!",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+    "occurredAt": "2026-08-20T10:42:49.849Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig på Amagerbro",
+    "summary": "Listing removed: 1-værelses bolig på Amagerbro",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+      "url": "https://udlejning.cej.dk/boliger/1f95ec4a9bb24b3eb102f24416d04d37",
+      "title": "1-værelses bolig på Amagerbro",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 39,
+      "monthlyPriceDkk": 9500,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-06T09:18:28.543Z",
+      "lastSeenAt": "2026-08-20T10:02:46.682Z",
+      "rawText": "Reserveret1-værelses bolig på Amagerbro Uplandsgade 6B, 3., 314, 2300 København S3. sal1 vær.39 m²9.500 kr./md"
+    },
+    "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+    "occurredAt": "2026-08-20T10:42:49.849Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i Næstved!",
+    "summary": "Listing removed: 1-værelses bolig i Næstved!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+      "url": "https://udlejning.cej.dk/boliger/f4073479db714a0eab4a0c165fa6bbd2",
+      "title": "1-værelses bolig i Næstved!",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 40,
+      "monthlyPriceDkk": 3780,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-05T10:00:18.966Z",
+      "lastSeenAt": "2026-08-20T10:02:46.682Z",
+      "rawText": "Reserveret1-værelses bolig i Næstved! Præstøvej 37A, kl., 10, 4700 NæstvedStuen1 vær.40 m²3.780 kr./md"
+    },
+    "current": {}
   }
 ]
