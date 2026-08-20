@@ -4718,5 +4718,33 @@
       "lastSeenAt": "2026-08-19T10:56:21.980Z",
       "rawText": "Skøn 3-værelses lejlighed i Ballerup Lautruphøj 3H, 1., tv, 2750 Ballerup1. sal3 vær.80 m²11.750 kr./md"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/cc475162d7e1ea73af3af17d6973bca2",
+    "listingUrl": "https://udlejning.cej.dk/boliger/cc475162d7e1ea73af3af17d6973bca2",
+    "occurredAt": "2026-08-20T08:53:04.703Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed i København NV",
+    "summary": "Listing removed: Skøn 2-værelses lejlighed i København NV",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/cc475162d7e1ea73af3af17d6973bca2",
+      "url": "https://udlejning.cej.dk/boliger/cc475162d7e1ea73af3af17d6973bca2",
+      "title": "Skøn 2-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 60.5,
+      "monthlyPriceDkk": 8148,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-11T11:27:41.010Z",
+      "lastSeenAt": "2026-08-20T08:05:31.085Z",
+      "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed i København NVFrederiksborgvej 101, 2., th, 2400 København NV2. sal2 vær.60.5 m²8.148 kr./md"
+    },
+    "current": {}
   }
 ]
