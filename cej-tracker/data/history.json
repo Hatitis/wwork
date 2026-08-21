@@ -4862,5 +4862,33 @@
       "rawText": "Reserveret1-værelses bolig i Næstved! Præstøvej 37A, kl., 10, 4700 NæstvedStuen1 vær.40 m²3.780 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+    "occurredAt": "2026-08-21T09:43:18.242Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Klassik 2-værelses bolig i Kgs. Lyngby",
+    "summary": "New listing: Klassik 2-værelses bolig i Kgs. Lyngby",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+      "url": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+      "title": "Klassik 2-værelses bolig i Kgs. Lyngby",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 42,
+      "monthlyPriceDkk": 7715,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-21T09:43:18.242Z",
+      "lastSeenAt": "2026-08-21T09:43:18.242Z",
+      "rawText": "Klassik 2-værelses bolig i Kgs. Lyngby Gedvad 7, 1., tv, 2800 Kongens Lyngby1. sal2 vær.42 m²7.715 kr./md"
+    }
   }
 ]
