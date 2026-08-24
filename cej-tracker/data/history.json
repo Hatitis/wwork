@@ -4962,5 +4962,37 @@
       "lastSeenAt": "2026-08-24T08:24:28.191Z",
       "rawText": "1-værelses lejlighed centralt beliggende på Nørrebro Sigurdsgade 31, 2., 3, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "occurredAt": "2026-08-24T09:22:40.732Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+    "listingUrl": "https://udlejning.cej.dk/boliger/a85ffd302ad041cdbc1cf5b941d648d6",
+    "occurredAt": "2026-08-24T09:22:40.732Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-Værelses lejlighed i København N",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
