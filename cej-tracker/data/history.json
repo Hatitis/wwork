@@ -4890,5 +4890,49 @@
       "lastSeenAt": "2026-08-21T09:43:18.242Z",
       "rawText": "Klassik 2-værelses bolig i Kgs. Lyngby Gedvad 7, 1., tv, 2800 Kongens Lyngby1. sal2 vær.42 m²7.715 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+    "listingUrl": "https://udlejning.cej.dk/boliger/d08bd5cfb61440a2ad45ce03bf6377cb",
+    "occurredAt": "2026-08-24T05:39:40.340Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i Ballerup",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+    "listingUrl": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+    "occurredAt": "2026-08-24T05:39:40.340Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "Listing removed: 1-værelses lejlighed på Frederiksberg",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+      "url": "https://udlejning.cej.dk/boliger/73c334bd525e1f9f0ad3ebfd0a21ed07",
+      "title": "1-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 27,
+      "monthlyPriceDkk": 6520,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-13T10:46:34.740Z",
+      "lastSeenAt": "2026-08-24T04:55:08.300Z",
+      "rawText": "Reserveret1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 4., 12, 2000 Frederiksberg4. sal1 vær.27 m²6.520 kr./md"
+    },
+    "current": {}
   }
 ]
