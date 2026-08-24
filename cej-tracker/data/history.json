@@ -4934,5 +4934,33 @@
       "rawText": "Reserveret1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 4., 12, 2000 Frederiksberg4. sal1 vær.27 m²6.520 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/fd5d14d88e8945b79e37a45fdc7c9c34",
+    "listingUrl": "https://udlejning.cej.dk/boliger/fd5d14d88e8945b79e37a45fdc7c9c34",
+    "occurredAt": "2026-08-24T08:24:28.191Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed centralt beliggende på Nørrebro",
+    "summary": "New listing: 1-værelses lejlighed centralt beliggende på Nørrebro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/fd5d14d88e8945b79e37a45fdc7c9c34",
+      "url": "https://udlejning.cej.dk/boliger/fd5d14d88e8945b79e37a45fdc7c9c34",
+      "title": "1-værelses lejlighed centralt beliggende på Nørrebro",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 31,
+      "monthlyPriceDkk": 8300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-24T08:24:28.191Z",
+      "lastSeenAt": "2026-08-24T08:24:28.191Z",
+      "rawText": "1-værelses lejlighed centralt beliggende på Nørrebro Sigurdsgade 31, 2., 3, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
+    }
   }
 ]
