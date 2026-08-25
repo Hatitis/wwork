@@ -5038,5 +5038,37 @@
       "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 2., 5, 2450 København SV2. sal1 vær.34 m²6.850 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+    "occurredAt": "2026-08-25T08:54:00.877Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Klassik 2-værelses bolig i Kgs. Lyngby",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+    "listingUrl": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+    "occurredAt": "2026-08-25T08:54:00.877Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i moderne ejendom på Sluseholmen!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
