@@ -5010,5 +5010,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/c51f7b33869f40c6802ee212c8eeec67",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c51f7b33869f40c6802ee212c8eeec67",
+    "occurredAt": "2026-08-25T08:01:05.170Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig på Teglholmen",
+    "summary": "Listing removed: 1-værelses studiebolig på Teglholmen",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/c51f7b33869f40c6802ee212c8eeec67",
+      "url": "https://udlejning.cej.dk/boliger/c51f7b33869f40c6802ee212c8eeec67",
+      "title": "1-værelses studiebolig på Teglholmen",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6850,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-17T13:35:13.331Z",
+      "lastSeenAt": "2026-08-25T07:13:09.511Z",
+      "rawText": "Reserveret1-værelses studiebolig på TeglholmenStøberigade 8, 2., 5, 2450 København SV2. sal1 vær.34 m²6.850 kr./md"
+    },
+    "current": {}
   }
 ]
