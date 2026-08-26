@@ -5070,5 +5070,21 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/c459c86c34b94ef3a92552bdac3df779",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c459c86c34b94ef3a92552bdac3df779",
+    "occurredAt": "2026-08-26T07:23:19.761Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn og lys 2-værelses lejlighed i Vanløse",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
