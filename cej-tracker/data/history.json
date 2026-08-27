@@ -5114,5 +5114,33 @@
       "rawText": "Reserveret1-Værelses lejlighed i København NSigurdsgade 27, 2., 3, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/fdb83aa13b93ee8ab3f7e8f4e5cab4bf",
+    "listingUrl": "https://udlejning.cej.dk/boliger/fdb83aa13b93ee8ab3f7e8f4e5cab4bf",
+    "occurredAt": "2026-08-27T16:25:33.804Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses på attraktive Rådmandsgade!",
+    "summary": "New listing: Charmerende 2-værelses på attraktive Rådmandsgade!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/fdb83aa13b93ee8ab3f7e8f4e5cab4bf",
+      "url": "https://udlejning.cej.dk/boliger/fdb83aa13b93ee8ab3f7e8f4e5cab4bf",
+      "title": "Charmerende 2-værelses på attraktive Rådmandsgade!",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 2,
+      "sizeM2": 55,
+      "monthlyPriceDkk": 9000,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-27T16:25:33.804Z",
+      "lastSeenAt": "2026-08-27T16:25:33.804Z",
+      "rawText": "Lukket for henvendelserCharmerende 2-værelses på attraktive Rådmandsgade!Rådmandsgade 14, 3., th, 2200 København N3. sal2 vær.55 m²9.000 kr./md"
+    }
   }
 ]
