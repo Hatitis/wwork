@@ -5142,5 +5142,61 @@
       "lastSeenAt": "2026-08-27T16:25:33.804Z",
       "rawText": "Lukket for henvendelserCharmerende 2-værelses på attraktive Rådmandsgade!Rådmandsgade 14, 3., th, 2200 København N3. sal2 vær.55 m²9.000 kr./md"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/33509e2c249b776cdeff7e780d6ab99e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/33509e2c249b776cdeff7e780d6ab99e",
+    "occurredAt": "2026-08-28T12:43:02.909Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og rummelig 2-værelses lejlighed I København NV",
+    "summary": "New listing: Lys og rummelig 2-værelses lejlighed I København NV",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/33509e2c249b776cdeff7e780d6ab99e",
+      "url": "https://udlejning.cej.dk/boliger/33509e2c249b776cdeff7e780d6ab99e",
+      "title": "Lys og rummelig 2-værelses lejlighed I København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 2,
+      "sizeM2": 57,
+      "monthlyPriceDkk": 8034,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-28T12:43:02.909Z",
+      "lastSeenAt": "2026-08-28T12:43:02.909Z",
+      "rawText": "Lukket for henvendelserLys og rummelig 2-værelses lejlighed I København NVTomsgårdsvej 89, 4., tv, 2400 København NV4. sal2 vær.57 m²8.034 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "listingUrl": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+    "occurredAt": "2026-08-28T12:43:02.909Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i København NV",
+    "summary": "Listing removed: 1-værelses lejlighed i København NV",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+      "url": "https://udlejning.cej.dk/boliger/2cfbea3af7506a873f21c1eea65cc502",
+      "title": "1-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 42.1,
+      "monthlyPriceDkk": 5905,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-19T09:18:39.678Z",
+      "lastSeenAt": "2026-08-28T01:04:01.901Z",
+      "rawText": "Reserveret1-værelses lejlighed i København NVHovmestervej 41, 1., th, 2400 København NV1. sal1 vær.42.1 m²5.905 kr./md"
+    },
+    "current": {}
   }
 ]
