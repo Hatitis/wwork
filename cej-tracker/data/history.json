@@ -5370,5 +5370,21 @@
       "rawText": "Lukket for henvendelserSkøn 3-værelses lejlighed i Ballerup Lautruphøj 3H, 1., tv, 2750 Ballerup1. sal3 vær.80 m²11.750 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/33509e2c249b776cdeff7e780d6ab99e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/33509e2c249b776cdeff7e780d6ab99e",
+    "occurredAt": "2026-09-01T13:42:54.280Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og rummelig 2-værelses lejlighed I København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
