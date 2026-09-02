@@ -5386,5 +5386,77 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/7a0ff004606747c89b38bfc153f74019",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7a0ff004606747c89b38bfc153f74019",
+    "occurredAt": "2026-09-02T13:49:25.072Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Studiebolig på teglholmen med hems",
+    "summary": "New listing: Studiebolig på teglholmen med hems",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/7a0ff004606747c89b38bfc153f74019",
+      "url": "https://udlejning.cej.dk/boliger/7a0ff004606747c89b38bfc153f74019",
+      "title": "Studiebolig på teglholmen med hems",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 1,
+      "sizeM2": 57,
+      "monthlyPriceDkk": 10300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-02T13:49:25.072Z",
+      "lastSeenAt": "2026-09-02T13:49:25.072Z",
+      "rawText": "Studiebolig på teglholmen med hemsStøberigade 8, 4., 26, 2450 København SV4. sal1 vær.57 m²10.300 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/c9103cf3a7df4402bcf2bacc27cdfd4d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c9103cf3a7df4402bcf2bacc27cdfd4d",
+    "occurredAt": "2026-09-02T13:49:25.072Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig i Sydhavnen",
+    "summary": "New listing: 1-værelses studiebolig i Sydhavnen",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/c9103cf3a7df4402bcf2bacc27cdfd4d",
+      "url": "https://udlejning.cej.dk/boliger/c9103cf3a7df4402bcf2bacc27cdfd4d",
+      "title": "1-værelses studiebolig i Sydhavnen",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 6775,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-02T13:49:25.072Z",
+      "lastSeenAt": "2026-09-02T13:49:25.072Z",
+      "rawText": "1-værelses studiebolig i SydhavnenStøberigade 8, 2., 4, 2450 København SV2. sal1 vær.34 m²6.775 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/c978da57ce904dd7a5d6108940ee2ced",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c978da57ce904dd7a5d6108940ee2ced",
+    "occurredAt": "2026-09-02T13:49:25.072Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses lejlighed på Frederiksberg",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
