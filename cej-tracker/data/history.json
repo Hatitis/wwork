@@ -5458,5 +5458,49 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+    "listingUrl": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+    "occurredAt": "2026-09-03T09:41:40.087Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "New listing: 1-værelses lejlighed på Frederiksberg",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+      "url": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+      "title": "1-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 27,
+      "monthlyPriceDkk": 6620,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-03T09:41:40.087Z",
+      "lastSeenAt": "2026-09-03T09:41:40.087Z",
+      "rawText": "1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 1., 6, 2000 Frederiksberg1. sal1 vær.27 m²6.620 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/0a57c28f7a7b445f0579751f5bfeb72a",
+    "listingUrl": "https://udlejning.cej.dk/boliger/0a57c28f7a7b445f0579751f5bfeb72a",
+    "occurredAt": "2026-09-03T09:41:40.087Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "3-værelses lejlighed i København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
