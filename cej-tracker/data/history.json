@@ -5602,5 +5602,77 @@
       "rawText": "2-værelsesbolig centralt på Amager! Uplandsgade 6A, 3., 304, 2300 København S3. sal2 vær.47 m²11.600 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+    "listingUrl": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+    "occurredAt": "2026-09-04T13:31:38.104Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 1-værelses lejlighed på Sluseholmen!",
+    "summary": "New listing: Flot 1-værelses lejlighed på Sluseholmen!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+      "url": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+      "title": "Flot 1-værelses lejlighed på Sluseholmen!",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 36,
+      "monthlyPriceDkk": 7800,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-04T13:31:38.104Z",
+      "lastSeenAt": "2026-09-04T13:31:38.104Z",
+      "rawText": "Flot 1-værelses lejlighed på Sluseholmen!Ved Stigbordene 16, 2., 5, 2450 København SV2. sal1 vær.36 m²7.800 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/a6b5b3406f7743ec95a83b6c7d444713",
+    "listingUrl": "https://udlejning.cej.dk/boliger/a6b5b3406f7743ec95a83b6c7d444713",
+    "occurredAt": "2026-09-04T13:31:38.104Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Moderne 1-værelses bolig på Amagerbro!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+    "listingUrl": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+    "occurredAt": "2026-09-04T13:31:38.104Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i moderne ejendom på Sluseholmen!",
+    "summary": "Listing removed: 1-værelses bolig i moderne ejendom på Sluseholmen!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+      "url": "https://udlejning.cej.dk/boliger/8ee2305015444f56906387df85cc8227",
+      "title": "1-værelses bolig i moderne ejendom på Sluseholmen!",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 40,
+      "monthlyPriceDkk": 8300,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-20T10:42:49.849Z",
+      "lastSeenAt": "2026-09-04T09:13:10.695Z",
+      "rawText": "Reserveret1-værelses bolig i moderne ejendom på Sluseholmen! Ved Stigbordene 10, 3., 2, 2450 København SV3. sal1 vær.40 m²8.300 kr./md"
+    },
+    "current": {}
   }
 ]
