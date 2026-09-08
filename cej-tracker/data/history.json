@@ -5718,5 +5718,49 @@
       "rawText": "ReserveretModerne 1-værelses bolig på Amagerbro! Uplandsgade 6A, 5., 502, 2300 København S5. sal1 vær.41 m²9.800 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+    "occurredAt": "2026-09-08T11:06:33.245Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses ungdomsbolig i spændende ejendom!",
+    "summary": "New listing: 1-værelses ungdomsbolig i spændende ejendom!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+      "url": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+      "title": "1-værelses ungdomsbolig i spændende ejendom!",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 37,
+      "monthlyPriceDkk": 7900,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-08T11:06:33.245Z",
+      "lastSeenAt": "2026-09-08T11:06:33.245Z",
+      "rawText": "1-værelses ungdomsbolig i spændende ejendom!Ved Stigbordene 10, 1., 10, 2450 København SV1. sal1 vær.37 m²7.900 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+    "listingUrl": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+    "occurredAt": "2026-09-08T11:06:33.245Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 1-værelses lejlighed på Sluseholmen!",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
