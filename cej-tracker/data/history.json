@@ -5762,5 +5762,121 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+    "occurredAt": "2026-09-09T11:50:17.411Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Klassisk skøn 2-værelses på Nørrebro",
+    "summary": "New listing: Klassisk skøn 2-værelses på Nørrebro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+      "url": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+      "title": "Klassisk skøn 2-værelses på Nørrebro",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 51,
+      "monthlyPriceDkk": 8500,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-09T11:50:17.411Z",
+      "lastSeenAt": "2026-09-09T11:50:17.411Z",
+      "rawText": "Lukket for henvendelserKlassisk skøn 2-værelses på NørrebroRådmandsgade 10, 1., th, 2200 København N1. sal2 vær.51 m²8.500 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+    "occurredAt": "2026-09-09T11:50:17.411Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses ungdomsbolig i spændende ejendom!",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/fdb83aa13b93ee8ab3f7e8f4e5cab4bf",
+    "listingUrl": "https://udlejning.cej.dk/boliger/fdb83aa13b93ee8ab3f7e8f4e5cab4bf",
+    "occurredAt": "2026-09-09T11:50:17.411Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses på attraktive Rådmandsgade!",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+    "listingUrl": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+    "occurredAt": "2026-09-09T11:50:17.411Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 1-værelses lejlighed på Sluseholmen!",
+    "summary": "Listing removed: Flot 1-værelses lejlighed på Sluseholmen!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+      "url": "https://udlejning.cej.dk/boliger/09359a580f54433b88b5228f9272af94",
+      "title": "Flot 1-værelses lejlighed på Sluseholmen!",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 36,
+      "monthlyPriceDkk": 7800,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-04T13:31:38.104Z",
+      "lastSeenAt": "2026-09-09T06:36:32.572Z",
+      "rawText": "ReserveretFlot 1-værelses lejlighed på Sluseholmen!Ved Stigbordene 16, 2., 5, 2450 København SV2. sal1 vær.36 m²7.800 kr./md"
+    },
+    "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+    "occurredAt": "2026-09-09T11:50:17.411Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Klassik 2-værelses bolig i Kgs. Lyngby",
+    "summary": "Listing removed: Klassik 2-værelses bolig i Kgs. Lyngby",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+      "url": "https://udlejning.cej.dk/boliger/1a24ec8186b23d3ea01682214d5b7441",
+      "title": "Klassik 2-værelses bolig i Kgs. Lyngby",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 42,
+      "monthlyPriceDkk": 7715,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-21T09:43:18.242Z",
+      "lastSeenAt": "2026-09-09T06:36:32.572Z",
+      "rawText": "ReserveretKlassik 2-værelses bolig i Kgs. Lyngby Gedvad 7, 1., tv, 2800 Kongens Lyngby1. sal2 vær.42 m²7.715 kr./md"
+    },
+    "current": {}
   }
 ]

@@ -1,11 +1,11 @@
 {
-  "lastRunAt": "2026-09-09T06:36:32.572Z",
-  "lastSuccessAt": "2026-09-09T06:36:32.572Z",
-  "lastFetchAt": "2026-09-09T06:36:32.614Z",
-  "lastParseAt": "2026-09-09T06:36:32.572Z",
+  "lastRunAt": "2026-09-09T11:50:17.411Z",
+  "lastSuccessAt": "2026-09-09T11:50:17.411Z",
+  "lastFetchAt": "2026-09-09T11:50:17.435Z",
+  "lastParseAt": "2026-09-09T11:50:17.411Z",
   "lastError": null,
   "consecutiveFailures": 0,
-  "lastSnapshotCount": 13,
+  "lastSnapshotCount": 12,
   "lastHeartbeatLocalDate": "2026-09-09",
   "lastHeartbeatSentAt": "2026-09-09T06:36:32.572Z",
   "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment"
