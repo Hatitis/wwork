@@ -5878,5 +5878,33 @@
       "rawText": "ReserveretKlassik 2-værelses bolig i Kgs. Lyngby Gedvad 7, 1., tv, 2800 Kongens Lyngby1. sal2 vær.42 m²7.715 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+    "occurredAt": "2026-09-10T14:59:55.979Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses ungdomsbolig i spændende ejendom!",
+    "summary": "Listing removed: 1-værelses ungdomsbolig i spændende ejendom!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+      "url": "https://udlejning.cej.dk/boliger/aa233e183a024cc39cf1facab9a3055c",
+      "title": "1-værelses ungdomsbolig i spændende ejendom!",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 37,
+      "monthlyPriceDkk": 7900,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-08T11:06:33.245Z",
+      "lastSeenAt": "2026-09-10T11:11:33.356Z",
+      "rawText": "Lukket for henvendelser1-værelses ungdomsbolig i spændende ejendom!Ved Stigbordene 10, 1., 10, 2450 København SV1. sal1 vær.37 m²7.900 kr./md"
+    },
+    "current": {}
   }
 ]
