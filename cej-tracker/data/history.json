@@ -5966,5 +5966,49 @@
       "rawText": "Reserveret1-værelses lejlighed centralt beliggende på Nørrebro Sigurdsgade 31, 2., 3, 2200 København N2. sal1 vær.31 m²8.300 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/8f600542e4efe01de9a10bf3350bf209",
+    "listingUrl": "https://udlejning.cej.dk/boliger/8f600542e4efe01de9a10bf3350bf209",
+    "occurredAt": "2026-09-11T10:33:12.797Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i København NV",
+    "summary": "New listing: Skøn 3-værelses lejlighed i København NV",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/8f600542e4efe01de9a10bf3350bf209",
+      "url": "https://udlejning.cej.dk/boliger/8f600542e4efe01de9a10bf3350bf209",
+      "title": "Skøn 3-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 3,
+      "sizeM2": 83.5,
+      "monthlyPriceDkk": 11538,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-11T10:33:12.797Z",
+      "lastSeenAt": "2026-09-11T10:33:12.797Z",
+      "rawText": "Lukket for henvendelserSkøn 3-værelses lejlighed i København NVHovmestervej 27, 3., tv, 2400 København NV3. sal3 vær.83.5 m²11.538 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/6f4d9871be3e4f15874692b65148c1b1",
+    "listingUrl": "https://udlejning.cej.dk/boliger/6f4d9871be3e4f15874692b65148c1b1",
+    "occurredAt": "2026-09-11T10:33:12.797Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-Værelses lejlighed på Frederiksberg med altan",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
