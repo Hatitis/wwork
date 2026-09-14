@@ -6010,5 +6010,33 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/0a57c28f7a7b445f0579751f5bfeb72a",
+    "listingUrl": "https://udlejning.cej.dk/boliger/0a57c28f7a7b445f0579751f5bfeb72a",
+    "occurredAt": "2026-09-14T07:09:33.801Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "3-værelses lejlighed i København NV",
+    "summary": "Listing removed: 3-værelses lejlighed i København NV",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/0a57c28f7a7b445f0579751f5bfeb72a",
+      "url": "https://udlejning.cej.dk/boliger/0a57c28f7a7b445f0579751f5bfeb72a",
+      "title": "3-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 3,
+      "sizeM2": 73,
+      "monthlyPriceDkk": 10290,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-31T14:15:55.632Z",
+      "lastSeenAt": "2026-09-14T01:42:33.772Z",
+      "rawText": "Reserveret3-værelses lejlighed i København NVTomsgårdsvej 85, 1., tv, 2400 København NV1. sal3 vær.73 m²10.290 kr./md"
+    },
+    "current": {}
   }
 ]
