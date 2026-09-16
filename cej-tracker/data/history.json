@@ -6166,5 +6166,49 @@
       "rawText": "ReserveretLys og rummelig 2-værelses lejlighed I København NVTomsgårdsvej 89, 4., tv, 2400 København NV4. sal2 vær.57 m²8.034 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/b69cf9f0ea044114afd2d05334c7857e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b69cf9f0ea044114afd2d05334c7857e",
+    "occurredAt": "2026-09-16T14:32:51.480Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 1-værelses lejlighed i Sluseholmen",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/53199c6b92404979af8161b69cb07150",
+    "listingUrl": "https://udlejning.cej.dk/boliger/53199c6b92404979af8161b69cb07150",
+    "occurredAt": "2026-09-16T14:32:51.480Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Moderne 1-værelses på Amagerbro!",
+    "summary": "Listing removed: Moderne 1-værelses på Amagerbro!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/53199c6b92404979af8161b69cb07150",
+      "url": "https://udlejning.cej.dk/boliger/53199c6b92404979af8161b69cb07150",
+      "title": "Moderne 1-værelses på Amagerbro!",
+      "address": "",
+      "locationText": "",
+      "floor": "5. sal",
+      "rooms": 1,
+      "sizeM2": 39,
+      "monthlyPriceDkk": 9650,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-08-31T14:15:55.632Z",
+      "lastSeenAt": "2026-09-16T09:52:42.060Z",
+      "rawText": "ReserveretModerne 1-værelses på Amagerbro!Uplandsgade 6B, 5., 514, 2300 København S5. sal1 vær.39 m²9.650 kr./md"
+    },
+    "current": {}
   }
 ]
