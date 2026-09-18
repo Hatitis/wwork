@@ -6266,5 +6266,33 @@
       "rawText": "ReserveretStudiebolig på teglholmen med hemsStøberigade 8, 4., 26, 2450 København SV4. sal1 vær.57 m²10.300 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/b69cf9f0ea044114afd2d05334c7857e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b69cf9f0ea044114afd2d05334c7857e",
+    "occurredAt": "2026-09-18T14:39:30.263Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 1-værelses lejlighed i Sluseholmen",
+    "summary": "Listing removed: Flot 1-værelses lejlighed i Sluseholmen",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/b69cf9f0ea044114afd2d05334c7857e",
+      "url": "https://udlejning.cej.dk/boliger/b69cf9f0ea044114afd2d05334c7857e",
+      "title": "Flot 1-værelses lejlighed i Sluseholmen",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 1,
+      "sizeM2": 37,
+      "monthlyPriceDkk": 7850,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-14T14:03:14.885Z",
+      "lastSeenAt": "2026-09-18T10:44:02.752Z",
+      "rawText": "ReserveretFlot 1-værelses lejlighed i SluseholmenVed Stigbordene 16, 2., 1, 2450 København SV2. sal1 vær.37 m²7.850 kr./md"
+    },
+    "current": {}
   }
 ]
