@@ -6322,5 +6322,37 @@
       "rawText": "Lukket for henvendelser1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 1., 6, 2000 Frederiksberg1. sal1 vær.27 m²6.620 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/8f600542e4efe01de9a10bf3350bf209",
+    "listingUrl": "https://udlejning.cej.dk/boliger/8f600542e4efe01de9a10bf3350bf209",
+    "occurredAt": "2026-09-21T16:58:01.486Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+    "occurredAt": "2026-09-21T16:58:01.486Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Klassisk skøn 2-værelses på Nørrebro",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
