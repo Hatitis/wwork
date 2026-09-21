@@ -6294,5 +6294,33 @@
       "rawText": "ReserveretFlot 1-værelses lejlighed i SluseholmenVed Stigbordene 16, 2., 1, 2450 København SV2. sal1 vær.37 m²7.850 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+    "listingUrl": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+    "occurredAt": "2026-09-21T10:58:58.341Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed på Frederiksberg",
+    "summary": "Listing removed: 1-værelses lejlighed på Frederiksberg",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+      "url": "https://udlejning.cej.dk/boliger/fe8dd164cad7df6cf02d982f4054559b",
+      "title": "1-værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 27,
+      "monthlyPriceDkk": 6620,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-03T09:41:40.087Z",
+      "lastSeenAt": "2026-09-21T05:24:44.247Z",
+      "rawText": "Lukket for henvendelser1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 1., 6, 2000 Frederiksberg1. sal1 vær.27 m²6.620 kr./md"
+    },
+    "current": {}
   }
 ]
