@@ -6410,5 +6410,61 @@
       "rawText": "ReserveretCharmerende 2-værelses lejlighed på Frederiksberg Rolfsvej 17, 3., th, 2000 Frederiksberg3. sal2 vær.53 m²8.637 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+    "occurredAt": "2026-09-22T14:08:44.086Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses bolig med central beliggenhed på Amager!",
+    "summary": "New listing: 2-værelses bolig med central beliggenhed på Amager!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+      "url": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+      "title": "2-værelses bolig med central beliggenhed på Amager!",
+      "address": "",
+      "locationText": "",
+      "floor": "5. sal",
+      "rooms": 2,
+      "sizeM2": 44,
+      "monthlyPriceDkk": 11300,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-22T14:08:44.086Z",
+      "lastSeenAt": "2026-09-22T14:08:44.086Z",
+      "rawText": "2-værelses bolig med central beliggenhed på Amager!Uplandsgade 6A, 5., 506, 2300 København S5. sal2 vær.44 m²11.300 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/eaa58127c87427807718a69f56fd4d1f",
+    "listingUrl": "https://udlejning.cej.dk/boliger/eaa58127c87427807718a69f56fd4d1f",
+    "occurredAt": "2026-09-22T14:08:44.086Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses centralt på Amager",
+    "summary": "New listing: Skøn 2-værelses centralt på Amager",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/eaa58127c87427807718a69f56fd4d1f",
+      "url": "https://udlejning.cej.dk/boliger/eaa58127c87427807718a69f56fd4d1f",
+      "title": "Skøn 2-værelses centralt på Amager",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 54,
+      "monthlyPriceDkk": 8627,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-22T14:08:44.086Z",
+      "lastSeenAt": "2026-09-22T14:08:44.086Z",
+      "rawText": "Lukket for henvendelserSkøn 2-værelses centralt på AmagerØresundsvej 19, st., th, 2300 København SStuen2 vær.54 m²8.627 kr./md"
+    }
   }
 ]
