@@ -6466,5 +6466,21 @@
       "lastSeenAt": "2026-09-22T14:08:44.086Z",
       "rawText": "Lukket for henvendelserSkøn 2-værelses centralt på AmagerØresundsvej 19, st., th, 2300 København SStuen2 vær.54 m²8.627 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+    "occurredAt": "2026-09-23T12:19:28.019Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses bolig med central beliggenhed på Amager!",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
