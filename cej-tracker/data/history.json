@@ -6482,5 +6482,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+    "occurredAt": "2026-09-25T12:17:49.445Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses i København N",
+    "summary": "New listing: 1-værelses i København N",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+      "url": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+      "title": "1-værelses i København N",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 33,
+      "monthlyPriceDkk": 8975,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-25T12:17:49.445Z",
+      "lastSeenAt": "2026-09-25T12:17:49.445Z",
+      "rawText": "1-værelses i København NSigurdsgade 27A, 2200 København NStuen1 vær.33 m²8.975 kr./md"
+    }
   }
 ]
