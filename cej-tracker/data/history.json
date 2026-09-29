@@ -6554,5 +6554,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/04a4f2c2d20ae635a676da8a59581e08",
+    "listingUrl": "https://udlejning.cej.dk/boliger/04a4f2c2d20ae635a676da8a59581e08",
+    "occurredAt": "2026-09-29T12:40:33.334Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Klassisk 2-værelsesbolig med udsigt over Rungsted havn!",
+    "summary": "New listing: Klassisk 2-værelsesbolig med udsigt over Rungsted havn!",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/04a4f2c2d20ae635a676da8a59581e08",
+      "url": "https://udlejning.cej.dk/boliger/04a4f2c2d20ae635a676da8a59581e08",
+      "title": "Klassisk 2-værelsesbolig med udsigt over Rungsted havn!",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 68,
+      "monthlyPriceDkk": 10761,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-29T12:40:33.334Z",
+      "lastSeenAt": "2026-09-29T12:40:33.334Z",
+      "rawText": "Klassisk 2-værelsesbolig med udsigt over Rungsted havn! Rungstedvej 92, 1., tv, 2960 Rungsted Kyst1. sal2 vær.68 m²10.761 kr./md"
+    }
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "id": "https://udlejning.cej.dk/boliger/04a4f2c2d20ae635a676da8a59581e08",
+    "url": "https://udlejning.cej.dk/boliger/04a4f2c2d20ae635a676da8a59581e08",
+    "title": "Klassisk 2-værelsesbolig med udsigt over Rungsted havn!",
+    "address": "",
+    "locationText": "",
+    "floor": "1. sal",
+    "rooms": 2,
+    "sizeM2": 68,
+    "monthlyPriceDkk": 10761,
+    "status": "ACTIVE",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "firstSeenAt": "2026-09-29T12:40:33.334Z",
+    "lastSeenAt": "2026-09-29T12:40:33.334Z",
+    "rawText": "Klassisk 2-værelsesbolig med udsigt over Rungsted havn! Rungstedvej 92, 1., tv, 2960 Rungsted Kyst1. sal2 vær.68 m²10.761 kr./md"
+  },
+  {
     "id": "https://udlejning.cej.dk/boliger/ca6b633c0fa9497f8b0f826cac92197a",
     "url": "https://udlejning.cej.dk/boliger/ca6b633c0fa9497f8b0f826cac92197a",
     "title": "Rummelig og lys 2-Værelses lejlighed i København NV",
@@ -13,7 +30,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-28T13:41:24.192Z",
-    "lastSeenAt": "2026-09-29T05:59:51.350Z",
+    "lastSeenAt": "2026-09-29T12:40:33.334Z",
     "rawText": "Lukket for henvendelserRummelig og lys 2-Værelses lejlighed i København NVTomsgårdsvej 97, 3., tv, 2400 København NV3. sal2 vær.57 m²8.073 kr./md"
   },
   {
@@ -30,7 +47,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-25T12:17:49.445Z",
-    "lastSeenAt": "2026-09-29T05:59:51.350Z",
+    "lastSeenAt": "2026-09-29T12:40:33.334Z",
     "rawText": "Lukket for henvendelser1-værelses i København NSigurdsgade 27A, 2200 København NStuen1 vær.33 m²8.975 kr./md"
   },
   {
@@ -47,7 +64,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-22T14:08:44.086Z",
-    "lastSeenAt": "2026-09-29T05:59:51.350Z",
+    "lastSeenAt": "2026-09-29T12:40:33.334Z",
     "rawText": "Lukket for henvendelser2-værelses bolig med central beliggenhed på Amager!Uplandsgade 6A, 5., 506, 2300 København S5. sal2 vær.44 m²11.300 kr./md"
   },
   {
@@ -64,7 +81,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-22T14:08:44.086Z",
-    "lastSeenAt": "2026-09-29T05:59:51.350Z",
+    "lastSeenAt": "2026-09-29T12:40:33.334Z",
     "rawText": "Lukket for henvendelserSkøn 2-værelses centralt på AmagerØresundsvej 19, st., th, 2300 København SStuen2 vær.54 m²8.627 kr./md"
   },
   {
@@ -81,7 +98,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-09T11:50:17.411Z",
-    "lastSeenAt": "2026-09-29T05:59:51.350Z",
+    "lastSeenAt": "2026-09-29T12:40:33.334Z",
     "rawText": "ReserveretKlassisk skøn 2-værelses på NørrebroRådmandsgade 10, 1., th, 2200 København N1. sal2 vær.51 m²8.500 kr./md"
   }
 ]
