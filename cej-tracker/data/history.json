@@ -6582,5 +6582,33 @@
       "lastSeenAt": "2026-09-29T12:40:33.334Z",
       "rawText": "Klassisk 2-værelsesbolig med udsigt over Rungsted havn! Rungstedvej 92, 1., tv, 2960 Rungsted Kyst1. sal2 vær.68 m²10.761 kr./md"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+    "occurredAt": "2026-09-30T13:44:45.394Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses bolig med central beliggenhed på Amager!",
+    "summary": "Listing removed: 2-værelses bolig med central beliggenhed på Amager!",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+      "url": "https://udlejning.cej.dk/boliger/7d36ef67ac1a42169a18dfa7beed6475",
+      "title": "2-værelses bolig med central beliggenhed på Amager!",
+      "address": "",
+      "locationText": "",
+      "floor": "5. sal",
+      "rooms": 2,
+      "sizeM2": 44,
+      "monthlyPriceDkk": 11300,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-22T14:08:44.086Z",
+      "lastSeenAt": "2026-09-30T07:10:01.514Z",
+      "rawText": "Lukket for henvendelser2-værelses bolig med central beliggenhed på Amager!Uplandsgade 6A, 5., 506, 2300 København S5. sal2 vær.44 m²11.300 kr./md"
+    },
+    "current": {}
   }
 ]
