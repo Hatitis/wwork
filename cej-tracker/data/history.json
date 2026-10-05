@@ -6638,5 +6638,33 @@
       "rawText": "Lukket for henvendelserSkøn 2-værelses centralt på AmagerØresundsvej 19, st., th, 2300 København SStuen2 vær.54 m²8.627 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+    "occurredAt": "2026-10-05T12:42:37.815Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Klassisk skøn 2-værelses på Nørrebro",
+    "summary": "Listing removed: Klassisk skøn 2-værelses på Nørrebro",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+      "url": "https://udlejning.cej.dk/boliger/72798d32de312bffda3f08db5f00c92d",
+      "title": "Klassisk skøn 2-værelses på Nørrebro",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 51,
+      "monthlyPriceDkk": 8500,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-09T11:50:17.411Z",
+      "lastSeenAt": "2026-10-05T05:44:14.425Z",
+      "rawText": "ReserveretKlassisk skøn 2-værelses på NørrebroRådmandsgade 10, 1., th, 2200 København N1. sal2 vær.51 m²8.500 kr./md"
+    },
+    "current": {}
   }
 ]
