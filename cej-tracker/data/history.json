@@ -6666,5 +6666,37 @@
       "rawText": "ReserveretKlassisk skøn 2-værelses på NørrebroRådmandsgade 10, 1., th, 2200 København N1. sal2 vær.51 m²8.500 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/ca6b633c0fa9497f8b0f826cac92197a",
+    "listingUrl": "https://udlejning.cej.dk/boliger/ca6b633c0fa9497f8b0f826cac92197a",
+    "occurredAt": "2026-10-06T08:05:38.838Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Rummelig og lys 2-Værelses lejlighed i København NV",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+    "occurredAt": "2026-10-06T08:05:38.838Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses i København N",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]

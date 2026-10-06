@@ -13,7 +13,7 @@
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-29T12:40:33.334Z",
-    "lastSeenAt": "2026-10-06T01:33:09.660Z",
+    "lastSeenAt": "2026-10-06T08:05:38.838Z",
     "rawText": "Klassisk 2-værelsesbolig med udsigt over Rungsted havn! Rungstedvej 92, 1., tv, 2960 Rungsted Kyst1. sal2 vær.68 m²10.761 kr./md"
   },
   {
@@ -26,12 +26,12 @@
     "rooms": 2,
     "sizeM2": 57,
     "monthlyPriceDkk": 8073,
-    "status": "Lukket for henvendelser",
+    "status": "Reserveret",
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-28T13:41:24.192Z",
-    "lastSeenAt": "2026-10-06T01:33:09.660Z",
-    "rawText": "Lukket for henvendelserRummelig og lys 2-Værelses lejlighed i København NVTomsgårdsvej 97, 3., tv, 2400 København NV3. sal2 vær.57 m²8.073 kr./md"
+    "lastSeenAt": "2026-10-06T08:05:38.838Z",
+    "rawText": "ReserveretRummelig og lys 2-Værelses lejlighed i København NVTomsgårdsvej 97, 3., tv, 2400 København NV3. sal2 vær.57 m²8.073 kr./md"
   },
   {
     "id": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
@@ -43,11 +43,11 @@
     "rooms": 1,
     "sizeM2": 33,
     "monthlyPriceDkk": 8975,
-    "status": "Lukket for henvendelser",
+    "status": "Reserveret",
     "source": "cej",
     "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
     "firstSeenAt": "2026-09-25T12:17:49.445Z",
-    "lastSeenAt": "2026-10-06T01:33:09.660Z",
-    "rawText": "Lukket for henvendelser1-værelses i København NSigurdsgade 27A, 2200 København NStuen1 vær.33 m²8.975 kr./md"
+    "lastSeenAt": "2026-10-06T08:05:38.838Z",
+    "rawText": "Reserveret1-værelses i København NSigurdsgade 27A, 2200 København NStuen1 vær.33 m²8.975 kr./md"
   }
 ]
