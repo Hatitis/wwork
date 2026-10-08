@@ -6786,5 +6786,21 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+    "listingUrl": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+    "occurredAt": "2026-10-08T08:53:19.243Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-Værelses lejlighed på Nørrebro",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
