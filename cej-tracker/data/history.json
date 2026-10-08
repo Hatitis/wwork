@@ -6802,5 +6802,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+    "occurredAt": "2026-10-08T16:06:49.067Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 1-Værelses lejlighed på Frederiksberg",
+    "summary": "New listing: Charmerende 1-Værelses lejlighed på Frederiksberg",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+      "url": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+      "title": "Charmerende 1-Værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 8336,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-10-08T16:06:49.067Z",
+      "lastSeenAt": "2026-10-08T16:06:49.067Z",
+      "rawText": "Charmerende 1-Værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 1, 2000 Frederiksberg3. sal1 vær.34 m²8.336 kr./md"
+    }
   }
 ]
