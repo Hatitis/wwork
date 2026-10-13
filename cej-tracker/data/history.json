@@ -6874,5 +6874,49 @@
       "lastSeenAt": "2026-10-12T08:21:25.977Z",
       "rawText": "Lukket for henvendelserCharmerende 2-Værelses lejlighed på NørrebroPeter Fabers Gade 40, st., tv, 2200 København NStuen2 vær.45 m²7.011 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/3be7dc7f772745bca742a5d67b6c1cd7",
+    "listingUrl": "https://udlejning.cej.dk/boliger/3be7dc7f772745bca742a5d67b6c1cd7",
+    "occurredAt": "2026-10-13T14:58:46.777Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses studiebolig i Sydhavnen",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+    "listingUrl": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+    "occurredAt": "2026-10-13T14:58:46.777Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses i København N",
+    "summary": "Listing removed: 1-værelses i København N",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+      "url": "https://udlejning.cej.dk/boliger/e4fe1baee9d4471fa176bdb596cac221",
+      "title": "1-værelses i København N",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 33,
+      "monthlyPriceDkk": 8975,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-09-25T12:17:49.445Z",
+      "lastSeenAt": "2026-10-13T07:04:34.682Z",
+      "rawText": "Reserveret1-værelses i København NSigurdsgade 27A, 2200 København NStuen1 vær.33 m²8.975 kr./md"
+    },
+    "current": {}
   }
 ]
