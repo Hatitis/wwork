@@ -6918,5 +6918,21 @@
       "rawText": "Reserveret1-værelses i København NSigurdsgade 27A, 2200 København NStuen1 vær.33 m²8.975 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/4d5e17c521104da08ec26928d8a71a84",
+    "listingUrl": "https://udlejning.cej.dk/boliger/4d5e17c521104da08ec26928d8a71a84",
+    "occurredAt": "2026-10-15T09:35:50.331Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-Værelses lejlighed på Nørrebro",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
