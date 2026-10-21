@@ -7090,5 +7090,21 @@
       "rawText": "ReserveretRummelig og lys 2-Værelses lejlighed i København NVTomsgårdsvej 97, 3., tv, 2400 København NV3. sal2 vær.57 m²8.073 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+    "listingUrl": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+    "occurredAt": "2026-10-21T07:30:14.438Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-Værelses lejlighed på Nørrebro",
+    "summary": "Status changed: Lukket for henvendelser -> ACTIVE",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "ACTIVE"
+    }
   }
 ]
