@@ -7106,5 +7106,61 @@
     "current": {
       "status": "ACTIVE"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "occurredAt": "2026-10-22T14:44:20.250Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 3-værelses bolig med central beliggenhed i Næstved",
+    "summary": "New listing: Flot 3-værelses bolig med central beliggenhed i Næstved",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+      "url": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+      "title": "Flot 3-værelses bolig med central beliggenhed i Næstved",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 3,
+      "sizeM2": 100,
+      "monthlyPriceDkk": 8364,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-10-22T14:44:20.250Z",
+      "lastSeenAt": "2026-10-22T14:44:20.250Z",
+      "rawText": "Flot 3-værelses bolig med central beliggenhed i NæstvedGrønnegade 37C, 1., tv, 4700 Næstved1. sal3 vær.100 m²8.364 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+    "occurredAt": "2026-10-22T14:44:20.250Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 1-Værelses lejlighed på Frederiksberg",
+    "summary": "Listing removed: Charmerende 1-Værelses lejlighed på Frederiksberg",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+      "url": "https://udlejning.cej.dk/boliger/600730621597da4fe4b0f84cd6bf9c4d",
+      "title": "Charmerende 1-Værelses lejlighed på Frederiksberg",
+      "address": "",
+      "locationText": "",
+      "floor": "3. sal",
+      "rooms": 1,
+      "sizeM2": 34,
+      "monthlyPriceDkk": 8336,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-10-08T16:06:49.067Z",
+      "lastSeenAt": "2026-10-22T09:50:17.797Z",
+      "rawText": "ReserveretCharmerende 1-Værelses lejlighed på FrederiksbergNordre Fasanvej 119, 3., 1, 2000 Frederiksberg3. sal1 vær.34 m²8.336 kr./md"
+    },
+    "current": {}
   }
 ]
