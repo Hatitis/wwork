@@ -7238,5 +7238,49 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "occurredAt": "2026-11-02T13:52:15.318Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 3-værelses bolig med central beliggenhed i Næstved",
+    "summary": "Status changed: Reserveret -> ACTIVE",
+    "previous": {
+      "status": "Reserveret"
+    },
+    "current": {
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+    "listingUrl": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+    "occurredAt": "2026-11-02T13:52:15.318Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-Værelses lejlighed på Nørrebro",
+    "summary": "Listing removed: 1-Værelses lejlighed på Nørrebro",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+      "url": "https://udlejning.cej.dk/boliger/6598100068eb44beab8d7894e489c0a7",
+      "title": "1-Værelses lejlighed på Nørrebro",
+      "address": "",
+      "locationText": "",
+      "floor": "Stuen",
+      "rooms": 1,
+      "sizeM2": 31,
+      "monthlyPriceDkk": 8500,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-10-07T11:04:41.464Z",
+      "lastSeenAt": "2026-11-02T05:43:59.607Z",
+      "rawText": "Reserveret1-Værelses lejlighed på NørrebroSigurdsgade 27C, 2200 København NStuen1 vær.31 m²8.500 kr./md"
+    },
+    "current": {}
   }
 ]
