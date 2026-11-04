@@ -7338,5 +7338,21 @@
       "lastSeenAt": "2026-11-03T11:22:55.896Z",
       "rawText": "Lukket for henvendelserCharmerende 1-værelses lejlighed på FrederiksbergNordre Fasanvej 119, 4., 11, 2000 Frederiksberg4. sal1 vær.27 m²6.620 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/dc755e46593537eac9528496e51e2d6e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/dc755e46593537eac9528496e51e2d6e",
+    "occurredAt": "2026-11-04T11:13:25.956Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i KBH NV med 2 altaner",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
