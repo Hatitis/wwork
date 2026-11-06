@@ -7354,5 +7354,89 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/a240838d5ae84abf9b42e48aed947aad",
+    "listingUrl": "https://udlejning.cej.dk/boliger/a240838d5ae84abf9b42e48aed947aad",
+    "occurredAt": "2026-11-06T16:11:35.668Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed på Nørrebro",
+    "summary": "New listing: Skøn 1-værelses lejlighed på Nørrebro",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/a240838d5ae84abf9b42e48aed947aad",
+      "url": "https://udlejning.cej.dk/boliger/a240838d5ae84abf9b42e48aed947aad",
+      "title": "Skøn 1-værelses lejlighed på Nørrebro",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 31,
+      "monthlyPriceDkk": 8500,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-11-06T16:11:35.668Z",
+      "lastSeenAt": "2026-11-06T16:11:35.668Z",
+      "rawText": "Skøn 1-værelses lejlighed på NørrebroSigurdsgade 31, 1., 8, 2200 København N1. sal1 vær.31 m²8.500 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/dc755e46593537eac9528496e51e2d6e",
+    "listingUrl": "https://udlejning.cej.dk/boliger/dc755e46593537eac9528496e51e2d6e",
+    "occurredAt": "2026-11-06T16:11:35.668Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 3-værelses lejlighed i KBH NV med 2 altaner",
+    "summary": "Listing removed: Skøn 3-værelses lejlighed i KBH NV med 2 altaner",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/dc755e46593537eac9528496e51e2d6e",
+      "url": "https://udlejning.cej.dk/boliger/dc755e46593537eac9528496e51e2d6e",
+      "title": "Skøn 3-værelses lejlighed i KBH NV med 2 altaner",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 3,
+      "sizeM2": 73,
+      "monthlyPriceDkk": 10078,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-10-27T16:26:08.650Z",
+      "lastSeenAt": "2026-11-06T08:28:52.953Z",
+      "rawText": "ReserveretSkøn 3-værelses lejlighed i KBH NV med 2 altanerHovmestervej 43, 2., tv, 2400 København NV2. sal3 vær.73 m²10.078 kr./md"
+    },
+    "current": {}
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/5246f9bf4dad717840ebcb923e0b4550",
+    "listingUrl": "https://udlejning.cej.dk/boliger/5246f9bf4dad717840ebcb923e0b4550",
+    "occurredAt": "2026-11-06T16:11:35.668Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 2-værelses lejlighed i København NV",
+    "summary": "Listing removed: Skøn 2-værelses lejlighed i København NV",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/5246f9bf4dad717840ebcb923e0b4550",
+      "url": "https://udlejning.cej.dk/boliger/5246f9bf4dad717840ebcb923e0b4550",
+      "title": "Skøn 2-værelses lejlighed i København NV",
+      "address": "",
+      "locationText": "",
+      "floor": "4. sal",
+      "rooms": 2,
+      "sizeM2": 57.6,
+      "monthlyPriceDkk": 7975,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-10-19T14:25:45.789Z",
+      "lastSeenAt": "2026-11-06T08:28:52.953Z",
+      "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed i København NVTingskrivervej 16, 4., tv, 2400 København NV4. sal2 vær.57.6 m²7.975 kr./md"
+    },
+    "current": {}
   }
 ]
