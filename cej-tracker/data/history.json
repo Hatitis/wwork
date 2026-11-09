@@ -7438,5 +7438,105 @@
       "rawText": "Lukket for henvendelserSkøn 2-værelses lejlighed i København NVTingskrivervej 16, 4., tv, 2400 København NV4. sal2 vær.57.6 m²7.975 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/b99c5d12d09947a1a9c764fda2f98bb9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b99c5d12d09947a1a9c764fda2f98bb9",
+    "occurredAt": "2026-11-09T10:16:59.482Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og moderne 2-værelses i Ballerup 2750",
+    "summary": "New listing: Lys og moderne 2-værelses i Ballerup 2750",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/b99c5d12d09947a1a9c764fda2f98bb9",
+      "url": "https://udlejning.cej.dk/boliger/b99c5d12d09947a1a9c764fda2f98bb9",
+      "title": "Lys og moderne 2-værelses i Ballerup 2750",
+      "address": "Lys og moderne 2-værelses i Ballerup 2750",
+      "locationText": "Lys og moderne 2-værelses i Ballerup 2750",
+      "floor": "Stuen",
+      "rooms": 2,
+      "sizeM2": 75,
+      "monthlyPriceDkk": 10875,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-11-09T10:16:59.482Z",
+      "lastSeenAt": "2026-11-09T10:16:59.482Z",
+      "rawText": "Lys og moderne 2-værelses i Ballerup 2750Lautruphøj 3E, st., tv, 2750 BallerupStuen2 vær.75 m²10.875 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/c3c11e78e7ef4ee3962a36e68e4a1783",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c3c11e78e7ef4ee3962a36e68e4a1783",
+    "occurredAt": "2026-11-09T10:16:59.482Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 2-værelses lejlighed på Frederiksborgvej",
+    "summary": "New listing: Charmerende 2-værelses lejlighed på Frederiksborgvej",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/c3c11e78e7ef4ee3962a36e68e4a1783",
+      "url": "https://udlejning.cej.dk/boliger/c3c11e78e7ef4ee3962a36e68e4a1783",
+      "title": "Charmerende 2-værelses lejlighed på Frederiksborgvej",
+      "address": "",
+      "locationText": "",
+      "floor": "2. sal",
+      "rooms": 2,
+      "sizeM2": 58,
+      "monthlyPriceDkk": 8030,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-11-09T10:16:59.482Z",
+      "lastSeenAt": "2026-11-09T10:16:59.482Z",
+      "rawText": "Lukket for henvendelserCharmerende 2-værelses lejlighed på Frederiksborgvej Frederiksborgvej 95, 2., th, 2400 København NV2. sal2 vær.58 m²8.030 kr./md"
+    }
+  },
+  {
+    "type": "LISTING_NEW",
+    "listingId": "https://udlejning.cej.dk/boliger/1ba3474446084e008ea280f1e0b65acf",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1ba3474446084e008ea280f1e0b65acf",
+    "occurredAt": "2026-11-09T10:16:59.482Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "2-værelses studiebolig på Teglholmen",
+    "summary": "New listing: 2-værelses studiebolig på Teglholmen",
+    "previous": {},
+    "current": {
+      "id": "https://udlejning.cej.dk/boliger/1ba3474446084e008ea280f1e0b65acf",
+      "url": "https://udlejning.cej.dk/boliger/1ba3474446084e008ea280f1e0b65acf",
+      "title": "2-værelses studiebolig på Teglholmen",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 2,
+      "sizeM2": 50,
+      "monthlyPriceDkk": 9700,
+      "status": "ACTIVE",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-11-09T10:16:59.482Z",
+      "lastSeenAt": "2026-11-09T10:16:59.482Z",
+      "rawText": "2-værelses studiebolig på TeglholmenStøberigade 8, 1., 11, 2450 København SV1. sal2 vær.50 m²9.700 kr./md"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/1b6334aec36560ca3c6f4c65e0a32fb6",
+    "listingUrl": "https://udlejning.cej.dk/boliger/1b6334aec36560ca3c6f4c65e0a32fb6",
+    "occurredAt": "2026-11-09T10:16:59.482Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Charmerende 1-værelses lejlighed på Frederiksberg",
+    "summary": "Status changed: Lukket for henvendelser -> Reserveret",
+    "previous": {
+      "status": "Lukket for henvendelser"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
