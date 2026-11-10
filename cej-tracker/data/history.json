@@ -7538,5 +7538,37 @@
     "current": {
       "status": "Reserveret"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/a240838d5ae84abf9b42e48aed947aad",
+    "listingUrl": "https://udlejning.cej.dk/boliger/a240838d5ae84abf9b42e48aed947aad",
+    "occurredAt": "2026-11-10T11:02:44.241Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Skøn 1-værelses lejlighed på Nørrebro",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "occurredAt": "2026-11-10T11:02:44.241Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 3-værelses bolig med central beliggenhed i Næstved",
+    "summary": "Status changed: ACTIVE -> Reserveret",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Reserveret"
+    }
   }
 ]
