@@ -7586,5 +7586,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "listingUrl": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+    "occurredAt": "2026-11-12T16:45:01.006Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Flot 3-værelses bolig med central beliggenhed i Næstved",
+    "summary": "Listing removed: Flot 3-værelses bolig med central beliggenhed i Næstved",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+      "url": "https://udlejning.cej.dk/boliger/7fd5bbeb96b04889b136eb53f92f618d",
+      "title": "Flot 3-værelses bolig med central beliggenhed i Næstved",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 3,
+      "sizeM2": 100,
+      "monthlyPriceDkk": 8364,
+      "status": "Reserveret",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-10-22T14:44:20.250Z",
+      "lastSeenAt": "2026-11-12T07:59:58.442Z",
+      "rawText": "ReserveretFlot 3-værelses bolig med central beliggenhed i NæstvedGrønnegade 37C, 1., tv, 4700 Næstved1. sal3 vær.100 m²8.364 kr./md"
+    },
+    "current": {}
   }
 ]
