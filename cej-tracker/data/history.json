@@ -7614,5 +7614,21 @@
       "rawText": "ReserveretFlot 3-værelses bolig med central beliggenhed i NæstvedGrønnegade 37C, 1., tv, 4700 Næstved1. sal3 vær.100 m²8.364 kr./md"
     },
     "current": {}
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/b99c5d12d09947a1a9c764fda2f98bb9",
+    "listingUrl": "https://udlejning.cej.dk/boliger/b99c5d12d09947a1a9c764fda2f98bb9",
+    "occurredAt": "2026-11-13T10:21:24.874Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Lys og moderne 2-værelses i Ballerup 2750",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
