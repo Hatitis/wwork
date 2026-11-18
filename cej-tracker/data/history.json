@@ -7814,5 +7814,21 @@
       "lastSeenAt": "2026-11-17T17:28:46.852Z",
       "rawText": "1-værelses bolig i NæstvedPræstøvej 37A, 1., 12, 4700 Næstved1. sal1 vær.40 m²3.780 kr./md"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/f3829d57ee314e959ae8f840a194520c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f3829d57ee314e959ae8f840a194520c",
+    "occurredAt": "2026-11-18T15:58:45.424Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Ungdomsbolig på Sluseholmen - privat bolig med ekstraordinære fællesfaciliteter",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
