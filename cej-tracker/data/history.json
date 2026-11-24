@@ -7830,5 +7830,37 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/6d08cd39cc244b488ce289d39fd54fd5",
+    "listingUrl": "https://udlejning.cej.dk/boliger/6d08cd39cc244b488ce289d39fd54fd5",
+    "occurredAt": "2026-11-24T17:40:22.310Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses lejlighed i Næstved",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
+  },
+  {
+    "type": "STATUS_CHANGED",
+    "listingId": "https://udlejning.cej.dk/boliger/c0657d0c03844f76b8e31c0ffac95f2a",
+    "listingUrl": "https://udlejning.cej.dk/boliger/c0657d0c03844f76b8e31c0ffac95f2a",
+    "occurredAt": "2026-11-24T17:40:22.310Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "1-værelses bolig i Næstved",
+    "summary": "Status changed: ACTIVE -> Lukket for henvendelser",
+    "previous": {
+      "status": "ACTIVE"
+    },
+    "current": {
+      "status": "Lukket for henvendelser"
+    }
   }
 ]
