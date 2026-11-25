@@ -7862,5 +7862,33 @@
     "current": {
       "status": "Lukket for henvendelser"
     }
+  },
+  {
+    "type": "LISTING_REMOVED",
+    "listingId": "https://udlejning.cej.dk/boliger/f3829d57ee314e959ae8f840a194520c",
+    "listingUrl": "https://udlejning.cej.dk/boliger/f3829d57ee314e959ae8f840a194520c",
+    "occurredAt": "2026-11-25T20:05:39.683Z",
+    "source": "cej",
+    "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+    "title": "Ungdomsbolig på Sluseholmen - privat bolig med ekstraordinære fællesfaciliteter",
+    "summary": "Listing removed: Ungdomsbolig på Sluseholmen - privat bolig med ekstraordinære fællesfaciliteter",
+    "previous": {
+      "id": "https://udlejning.cej.dk/boliger/f3829d57ee314e959ae8f840a194520c",
+      "url": "https://udlejning.cej.dk/boliger/f3829d57ee314e959ae8f840a194520c",
+      "title": "Ungdomsbolig på Sluseholmen - privat bolig med ekstraordinære fællesfaciliteter",
+      "address": "",
+      "locationText": "",
+      "floor": "1. sal",
+      "rooms": 1,
+      "sizeM2": 37,
+      "monthlyPriceDkk": 7350,
+      "status": "Lukket for henvendelser",
+      "source": "cej",
+      "searchUrl": "https://udlejning.cej.dk/find-bolig/overblik?collection=residences&monthlyPrice=0-12000&p=sj%C3%A6lland%2Ck%C3%B8benhavn&types=apartment",
+      "firstSeenAt": "2026-11-17T17:28:46.852Z",
+      "lastSeenAt": "2026-11-25T10:28:19.535Z",
+      "rawText": "Lukket for henvendelserUngdomsbolig på Sluseholmen - privat bolig med ekstraordinære fællesfaciliteterVed Stigbordene 14, 1., 10, 2450 København SV1. sal1 vær.37 m²7.350 kr./md"
+    },
+    "current": {}
   }
 ]
